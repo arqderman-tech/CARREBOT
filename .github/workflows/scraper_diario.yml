@@ -1,8 +1,13 @@
 name: Scraper Diario Carrefour
+
 on:
   schedule:
     - cron: '0 12 * * *'   # 9:00 AM Argentina (UTC-3)
   workflow_dispatch:
+
+# Esta es la sección que faltaba para arreglar el error 403
+permissions:
+  contents: write
 
 jobs:
   scraper:
@@ -11,8 +16,7 @@ jobs:
     steps:
       - name: Checkout repo
         uses: actions/checkout@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+        # Eliminamos el token de aquí para usar el permiso global
 
       - name: Setup Python
         uses: actions/setup-python@v5
@@ -20,7 +24,8 @@ jobs:
           python-version: '3.11'
 
       - name: Instalar dependencias
-        run: pip install requests pandas tweepy
+        run: |
+          pip install requests pandas tweepy
 
       - name: Crear directorios
         run: mkdir -p output_carrefour data docs
@@ -39,8 +44,8 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add data/ docs/
-          git diff --staged --quiet || git commit -m "📊 Datos Carrefour $(date +'%Y-%m-%d')"
-          git push
+          # Solo hace commit si hay cambios reales para evitar errores
+          git diff --staged --quiet || (git commit -m "📊 Datos Carrefour $(date +'%Y-%m-%d')" && git push)
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -53,3 +58,4 @@ jobs:
           X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
           X_ACCESS_SECRET: ${{ secrets.X_ACCESS_SECRET }}
           WEB_URL: https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}
+          
