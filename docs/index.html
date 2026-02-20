@@ -78,15 +78,15 @@
     <h1>🛒 CARREFOUR PRICE TRACKER</h1>
     <div style="color:var(--muted);font-size:0.8rem;margin-top:0.2rem">Seguimiento diario de precios del supermercado</div>
   </div>
-  <div class="fecha">Última actualización: 19/02/2026 21:25</div>
+  <div class="fecha">Última actualización: 20/02/2026 14:27</div>
 </header>
 
 <div class="container">
   <div class="hero" style="margin-top:1.5rem">
     <div class="stat-card">
       <div class="label">Variación Hoy</div>
-      <div class="value" style="color:#888">—</div>
-      <div class="sub">24804 productos relevados</div>
+      <div class="value" style="color:#ef4444">+0.11%</div>
+      <div class="sub">24800 productos relevados</div>
     </div>
     <div class="stat-card">
       <div class="label">Variación 30 días</div>
@@ -99,9 +99,9 @@
     <div class="stat-card">
       <div class="label">Movimiento Hoy</div>
       <div style="display:flex;justify-content:center;gap:1rem;margin-top:0.5rem">
-        <div><div style="color:#ef4444;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬆ 0</div><div style="font-size:0.7rem;color:var(--muted)">Subieron</div></div>
-        <div><div style="color:#22c55e;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬇ 0</div><div style="font-size:0.7rem;color:var(--muted)">Bajaron</div></div>
-        <div><div style="color:#888;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">➡ 0</div><div style="font-size:0.7rem;color:var(--muted)">Igual</div></div>
+        <div><div style="color:#ef4444;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬆ 608</div><div style="font-size:0.7rem;color:var(--muted)">Subieron</div></div>
+        <div><div style="color:#22c55e;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">⬇ 144</div><div style="font-size:0.7rem;color:var(--muted)">Bajaron</div></div>
+        <div><div style="color:#888;font-size:1.3rem;font-weight:700;font-family:'IBM Plex Mono',monospace">➡ 24040</div><div style="font-size:0.7rem;color:var(--muted)">Igual</div></div>
       </div>
     </div>
   </div>
@@ -128,7 +128,56 @@
     <div class="table-wrap">
       <table>
         <thead><tr><th>Categoría</th><th>Variación %</th><th>Subieron</th><th>Bajaron</th><th>Total</th></tr></thead>
-        <tbody></tbody>
+        <tbody>
+        <tr>
+          <td>Almacén</td>
+          <td style="color:#ef4444;font-weight:700">+0.02%</td>
+          <td style="color:#ef4444">⬆ 13</td>
+          <td style="color:#22c55e">⬇ 4</td>
+          <td>9383</td>
+        </tr>
+        <tr>
+          <td>Frescos</td>
+          <td style="color:#ef4444;font-weight:700">+0.06%</td>
+          <td style="color:#ef4444">⬆ 65</td>
+          <td style="color:#22c55e">⬇ 18</td>
+          <td>3400</td>
+        </tr>
+        <tr>
+          <td>Congelados</td>
+          <td style="color:#ef4444;font-weight:700">+0.09%</td>
+          <td style="color:#ef4444">⬆ 43</td>
+          <td style="color:#22c55e">⬇ 9</td>
+          <td>988</td>
+        </tr>
+        <tr>
+          <td>Bebidas Con Alcohol</td>
+          <td style="color:#ef4444;font-weight:700">+0.09%</td>
+          <td style="color:#ef4444">⬆ 58</td>
+          <td style="color:#22c55e">⬇ 5</td>
+          <td>2517</td>
+        </tr>
+        <tr>
+          <td>Bebidas Sin Alcohol</td>
+          <td style="color:#ef4444;font-weight:700">+0.06%</td>
+          <td style="color:#ef4444">⬆ 28</td>
+          <td style="color:#22c55e">⬇ 15</td>
+          <td>1203</td>
+        </tr>
+        <tr>
+          <td>Limpieza</td>
+          <td style="color:#ef4444;font-weight:700">+0.19%</td>
+          <td style="color:#ef4444">⬆ 104</td>
+          <td style="color:#22c55e">⬇ 40</td>
+          <td>2570</td>
+        </tr>
+        <tr>
+          <td>Cuidado Personal</td>
+          <td style="color:#ef4444;font-weight:700">+0.29%</td>
+          <td style="color:#ef4444">⬆ 297</td>
+          <td style="color:#22c55e">⬇ 53</td>
+          <td>4731</td>
+        </tr></tbody>
       </table>
     </div>
   </div>
@@ -165,11 +214,11 @@
 </footer>
 
 <script>
-const GRAFICOS   = {"7d": {"total": [{"fecha": "2026-02-19", "pct": 0.0}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}]}}, "30d": {"total": [{"fecha": "2026-02-19", "pct": 0.0}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}]}}, "6m": {"total": [{"fecha": "2026-02-19", "pct": 0.0}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}]}}, "1y": {"total": [{"fecha": "2026-02-19", "pct": 0.0}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}]}}};
-const RANK_DIA   = [];
+const GRAFICOS   = {"7d": {"total": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.11}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.02}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.19}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.29}]}}, "30d": {"total": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.11}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.02}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.19}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.29}]}}, "6m": {"total": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.11}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.02}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.19}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.29}]}}, "1y": {"total": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.11}], "categorias": {"Almacén": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.02}], "Frescos": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Congelados": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Con Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.09}], "Bebidas Sin Alcohol": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.06}], "Limpieza": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.19}], "Cuidado Personal": [{"fecha": "2026-02-19", "pct": 0.0}, {"fecha": "2026-02-20", "pct": 0.29}]}}};
+const RANK_DIA   = [{"product_id": "667155", "nombre": "Oblea de chocolate blanco Hersheys 102 g.", "marca": "Hersheys", "categoria": "Golosinas y chocolates", "precio_antes": 2400.0, "precio_hoy": 4000.0, "precio_actual_hoy": 2400.0, "diff_abs": 1600.0, "diff_pct": 66.67}, {"product_id": "667158", "nombre": "Oblea de chocolate Hersheys 102 g.", "marca": "Hersheys", "categoria": "Golosinas y chocolates", "precio_antes": 2400.0, "precio_hoy": 4000.0, "precio_actual_hoy": 2400.0, "diff_abs": 1600.0, "diff_pct": 66.67}, {"product_id": "740222", "nombre": "Desodorante ARM Hammer berry essential 7 g.", "marca": "ARM & Hammer", "categoria": "Antitranspirantes", "precio_antes": 10929.0, "precio_hoy": 14222.0, "precio_actual_hoy": 14222.0, "diff_abs": 3293.0, "diff_pct": 30.13}, {"product_id": "718734", "nombre": "Sopa instantanea Carrefour classic light de choclo 5 uni", "marca": "Carrefour", "categoria": "Caldos sopas y puré", "precio_antes": 1690.0, "precio_hoy": 2190.0, "precio_actual_hoy": 1537.9, "diff_abs": 500.0, "diff_pct": 29.59}, {"product_id": "718739", "nombre": "Sopa instantánea Carrefour classic arvejas 5 uni", "marca": "Carrefour", "categoria": "Caldos sopas y puré", "precio_antes": 1690.0, "precio_hoy": 2190.0, "precio_actual_hoy": 1588.6, "diff_abs": 500.0, "diff_pct": 29.59}, {"product_id": "718738", "nombre": "Sopa instantanea Carrefour classic de choclo 5 uni", "marca": "Carrefour", "categoria": "Caldos sopas y puré", "precio_antes": 1690.0, "precio_hoy": 2190.0, "precio_actual_hoy": 1588.6, "diff_abs": 500.0, "diff_pct": 29.59}, {"product_id": "718735", "nombre": "Sopa instantánea light Carrefour classic arvejas 5 uni", "marca": "Carrefour", "categoria": "Caldos sopas y puré", "precio_antes": 1690.0, "precio_hoy": 2190.0, "precio_actual_hoy": 1588.6, "diff_abs": 500.0, "diff_pct": 29.59}, {"product_id": "734759", "nombre": "Batata suelta x kg.", "marca": "Genérico", "categoria": "Verduras", "precio_antes": 1499.0, "precio_hoy": 1899.0, "precio_actual_hoy": 1899.0, "diff_abs": 400.0, "diff_pct": 26.68}, {"product_id": "427811", "nombre": "Limpiador para pisos plastificados Suiza dp 400 ml", "marca": "Suiza", "categoria": "Limpieza pisos y muebles", "precio_antes": 2000.0, "precio_hoy": 2519.0, "precio_actual_hoy": 2519.0, "diff_abs": 519.0, "diff_pct": 25.95}, {"product_id": "1756855", "nombre": "Cepillo Dental Eléctrico Gadnic Flush Recargable + 2 Repuestos", "marca": "Gadnic", "categoria": "Cuidado dental", "precio_antes": 22258.32, "precio_hoy": 28013.99, "precio_actual_hoy": 21549.0, "diff_abs": 5755.67, "diff_pct": 25.86}, {"product_id": "735441", "nombre": "Manzana red x kg.", "marca": "Genérico", "categoria": "Frutas", "precio_antes": 5990.0, "precio_hoy": 7499.0, "precio_actual_hoy": 7499.0, "diff_abs": 1509.0, "diff_pct": 25.19}, {"product_id": "615245", "nombre": "Limpiador antibacterial líquido Jardín de lavanda 4 lts", "marca": "Jardín", "categoria": "Limpieza pisos y muebles", "precio_antes": 6645.0, "precio_hoy": 8215.0, "precio_actual_hoy": 8215.0, "diff_abs": 1570.0, "diff_pct": 23.63}, {"product_id": "278568", "nombre": "Lavandina X.5 4 l.", "marca": "X-5", "categoria": "Lavandinas", "precio_antes": 5019.0, "precio_hoy": 6179.0, "precio_actual_hoy": 6179.0, "diff_abs": 1160.0, "diff_pct": 23.11}, {"product_id": "726642", "nombre": "Repuesto antihumedad Purific air pino 80 g.", "marca": "Purific Air", "categoria": "Desodorantes de ambiente", "precio_antes": 2805.0, "precio_hoy": 3339.0, "precio_actual_hoy": 3339.0, "diff_abs": 534.0, "diff_pct": 19.04}, {"product_id": "8392", "nombre": "Pimiento amarillo x kg.", "marca": "Genérico", "categoria": "Verduras", "precio_antes": 5999.0, "precio_hoy": 6999.0, "precio_actual_hoy": 6999.0, "diff_abs": 1000.0, "diff_pct": 16.67}, {"product_id": "764222", "nombre": "Plusbelle jabón de tocador Flores Rosa 120 grs", "marca": "Plusbelle", "categoria": "Jabones", "precio_antes": 1099.0, "precio_hoy": 1265.0, "precio_actual_hoy": 1265.0, "diff_abs": 166.0, "diff_pct": 15.1}, {"product_id": "700634", "nombre": "Toallitas húmedas Candy baby aloe vera clásica 50 uni", "marca": "Candy Baby", "categoria": "Toallitas húmedas", "precio_antes": 1955.0, "precio_hoy": 2249.0, "precio_actual_hoy": 2249.0, "diff_abs": 294.0, "diff_pct": 15.04}, {"product_id": "697350", "nombre": "Tampón Nosotras digital regular 16 uni", "marca": "Nosotras", "categoria": "Protección femenina", "precio_antes": 4389.0, "precio_hoy": 5049.0, "precio_actual_hoy": 5049.0, "diff_abs": 660.0, "diff_pct": 15.04}, {"product_id": "660296", "nombre": "Máquina de afeitar Bic flex 3 hybrid 5 u.", "marca": "Bic", "categoria": "Cuidado corporal", "precio_antes": 8119.0, "precio_hoy": 9339.0, "precio_actual_hoy": 9339.0, "diff_abs": 1220.0, "diff_pct": 15.03}, {"product_id": "620428", "nombre": "Cerveza de arroz Tsingtao 500 ml", "marca": "Tsingtao", "categoria": "Cervezas", "precio_antes": 3329.0, "precio_hoy": 3829.0, "precio_actual_hoy": 3829.0, "diff_abs": 500.0, "diff_pct": 15.02}];
 const RANK_MES   = [];
 const RANK_ANIO  = [];
-const RANK_BAJA  = [];
+const RANK_BAJA  = [{"product_id": "753060", "nombre": "Obleas sabor chocolate Bridge 140 grs", "marca": "Bridges", "categoria": "Galletitas y tostadas", "precio_antes": 2990.0, "precio_hoy": 1665.0, "precio_actual_hoy": 1665.0, "diff_abs": -1325.0, "diff_pct": -44.31}, {"product_id": "753061", "nombre": "Galletitas bañadas de chocolate Bridges 100 grs", "marca": "Bridges", "categoria": "Galletitas y tostadas", "precio_antes": 3290.0, "precio_hoy": 1974.0, "precio_actual_hoy": 1974.0, "diff_abs": -1316.0, "diff_pct": -40.0}, {"product_id": "701396", "nombre": "Jabón líquido Espadol antibacterial repuesto 220 cc.", "marca": "Espadol", "categoria": "Jabones", "precio_antes": 3589.0, "precio_hoy": 2871.2, "precio_actual_hoy": 2871.2, "diff_abs": -717.8, "diff_pct": -20.0}, {"product_id": "662945", "nombre": "Waffle clásico Fudy 210 g. 6 u.", "marca": "Fudy", "categoria": "Comidas congeladas", "precio_antes": 16355.0, "precio_hoy": 13899.0, "precio_actual_hoy": 13899.0, "diff_abs": -2456.0, "diff_pct": -15.02}, {"product_id": "20673", "nombre": "Secador Twin blanco 45 cm 1 u.", "marca": "Samantha", "categoria": "Artículos de limpieza", "precio_antes": 10590.0, "precio_hoy": 9002.0, "precio_actual_hoy": 9002.0, "diff_abs": -1588.0, "diff_pct": -15.0}, {"product_id": "775289", "nombre": "Antitranspirante en aerosol Dove Men Energy Boost 150 ml", "marca": "Dove", "categoria": "Antitranspirantes", "precio_antes": 5172.48, "precio_hoy": 4399.0, "precio_actual_hoy": 4399.0, "diff_abs": -773.48, "diff_pct": -14.95}, {"product_id": "758236", "nombre": "Pañales Babysec Premium Pants XXG 20 uni", "marca": "Babysec", "categoria": "Pañales", "precio_antes": 20299.0, "precio_hoy": 17300.0, "precio_actual_hoy": 17300.0, "diff_abs": -2999.0, "diff_pct": -14.77}, {"product_id": "758235", "nombre": "Pañales Babysec premium pants XG 22 uni", "marca": "Babysec", "categoria": "Pañales", "precio_antes": 19909.0, "precio_hoy": 17300.0, "precio_actual_hoy": 17300.0, "diff_abs": -2609.0, "diff_pct": -13.1}, {"product_id": "8391", "nombre": "Pepino x kg.", "marca": "Genérico", "categoria": "Verduras", "precio_antes": 1869.0, "precio_hoy": 1699.0, "precio_actual_hoy": 1699.0, "diff_abs": -170.0, "diff_pct": -9.1}, {"product_id": "577391", "nombre": "Tomate cherry rojo Huella Natural x kg.", "marca": "Huella Natural", "categoria": "Verduras", "precio_antes": 7590.0, "precio_hoy": 6899.0, "precio_actual_hoy": 6899.0, "diff_abs": -691.0, "diff_pct": -9.1}];
 const CATS_DEFAULT = ['Almacén','Frescos','Congelados','Bebidas Con Alcohol','Bebidas Sin Alcohol','Limpieza','Cuidado Personal'];
 
 let chartGeneral = null, chartCat = null, catActual = null;

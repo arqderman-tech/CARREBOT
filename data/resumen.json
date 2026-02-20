@@ -1,14 +1,182 @@
 {
-  "fecha": "20260219",
-  "total_productos": 24804,
-  "variacion_dia": null,
+  "fecha": "20260220",
+  "total_productos": 24800,
+  "variacion_dia": 0.11,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
-  "categorias_dia": [],
-  "ranking_baja_dia": [],
-  "productos_subieron_dia": 0,
-  "productos_bajaron_dia": 0,
-  "productos_sin_cambio_dia": 0
+  "categorias_dia": [
+    {
+      "categoria": "Almacén",
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 13,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 9366,
+      "total_productos": 9383
+    },
+    {
+      "categoria": "Frescos",
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 65,
+      "productos_bajaron": 18,
+      "productos_sin_cambio": 3317,
+      "total_productos": 3400
+    },
+    {
+      "categoria": "Congelados",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 43,
+      "productos_bajaron": 9,
+      "productos_sin_cambio": 936,
+      "total_productos": 988
+    },
+    {
+      "categoria": "Bebidas Con Alcohol",
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 58,
+      "productos_bajaron": 5,
+      "productos_sin_cambio": 2454,
+      "total_productos": 2517
+    },
+    {
+      "categoria": "Bebidas Sin Alcohol",
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 28,
+      "productos_bajaron": 15,
+      "productos_sin_cambio": 1160,
+      "total_productos": 1203
+    },
+    {
+      "categoria": "Limpieza",
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 104,
+      "productos_bajaron": 40,
+      "productos_sin_cambio": 2426,
+      "total_productos": 2570
+    },
+    {
+      "categoria": "Cuidado Personal",
+      "variacion_pct_promedio": 0.29,
+      "productos_subieron": 297,
+      "productos_bajaron": 53,
+      "productos_sin_cambio": 4381,
+      "total_productos": 4731
+    }
+  ],
+  "ranking_baja_dia": [
+    {
+      "product_id": "753060",
+      "nombre": "Obleas sabor chocolate Bridge 140 grs",
+      "marca": "Bridges",
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1665.0,
+      "precio_actual_hoy": 1665.0,
+      "diff_abs": -1325.0,
+      "diff_pct": -44.31
+    },
+    {
+      "product_id": "753061",
+      "nombre": "Galletitas bañadas de chocolate Bridges 100 grs",
+      "marca": "Bridges",
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 3290.0,
+      "precio_hoy": 1974.0,
+      "precio_actual_hoy": 1974.0,
+      "diff_abs": -1316.0,
+      "diff_pct": -40.0
+    },
+    {
+      "product_id": "701396",
+      "nombre": "Jabón líquido Espadol antibacterial repuesto 220 cc.",
+      "marca": "Espadol",
+      "categoria": "Jabones",
+      "precio_antes": 3589.0,
+      "precio_hoy": 2871.2,
+      "precio_actual_hoy": 2871.2,
+      "diff_abs": -717.8,
+      "diff_pct": -20.0
+    },
+    {
+      "product_id": "662945",
+      "nombre": "Waffle clásico Fudy 210 g. 6 u.",
+      "marca": "Fudy",
+      "categoria": "Comidas congeladas",
+      "precio_antes": 16355.0,
+      "precio_hoy": 13899.0,
+      "precio_actual_hoy": 13899.0,
+      "diff_abs": -2456.0,
+      "diff_pct": -15.02
+    },
+    {
+      "product_id": "20673",
+      "nombre": "Secador Twin blanco 45 cm 1 u.",
+      "marca": "Samantha",
+      "categoria": "Artículos de limpieza",
+      "precio_antes": 10590.0,
+      "precio_hoy": 9002.0,
+      "precio_actual_hoy": 9002.0,
+      "diff_abs": -1588.0,
+      "diff_pct": -15.0
+    },
+    {
+      "product_id": "775289",
+      "nombre": "Antitranspirante en aerosol Dove Men Energy Boost 150 ml",
+      "marca": "Dove",
+      "categoria": "Antitranspirantes",
+      "precio_antes": 5172.48,
+      "precio_hoy": 4399.0,
+      "precio_actual_hoy": 4399.0,
+      "diff_abs": -773.48,
+      "diff_pct": -14.95
+    },
+    {
+      "product_id": "758236",
+      "nombre": "Pañales Babysec Premium Pants XXG 20 uni",
+      "marca": "Babysec",
+      "categoria": "Pañales",
+      "precio_antes": 20299.0,
+      "precio_hoy": 17300.0,
+      "precio_actual_hoy": 17300.0,
+      "diff_abs": -2999.0,
+      "diff_pct": -14.77
+    },
+    {
+      "product_id": "758235",
+      "nombre": "Pañales Babysec premium pants XG 22 uni",
+      "marca": "Babysec",
+      "categoria": "Pañales",
+      "precio_antes": 19909.0,
+      "precio_hoy": 17300.0,
+      "precio_actual_hoy": 17300.0,
+      "diff_abs": -2609.0,
+      "diff_pct": -13.1
+    },
+    {
+      "product_id": "8391",
+      "nombre": "Pepino x kg.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 1869.0,
+      "precio_hoy": 1699.0,
+      "precio_actual_hoy": 1699.0,
+      "diff_abs": -170.0,
+      "diff_pct": -9.1
+    },
+    {
+      "product_id": "577391",
+      "nombre": "Tomate cherry rojo Huella Natural x kg.",
+      "marca": "Huella Natural",
+      "categoria": "Verduras",
+      "precio_antes": 7590.0,
+      "precio_hoy": 6899.0,
+      "precio_actual_hoy": 6899.0,
+      "diff_abs": -691.0,
+      "diff_pct": -9.1
+    }
+  ],
+  "productos_subieron_dia": 608,
+  "productos_bajaron_dia": 144,
+  "productos_sin_cambio_dia": 24040
 }

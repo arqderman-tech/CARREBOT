@@ -1,0 +1,222 @@
+[
+  {
+    "product_id": "667155",
+    "nombre": "Oblea de chocolate blanco Hersheys 102 g.",
+    "marca": "Hersheys",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 2400.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 2400.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.67
+  },
+  {
+    "product_id": "667158",
+    "nombre": "Oblea de chocolate Hersheys 102 g.",
+    "marca": "Hersheys",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 2400.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 2400.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.67
+  },
+  {
+    "product_id": "740222",
+    "nombre": "Desodorante ARM Hammer berry essential 7 g.",
+    "marca": "ARM & Hammer",
+    "categoria": "Antitranspirantes",
+    "precio_antes": 10929.0,
+    "precio_hoy": 14222.0,
+    "precio_actual_hoy": 14222.0,
+    "diff_abs": 3293.0,
+    "diff_pct": 30.13
+  },
+  {
+    "product_id": "718734",
+    "nombre": "Sopa instantanea Carrefour classic light de choclo 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2190.0,
+    "precio_actual_hoy": 1537.9,
+    "diff_abs": 500.0,
+    "diff_pct": 29.59
+  },
+  {
+    "product_id": "718739",
+    "nombre": "Sopa instantánea Carrefour classic arvejas 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2190.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 500.0,
+    "diff_pct": 29.59
+  },
+  {
+    "product_id": "718738",
+    "nombre": "Sopa instantanea Carrefour classic de choclo 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2190.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 500.0,
+    "diff_pct": 29.59
+  },
+  {
+    "product_id": "718735",
+    "nombre": "Sopa instantánea light Carrefour classic arvejas 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2190.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 500.0,
+    "diff_pct": 29.59
+  },
+  {
+    "product_id": "734759",
+    "nombre": "Batata suelta x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1499.0,
+    "precio_hoy": 1899.0,
+    "precio_actual_hoy": 1899.0,
+    "diff_abs": 400.0,
+    "diff_pct": 26.68
+  },
+  {
+    "product_id": "427811",
+    "nombre": "Limpiador para pisos plastificados Suiza dp 400 ml",
+    "marca": "Suiza",
+    "categoria": "Limpieza pisos y muebles",
+    "precio_antes": 2000.0,
+    "precio_hoy": 2519.0,
+    "precio_actual_hoy": 2519.0,
+    "diff_abs": 519.0,
+    "diff_pct": 25.95
+  },
+  {
+    "product_id": "1756855",
+    "nombre": "Cepillo Dental Eléctrico Gadnic Flush Recargable + 2 Repuestos",
+    "marca": "Gadnic",
+    "categoria": "Cuidado dental",
+    "precio_antes": 22258.32,
+    "precio_hoy": 28013.99,
+    "precio_actual_hoy": 21549.0,
+    "diff_abs": 5755.67,
+    "diff_pct": 25.86
+  },
+  {
+    "product_id": "735441",
+    "nombre": "Manzana red x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 5990.0,
+    "precio_hoy": 7499.0,
+    "precio_actual_hoy": 7499.0,
+    "diff_abs": 1509.0,
+    "diff_pct": 25.19
+  },
+  {
+    "product_id": "615245",
+    "nombre": "Limpiador antibacterial líquido Jardín de lavanda 4 lts",
+    "marca": "Jardín",
+    "categoria": "Limpieza pisos y muebles",
+    "precio_antes": 6645.0,
+    "precio_hoy": 8215.0,
+    "precio_actual_hoy": 8215.0,
+    "diff_abs": 1570.0,
+    "diff_pct": 23.63
+  },
+  {
+    "product_id": "278568",
+    "nombre": "Lavandina X.5 4 l.",
+    "marca": "X-5",
+    "categoria": "Lavandinas",
+    "precio_antes": 5019.0,
+    "precio_hoy": 6179.0,
+    "precio_actual_hoy": 6179.0,
+    "diff_abs": 1160.0,
+    "diff_pct": 23.11
+  },
+  {
+    "product_id": "726642",
+    "nombre": "Repuesto antihumedad Purific air pino 80 g.",
+    "marca": "Purific Air",
+    "categoria": "Desodorantes de ambiente",
+    "precio_antes": 2805.0,
+    "precio_hoy": 3339.0,
+    "precio_actual_hoy": 3339.0,
+    "diff_abs": 534.0,
+    "diff_pct": 19.04
+  },
+  {
+    "product_id": "8392",
+    "nombre": "Pimiento amarillo x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 5999.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 6999.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 16.67
+  },
+  {
+    "product_id": "764222",
+    "nombre": "Plusbelle jabón de tocador Flores Rosa 120 grs",
+    "marca": "Plusbelle",
+    "categoria": "Jabones",
+    "precio_antes": 1099.0,
+    "precio_hoy": 1265.0,
+    "precio_actual_hoy": 1265.0,
+    "diff_abs": 166.0,
+    "diff_pct": 15.1
+  },
+  {
+    "product_id": "700634",
+    "nombre": "Toallitas húmedas Candy baby aloe vera clásica 50 uni",
+    "marca": "Candy Baby",
+    "categoria": "Toallitas húmedas",
+    "precio_antes": 1955.0,
+    "precio_hoy": 2249.0,
+    "precio_actual_hoy": 2249.0,
+    "diff_abs": 294.0,
+    "diff_pct": 15.04
+  },
+  {
+    "product_id": "697350",
+    "nombre": "Tampón Nosotras digital regular 16 uni",
+    "marca": "Nosotras",
+    "categoria": "Protección femenina",
+    "precio_antes": 4389.0,
+    "precio_hoy": 5049.0,
+    "precio_actual_hoy": 5049.0,
+    "diff_abs": 660.0,
+    "diff_pct": 15.04
+  },
+  {
+    "product_id": "660296",
+    "nombre": "Máquina de afeitar Bic flex 3 hybrid 5 u.",
+    "marca": "Bic",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 8119.0,
+    "precio_hoy": 9339.0,
+    "precio_actual_hoy": 9339.0,
+    "diff_abs": 1220.0,
+    "diff_pct": 15.03
+  },
+  {
+    "product_id": "620428",
+    "nombre": "Cerveza de arroz Tsingtao 500 ml",
+    "marca": "Tsingtao",
+    "categoria": "Cervezas",
+    "precio_antes": 3329.0,
+    "precio_hoy": 3829.0,
+    "precio_actual_hoy": 3829.0,
+    "diff_abs": 500.0,
+    "diff_pct": 15.02
+  }
+]
