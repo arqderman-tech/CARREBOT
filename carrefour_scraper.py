@@ -1,17 +1,18 @@
 import requests
 import pandas as pd
 import time
-import os
 from datetime import datetime
 from pathlib import Path
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
 BASE_URL   = "https://www.carrefour.com.ar"
 PAGE_SIZE  = 50
-MAX_PRODS  = 2500   
-DELAY      = 1.8    # Delay prudente para evitar el error 429
+MAX_PRODS  = 2500
+MAX_WORKERS = 10     # requests concurrentes
 OUTPUT_DIR = Path("output_carrefour")
 
 HEADERS = {
@@ -63,76 +64,101 @@ CATEGORIAS = [
     ("Cuidado Personal", "Toallitas húmedas", 451, 453), ("Cuidado Personal", "Higiene para bebés", 451, 458),
 ]
 
+
 def crear_sesion():
     session = requests.Session()
     retry_strategy = Retry(
-        total=10, # Más reintentos
+        total=10,
         backoff_factor=3,
         status_forcelist=[429, 500, 502, 503, 504],
     )
     session.mount("https://", HTTPAdapter(max_retries=retry_strategy))
     return session
 
-def get_productos_categoria(parent_id, child_id, cat_nombre, session):
+
+def fetch_page(args):
+    """Descarga una página y devuelve los SKUs extraídos."""
+    session, fq, from_idx, cat_nombre, cat_principal = args
+    url = f"{BASE_URL}/api/catalog_system/pub/products/search"
+    to_idx = from_idx + PAGE_SIZE - 1
+
+    try:
+        r = session.get(url, params={"fq": fq, "_from": from_idx, "_to": to_idx},
+                        headers=HEADERS, timeout=30)
+        r.raise_for_status()
+
+        total_vtex = 0
+        res = r.headers.get("resources", "")
+        if "/" in res:
+            total_vtex = int(res.split("/")[-1])
+
+        skus = []
+        for p in r.json():
+            for sku in p.get("items", []):
+                sellers = sku.get("sellers", [])
+                if not sellers:
+                    continue
+                offer = sellers[0].get("commertialOffer", {})
+                skus.append({
+                    "fecha":          datetime.now().strftime("%Y-%m-%d"),
+                    "product_id":     p.get("productId", ""),
+                    "sku_id":         sku.get("itemId", ""),
+                    "ean":            sku.get("ean", ""),
+                    "nombre":         sku.get("nameComplete") or p.get("productName", ""),
+                    "marca":          p.get("brand", ""),
+                    "categoria":      cat_nombre,
+                    "precio_actual":  offer.get("Price"),
+                    "precio_regular": offer.get("ListPrice"),
+                    "disponible":     offer.get("AvailableQuantity", 0),
+                    "link":           p.get("link", ""),
+                    "cat_principal":  cat_principal,
+                })
+        return skus, total_vtex, None
+
+    except Exception as e:
+        return [], 0, str(e)
+
+
+def get_productos_categoria(parent_id, child_id, cat_nombre, cat_principal, session):
     fq = f"C:/{parent_id}/{child_id}/"
-    productos = []
-    from_idx = 0
-    total_vtex = 0
 
-    while from_idx < MAX_PRODS:
-        to_idx = from_idx + PAGE_SIZE - 1
-        url = f"{BASE_URL}/api/catalog_system/pub/products/search"
-        params = {"fq": fq, "_from": from_idx, "_to": to_idx}
-        
-        try:
-            r = session.get(url, params=params, headers=HEADERS, timeout=30)
-            r.raise_for_status()
-            
-            # Extraer el total real desde los headers
-            res = r.headers.get("resources", "")
-            total_vtex = int(res.split("/")[-1]) if "/" in res else 0
+    # ── Página 0: obtener total real ──────────────────────────────────────────
+    skus_p0, total_vtex, err = fetch_page((session, fq, 0, cat_nombre, cat_principal))
+    if err:
+        print(f" [Error inicial en {cat_nombre}]: {err}")
+        return [], 0
+    if not skus_p0:
+        return [], total_vtex
 
-            data = r.json()
-            if not data: break
+    # ── Páginas restantes en paralelo ─────────────────────────────────────────
+    limit = min(total_vtex, MAX_PRODS)
+    offsets = list(range(PAGE_SIZE, limit, PAGE_SIZE))
 
-            for p in data:
-                # Captura de todos los SKUs por producto (Lógica B)
-                for sku in p.get("items", []):
-                    sellers = sku.get("sellers", [])
-                    if not sellers: continue
-                    offer = sellers[0].get("commertialOffer", {})
-                    
-                    productos.append({
-                        "fecha":         datetime.now().strftime("%Y-%m-%d"),
-                        "product_id":    p.get("productId", ""),
-                        "sku_id":        sku.get("itemId", ""),
-                        "ean":           sku.get("ean", ""),
-                        "nombre":        sku.get("nameComplete") or p.get("productName", ""),
-                        "marca":         p.get("brand", ""),
-                        "categoria":     cat_nombre,
-                        "precio_actual": offer.get("Price"),
-                        "precio_regular": offer.get("ListPrice"),
-                        "disponible":    offer.get("AvailableQuantity", 0),
-                        "link":          p.get("link", "")
-                    })
+    if not offsets:
+        return skus_p0, total_vtex
 
-            from_idx += PAGE_SIZE
-            if total_vtex > 0 and from_idx >= min(total_vtex, MAX_PRODS): break
-            time.sleep(DELAY)
+    all_skus = list(skus_p0)
+    page_args = [(session, fq, off, cat_nombre, cat_principal) for off in offsets]
 
-        except Exception as e:
-            print(f" [Error en {cat_nombre}] offset {from_idx}: {e}")
-            break
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
+        futures = {ex.submit(fetch_page, args): args[2] for args in page_args}
+        for future in as_completed(futures):
+            skus, _, err = future.result()
+            if err:
+                print(f" [Error offset {futures[future]} en {cat_nombre}]: {err}")
+            else:
+                all_skus.extend(skus)
 
-    return productos, total_vtex
+    return all_skus, total_vtex
+
 
 def main():
     OUTPUT_DIR.mkdir(exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    # Este archivo se va llenando poco a poco
+    timestamp    = datetime.now().strftime("%Y%m%d_%H%M%S")
     csv_filename = OUTPUT_DIR / f"carrefour_{timestamp}.csv"
-    
-    session = crear_sesion()
+    csv_lock     = Lock()
+
+    session    = crear_sesion()
     total_cats = len(CATEGORIAS)
     acumulado_skus = 0
 
@@ -143,30 +169,28 @@ def main():
 
     for i, (cat_principal, cat_nombre, p_id, c_id) in enumerate(CATEGORIAS, 1):
         print(f"[{i:02d}/{total_cats}] {cat_nombre.ljust(30)}", end=" ", flush=True)
-        
-        prods_cat, total_web = get_productos_categoria(p_id, c_id, cat_nombre, session)
-        
+
+        prods_cat, total_web = get_productos_categoria(p_id, c_id, cat_nombre, cat_principal, session)
+
         if prods_cat:
             df_temp = pd.DataFrame(prods_cat)
-            df_temp["cat_principal"] = cat_principal
-            
-            # Guardado inmediato (Modo Append)
-            header_necesario = not csv_filename.exists()
-            df_temp.to_csv(csv_filename, mode='a', index=False, header=header_necesario, encoding="utf-8-sig")
-            
+
+            with csv_lock:
+                header_necesario = not csv_filename.exists()
+                df_temp.to_csv(csv_filename, mode="a", index=False,
+                               header=header_necesario, encoding="utf-8-sig")
+
             acumulado_skus += len(prods_cat)
             print(f"-> {len(prods_cat)} SKUs (Total: {acumulado_skus})")
         else:
             print("-> SIN DATOS/ERROR")
-
-        # Pausa extra entre categorías para evitar baneos de IP
-        time.sleep(DELAY * 1.5)
 
     print(f"\n{'='*60}")
     print(f" PROCESO TERMINADO")
     print(f" Total SKUs guardados: {acumulado_skus}")
     print(f" Archivo: {csv_filename}")
     print(f"{'='*60}")
+
 
 if __name__ == "__main__":
     main()
