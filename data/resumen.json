@@ -1,7 +1,7 @@
 {
-  "fecha": "20260221",
-  "total_productos": 24792,
-  "variacion_dia": 0.16,
+  "fecha": "20260222",
+  "total_productos": 24778,
+  "variacion_dia": 0.01,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -9,174 +9,174 @@
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.23,
-      "productos_subieron": 487,
-      "productos_bajaron": 91,
-      "productos_sin_cambio": 8803,
-      "total_productos": 9381
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 8,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 9366,
+      "total_productos": 9375
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 25,
-      "productos_bajaron": 10,
-      "productos_sin_cambio": 3367,
-      "total_productos": 3402
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 5,
+      "productos_bajaron": 5,
+      "productos_sin_cambio": 3391,
+      "total_productos": 3401
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 5,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 977,
-      "total_productos": 984
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 982,
+      "total_productos": 983
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 70,
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 1,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 2447,
-      "total_productos": 2517
+      "productos_sin_cambio": 2512,
+      "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
       "variacion_pct_promedio": -0.0,
       "productos_subieron": 1,
       "productos_bajaron": 1,
-      "productos_sin_cambio": 1201,
-      "total_productos": 1203
+      "productos_sin_cambio": 1197,
+      "total_productos": 1199
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": -0.0,
-      "productos_subieron": 2,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 2561,
-      "total_productos": 2566
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 2567,
+      "total_productos": 2568
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.28,
-      "productos_subieron": 12,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 4714,
-      "total_productos": 4727
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 2,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 4717,
+      "total_productos": 4722
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "610724",
-      "nombre": "Premezcla para panadería y repostería Carrefour 500 g. sin TACC",
-      "marca": "Carrefour",
-      "categoria": "Harinas",
-      "precio_antes": 3990.0,
-      "precio_hoy": 1490.0,
-      "precio_actual_hoy": 1326.1,
-      "diff_abs": -2500.0,
-      "diff_pct": -62.66
-    },
-    {
-      "product_id": "610718",
-      "nombre": "Premezcla para ñoquis Carrefour 200 g. sin TACC",
-      "marca": "Carrefour",
-      "categoria": "Harinas",
-      "precio_antes": 6190.0,
-      "precio_hoy": 2990.0,
-      "precio_actual_hoy": 2691.0,
-      "diff_abs": -3200.0,
-      "diff_pct": -51.7
-    },
-    {
-      "product_id": "610729",
-      "nombre": "Premezcla para galletas dulces Carrefour 225 g. sin TACC",
-      "marca": "Carrefour",
-      "categoria": "Repostería y postres",
-      "precio_antes": 6190.0,
-      "precio_hoy": 3490.0,
-      "precio_actual_hoy": 3141.0,
-      "diff_abs": -2700.0,
-      "diff_pct": -43.62
-    },
-    {
-      "product_id": "764051",
-      "nombre": "NESTLÉ Chocolate con Almendras 25 grs",
-      "marca": "Nestlé",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 2069.0,
-      "precio_hoy": 1231.3,
-      "precio_actual_hoy": 1231.3,
-      "diff_abs": -837.7,
-      "diff_pct": -40.49
-    },
-    {
-      "product_id": "764048",
-      "nombre": "NESTLÉ Chocolate con leche 45 grs",
-      "marca": "Nestlé",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 3319.0,
-      "precio_hoy": 1991.4,
-      "precio_actual_hoy": 1991.4,
-      "diff_abs": -1327.6,
-      "diff_pct": -40.0
-    },
-    {
-      "product_id": "755258",
-      "nombre": "Galletitas dulce Marini moncremi crema y coco 150 grs",
-      "marca": "Marini",
-      "categoria": "Galletitas y tostadas",
-      "precio_antes": 3929.0,
-      "precio_hoy": 2750.0,
-      "precio_actual_hoy": 2750.0,
-      "diff_abs": -1179.0,
-      "diff_pct": -30.01
-    },
-    {
-      "product_id": "756002",
-      "nombre": "Galletitas dulces Marini Moncremi crema limón 150 grs",
-      "marca": "Marini",
-      "categoria": "Galletitas y tostadas",
-      "precio_antes": 3919.0,
-      "precio_hoy": 2743.0,
-      "precio_actual_hoy": 2743.0,
-      "diff_abs": -1176.0,
-      "diff_pct": -30.01
-    },
-    {
-      "product_id": "755257",
-      "nombre": "Galletitas dulces Marini cantuccini con chocolate 200 grs",
-      "marca": "Marini",
-      "categoria": "Galletitas y tostadas",
-      "precio_antes": 5690.0,
-      "precio_hoy": 3983.0,
-      "precio_actual_hoy": 3983.0,
-      "diff_abs": -1707.0,
-      "diff_pct": -30.0
-    },
-    {
-      "product_id": "734759",
-      "nombre": "Batata suelta x kg.",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 1899.0,
-      "precio_hoy": 1499.0,
-      "precio_actual_hoy": 1499.0,
-      "diff_abs": -400.0,
-      "diff_pct": -21.06
-    },
-    {
-      "product_id": "735528",
-      "nombre": "Pera x kg.",
+      "product_id": "735441",
+      "nombre": "Manzana red x kg.",
       "marca": "Genérico",
       "categoria": "Frutas",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "precio_actual_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "precio_antes": 7499.0,
+      "precio_hoy": 5990.0,
+      "precio_actual_hoy": 5990.0,
+      "diff_abs": -1509.0,
+      "diff_pct": -20.12
+    },
+    {
+      "product_id": "89127",
+      "nombre": "Ají picante x kg.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 6599.0,
+      "precio_hoy": 5999.0,
+      "precio_actual_hoy": 5999.0,
+      "diff_abs": -600.0,
+      "diff_pct": -9.09
+    },
+    {
+      "product_id": "8382",
+      "nombre": "Berenjena blanca x kg.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 3299.0,
+      "precio_hoy": 2999.0,
+      "precio_actual_hoy": 2999.0,
+      "diff_abs": -300.0,
+      "diff_pct": -9.09
+    },
+    {
+      "product_id": "1756701",
+      "nombre": "Equipo de Alta Frecuencia Gadnic LF60 Portátil Antienvejecimiento",
+      "marca": "Gadnic",
+      "categoria": "Cuidado de la piel",
+      "precio_antes": 68964.0,
+      "precio_hoy": 62789.0,
+      "precio_actual_hoy": 48299.0,
+      "diff_abs": -6175.0,
+      "diff_pct": -8.95
+    },
+    {
+      "product_id": "1758919",
+      "nombre": "Saca Pelusa Recargable Gadnic 5V",
+      "marca": "Gadnic",
+      "categoria": "Limpieza de la ropa",
+      "precio_antes": 16834.0,
+      "precio_hoy": 15404.0,
+      "precio_actual_hoy": 11849.0,
+      "diff_abs": -1430.0,
+      "diff_pct": -8.49
+    },
+    {
+      "product_id": "681189",
+      "nombre": "Palomita Novillito x kg.",
+      "marca": "Genérico",
+      "categoria": "Carne vacuna",
+      "precio_antes": 15300.0,
+      "precio_hoy": 14200.0,
+      "precio_actual_hoy": 14200.0,
+      "diff_abs": -1100.0,
+      "diff_pct": -7.19
+    },
+    {
+      "product_id": "1758905",
+      "nombre": "Espátula Facial Gadnic CL50 Ultrasónica",
+      "marca": "Gadnic",
+      "categoria": "Cuidado de la piel",
+      "precio_antes": 31199.0,
+      "precio_hoy": 29444.0,
+      "precio_actual_hoy": 22649.0,
+      "diff_abs": -1755.0,
+      "diff_pct": -5.63
+    },
+    {
+      "product_id": "1758906",
+      "nombre": "Kit Dermaroller Espátula + Ultrasónica de Limpieza",
+      "marca": "Gadnic",
+      "categoria": "Cuidado de la piel",
+      "precio_antes": 38999.0,
+      "precio_hoy": 36854.0,
+      "precio_actual_hoy": 28349.0,
+      "diff_abs": -2145.0,
+      "diff_pct": -5.5
+    },
+    {
+      "product_id": "509369",
+      "nombre": "Jugo Zulueta concentrado sin azúcar pomelo 2 l.",
+      "marca": "Zulueta",
+      "categoria": "Jugos",
+      "precio_antes": 4469.0,
+      "precio_hoy": 4259.0,
+      "precio_actual_hoy": 4259.0,
+      "diff_abs": -210.0,
+      "diff_pct": -4.7
+    },
+    {
+      "product_id": "739344",
+      "nombre": "Yogur bebible entero Manfrey de durazno en sachet 900 g.",
+      "marca": "Manfrey",
+      "categoria": "Yogures",
+      "precio_antes": 1999.0,
+      "precio_hoy": 1939.0,
+      "precio_actual_hoy": 1939.0,
+      "diff_abs": -60.0,
+      "diff_pct": -3.0
     }
   ],
-  "productos_subieron_dia": 602,
-  "productos_bajaron_dia": 108,
-  "productos_sin_cambio_dia": 24070
+  "productos_subieron_dia": 18,
+  "productos_bajaron_dia": 11,
+  "productos_sin_cambio_dia": 24732
 }
