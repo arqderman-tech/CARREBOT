@@ -1,7 +1,7 @@
 {
-  "fecha": "20260222",
-  "total_productos": 24778,
-  "variacion_dia": 0.01,
+  "fecha": "20260223",
+  "total_productos": 24759,
+  "variacion_dia": 0.02,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -10,173 +10,173 @@
     {
       "categoria": "Almacén",
       "variacion_pct_promedio": 0.03,
-      "productos_subieron": 8,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 9366,
-      "total_productos": 9375
+      "productos_subieron": 62,
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 9307,
+      "total_productos": 9376
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 5,
-      "productos_bajaron": 5,
-      "productos_sin_cambio": 3391,
-      "total_productos": 3401
+      "variacion_pct_promedio": 0.05,
+      "productos_subieron": 39,
+      "productos_bajaron": 14,
+      "productos_sin_cambio": 3349,
+      "total_productos": 3402
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
       "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 982,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 981,
       "total_productos": 983
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 1,
       "productos_sin_cambio": 2512,
       "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 1,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 3,
       "productos_bajaron": 1,
-      "productos_sin_cambio": 1197,
+      "productos_sin_cambio": 1195,
       "total_productos": 1199
     },
     {
       "categoria": "Limpieza",
       "variacion_pct_promedio": -0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2567,
-      "total_productos": 2568
+      "productos_subieron": 1,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 2563,
+      "total_productos": 2566
     },
     {
       "categoria": "Cuidado Personal",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 2,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 4717,
-      "total_productos": 4722
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 4716,
+      "total_productos": 4716
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "735441",
-      "nombre": "Manzana red x kg.",
+      "product_id": "723401",
+      "nombre": "Queso mozzarella cilindro Carrefour classic 1 kg.",
+      "marca": "Carrefour",
+      "categoria": "Quesos",
+      "precio_antes": 21800.0,
+      "precio_hoy": 14800.0,
+      "precio_actual_hoy": 14800.0,
+      "diff_abs": -7000.0,
+      "diff_pct": -32.11
+    },
+    {
+      "product_id": "678128",
+      "nombre": "Mozzarela Carrefour Classic 250 grs",
+      "marca": "Carrefour",
+      "categoria": "Quesos",
+      "precio_antes": 5400.0,
+      "precio_hoy": 3790.0,
+      "precio_actual_hoy": 3790.0,
+      "diff_abs": -1610.0,
+      "diff_pct": -29.81
+    },
+    {
+      "product_id": "758733",
+      "nombre": "Queso por salut tradicional Carrefour Classic sin gluten x kg",
+      "marca": "Carrefour",
+      "categoria": "Quesos",
+      "precio_antes": 14710.0,
+      "precio_hoy": 10900.0,
+      "precio_actual_hoy": 10900.0,
+      "diff_abs": -3810.0,
+      "diff_pct": -25.9
+    },
+    {
+      "product_id": "655598",
+      "nombre": "Mortadela mini Cagnoli 300 g.",
+      "marca": "Cagnoli",
+      "categoria": "Fiambres",
+      "precio_antes": 4355.0,
+      "precio_hoy": 3390.0,
+      "precio_actual_hoy": 3390.0,
+      "diff_abs": -965.0,
+      "diff_pct": -22.16
+    },
+    {
+      "product_id": "646536",
+      "nombre": "Queso danbo La Paulina x kg.",
+      "marca": "La Paulina",
+      "categoria": "Quesos",
+      "precio_antes": 19699.0,
+      "precio_hoy": 16700.0,
+      "precio_actual_hoy": 16700.0,
+      "diff_abs": -2999.0,
+      "diff_pct": -15.22
+    },
+    {
+      "product_id": "684049",
+      "nombre": "Queso cremoso La Paulina x kg.",
+      "marca": "La Paulina",
+      "categoria": "Quesos",
+      "precio_antes": 13320.0,
+      "precio_hoy": 11319.0,
+      "precio_actual_hoy": 11319.0,
+      "diff_abs": -2001.0,
+      "diff_pct": -15.02
+    },
+    {
+      "product_id": "646550",
+      "nombre": "Queso port salut La Pauilna tradicional x kg",
+      "marca": "La Paulina",
+      "categoria": "Quesos",
+      "precio_antes": 15229.0,
+      "precio_hoy": 12945.0,
+      "precio_actual_hoy": 12945.0,
+      "diff_abs": -2284.0,
+      "diff_pct": -15.0
+    },
+    {
+      "product_id": "661208",
+      "nombre": "Port salut light horma",
       "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 7499.0,
-      "precio_hoy": 5990.0,
-      "precio_actual_hoy": 5990.0,
-      "diff_abs": -1509.0,
-      "diff_pct": -20.12
+      "categoria": "Quesos",
+      "precio_antes": 16490.0,
+      "precio_hoy": 14019.0,
+      "precio_actual_hoy": 14019.0,
+      "diff_abs": -2471.0,
+      "diff_pct": -14.98
     },
     {
-      "product_id": "89127",
-      "nombre": "Ají picante x kg.",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 6599.0,
-      "precio_hoy": 5999.0,
-      "precio_actual_hoy": 5999.0,
-      "diff_abs": -600.0,
-      "diff_pct": -9.09
+      "product_id": "751339",
+      "nombre": "Whisky bourbon Makers Mark en botella 750 ml",
+      "marca": "Makers Mark",
+      "categoria": "Bebidas blancas",
+      "precio_antes": 110349.0,
+      "precio_hoy": 100509.0,
+      "precio_actual_hoy": 100509.0,
+      "diff_abs": -9840.0,
+      "diff_pct": -8.92
     },
     {
-      "product_id": "8382",
-      "nombre": "Berenjena blanca x kg.",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 3299.0,
-      "precio_hoy": 2999.0,
-      "precio_actual_hoy": 2999.0,
-      "diff_abs": -300.0,
-      "diff_pct": -9.09
-    },
-    {
-      "product_id": "1756701",
-      "nombre": "Equipo de Alta Frecuencia Gadnic LF60 Portátil Antienvejecimiento",
-      "marca": "Gadnic",
-      "categoria": "Cuidado de la piel",
-      "precio_antes": 68964.0,
-      "precio_hoy": 62789.0,
-      "precio_actual_hoy": 48299.0,
-      "diff_abs": -6175.0,
-      "diff_pct": -8.95
-    },
-    {
-      "product_id": "1758919",
-      "nombre": "Saca Pelusa Recargable Gadnic 5V",
-      "marca": "Gadnic",
-      "categoria": "Limpieza de la ropa",
-      "precio_antes": 16834.0,
-      "precio_hoy": 15404.0,
-      "precio_actual_hoy": 11849.0,
-      "diff_abs": -1430.0,
-      "diff_pct": -8.49
-    },
-    {
-      "product_id": "681189",
-      "nombre": "Palomita Novillito x kg.",
-      "marca": "Genérico",
-      "categoria": "Carne vacuna",
-      "precio_antes": 15300.0,
-      "precio_hoy": 14200.0,
-      "precio_actual_hoy": 14200.0,
-      "diff_abs": -1100.0,
-      "diff_pct": -7.19
-    },
-    {
-      "product_id": "1758905",
-      "nombre": "Espátula Facial Gadnic CL50 Ultrasónica",
-      "marca": "Gadnic",
-      "categoria": "Cuidado de la piel",
-      "precio_antes": 31199.0,
-      "precio_hoy": 29444.0,
-      "precio_actual_hoy": 22649.0,
-      "diff_abs": -1755.0,
-      "diff_pct": -5.63
-    },
-    {
-      "product_id": "1758906",
-      "nombre": "Kit Dermaroller Espátula + Ultrasónica de Limpieza",
-      "marca": "Gadnic",
-      "categoria": "Cuidado de la piel",
-      "precio_antes": 38999.0,
-      "precio_hoy": 36854.0,
-      "precio_actual_hoy": 28349.0,
-      "diff_abs": -2145.0,
-      "diff_pct": -5.5
-    },
-    {
-      "product_id": "509369",
-      "nombre": "Jugo Zulueta concentrado sin azúcar pomelo 2 l.",
-      "marca": "Zulueta",
-      "categoria": "Jugos",
-      "precio_antes": 4469.0,
-      "precio_hoy": 4259.0,
-      "precio_actual_hoy": 4259.0,
-      "diff_abs": -210.0,
-      "diff_pct": -4.7
-    },
-    {
-      "product_id": "739344",
-      "nombre": "Yogur bebible entero Manfrey de durazno en sachet 900 g.",
-      "marca": "Manfrey",
-      "categoria": "Yogures",
-      "precio_antes": 1999.0,
-      "precio_hoy": 1939.0,
-      "precio_actual_hoy": 1939.0,
-      "diff_abs": -60.0,
-      "diff_pct": -3.0
+      "product_id": "633586",
+      "nombre": "Puré de papas instantáneo Carrefour classic 200 g.",
+      "marca": "Carrefour",
+      "categoria": "Caldos sopas y puré",
+      "precio_antes": 2390.0,
+      "precio_hoy": 2190.0,
+      "precio_actual_hoy": 1992.9,
+      "diff_abs": -200.0,
+      "diff_pct": -8.37
     }
   ],
-  "productos_subieron_dia": 18,
-  "productos_bajaron_dia": 11,
-  "productos_sin_cambio_dia": 24732
+  "productos_subieron_dia": 106,
+  "productos_bajaron_dia": 26,
+  "productos_sin_cambio_dia": 24623
 }
