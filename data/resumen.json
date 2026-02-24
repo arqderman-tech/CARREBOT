@@ -1,7 +1,7 @@
 {
-  "fecha": "20260223",
-  "total_productos": 24759,
-  "variacion_dia": 0.02,
+  "fecha": "20260224",
+  "total_productos": 24372,
+  "variacion_dia": -0.01,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -9,174 +9,174 @@
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 62,
-      "productos_bajaron": 7,
-      "productos_sin_cambio": 9307,
-      "total_productos": 9376
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 11,
+      "productos_bajaron": 22,
+      "productos_sin_cambio": 9347,
+      "total_productos": 9380
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 39,
-      "productos_bajaron": 14,
-      "productos_sin_cambio": 3349,
-      "total_productos": 3402
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 24,
+      "productos_bajaron": 18,
+      "productos_sin_cambio": 3293,
+      "total_productos": 3335
     },
     {
       "categoria": "Congelados",
       "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 981,
-      "total_productos": 983
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 640,
+      "total_productos": 640
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 35,
       "productos_bajaron": 1,
-      "productos_sin_cambio": 2512,
+      "productos_sin_cambio": 2477,
       "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 3,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1195,
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 6,
+      "productos_bajaron": 10,
+      "productos_sin_cambio": 1183,
       "total_productos": 1199
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 2563,
-      "total_productos": 2566
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 2,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 2533,
+      "total_productos": 2538
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 4716,
-      "total_productos": 4716
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 1,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 4710,
+      "total_productos": 4715
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "723401",
-      "nombre": "Queso mozzarella cilindro Carrefour classic 1 kg.",
+      "product_id": "699930",
+      "nombre": "Bocadito sin azúcar Happy -Food de dulce de leche x3 50 g.",
+      "marca": "Happy Food",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 4799.0,
+      "precio_hoy": 1919.6,
+      "precio_actual_hoy": 1919.6,
+      "diff_abs": -2879.4,
+      "diff_pct": -60.0
+    },
+    {
+      "product_id": "394471",
+      "nombre": "Aceite de oliva Carrefour Classic virgen lata 1 l.",
       "marca": "Carrefour",
-      "categoria": "Quesos",
-      "precio_antes": 21800.0,
-      "precio_hoy": 14800.0,
-      "precio_actual_hoy": 14800.0,
-      "diff_abs": -7000.0,
-      "diff_pct": -32.11
+      "categoria": "Aceites y vinagres",
+      "precio_antes": 30190.0,
+      "precio_hoy": 20990.0,
+      "precio_actual_hoy": 19310.8,
+      "diff_abs": -9200.0,
+      "diff_pct": -30.47
     },
     {
-      "product_id": "678128",
-      "nombre": "Mozzarela Carrefour Classic 250 grs",
-      "marca": "Carrefour",
-      "categoria": "Quesos",
-      "precio_antes": 5400.0,
-      "precio_hoy": 3790.0,
-      "precio_actual_hoy": 3790.0,
-      "diff_abs": -1610.0,
-      "diff_pct": -29.81
+      "product_id": "691666",
+      "nombre": "Albahaca hidropónica Vequa en cono",
+      "marca": "Vequa",
+      "categoria": "Verduras",
+      "precio_antes": 3190.0,
+      "precio_hoy": 2290.0,
+      "precio_actual_hoy": 2290.0,
+      "diff_abs": -900.0,
+      "diff_pct": -28.21
     },
     {
-      "product_id": "758733",
-      "nombre": "Queso por salut tradicional Carrefour Classic sin gluten x kg",
-      "marca": "Carrefour",
-      "categoria": "Quesos",
-      "precio_antes": 14710.0,
-      "precio_hoy": 10900.0,
-      "precio_actual_hoy": 10900.0,
-      "diff_abs": -3810.0,
-      "diff_pct": -25.9
-    },
-    {
-      "product_id": "655598",
-      "nombre": "Mortadela mini Cagnoli 300 g.",
-      "marca": "Cagnoli",
-      "categoria": "Fiambres",
-      "precio_antes": 4355.0,
-      "precio_hoy": 3390.0,
-      "precio_actual_hoy": 3390.0,
-      "diff_abs": -965.0,
-      "diff_pct": -22.16
-    },
-    {
-      "product_id": "646536",
-      "nombre": "Queso danbo La Paulina x kg.",
-      "marca": "La Paulina",
-      "categoria": "Quesos",
-      "precio_antes": 19699.0,
-      "precio_hoy": 16700.0,
-      "precio_actual_hoy": 16700.0,
-      "diff_abs": -2999.0,
-      "diff_pct": -15.22
-    },
-    {
-      "product_id": "684049",
-      "nombre": "Queso cremoso La Paulina x kg.",
-      "marca": "La Paulina",
-      "categoria": "Quesos",
-      "precio_antes": 13320.0,
-      "precio_hoy": 11319.0,
-      "precio_actual_hoy": 11319.0,
-      "diff_abs": -2001.0,
-      "diff_pct": -15.02
-    },
-    {
-      "product_id": "646550",
-      "nombre": "Queso port salut La Pauilna tradicional x kg",
-      "marca": "La Paulina",
-      "categoria": "Quesos",
-      "precio_antes": 15229.0,
-      "precio_hoy": 12945.0,
-      "precio_actual_hoy": 12945.0,
-      "diff_abs": -2284.0,
-      "diff_pct": -15.0
-    },
-    {
-      "product_id": "661208",
-      "nombre": "Port salut light horma",
+      "product_id": "686736",
+      "nombre": "Lechuga crispy hidropónica en cono",
       "marca": "Genérico",
-      "categoria": "Quesos",
-      "precio_antes": 16490.0,
-      "precio_hoy": 14019.0,
-      "precio_actual_hoy": 14019.0,
-      "diff_abs": -2471.0,
-      "diff_pct": -14.98
+      "categoria": "Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1790.0,
+      "precio_actual_hoy": 1790.0,
+      "diff_abs": -700.0,
+      "diff_pct": -28.11
     },
     {
-      "product_id": "751339",
-      "nombre": "Whisky bourbon Makers Mark en botella 750 ml",
-      "marca": "Makers Mark",
-      "categoria": "Bebidas blancas",
-      "precio_antes": 110349.0,
-      "precio_hoy": 100509.0,
-      "precio_actual_hoy": 100509.0,
-      "diff_abs": -9840.0,
-      "diff_pct": -8.92
+      "product_id": "647159",
+      "nombre": "Lechuga francesa hidropónica 220 g.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1790.0,
+      "precio_actual_hoy": 1790.0,
+      "diff_abs": -700.0,
+      "diff_pct": -28.11
     },
     {
-      "product_id": "633586",
-      "nombre": "Puré de papas instantáneo Carrefour classic 200 g.",
+      "product_id": "442355",
+      "nombre": "Pasta dental Carrefour Soft sensitive 90 g.",
       "marca": "Carrefour",
-      "categoria": "Caldos sopas y puré",
-      "precio_antes": 2390.0,
+      "categoria": "Cuidado dental",
+      "precio_antes": 4090.0,
+      "precio_hoy": 2990.0,
+      "precio_actual_hoy": 2720.9,
+      "diff_abs": -1100.0,
+      "diff_pct": -26.89
+    },
+    {
+      "product_id": "524337",
+      "nombre": "Pasta dental Sensodyne blanqueador extra fresh 90 g.",
+      "marca": "Sensodyne",
+      "categoria": "Cuidado dental",
+      "precio_antes": 6399.0,
+      "precio_hoy": 4679.0,
+      "precio_actual_hoy": 4679.0,
+      "diff_abs": -1720.0,
+      "diff_pct": -26.88
+    },
+    {
+      "product_id": "691667",
+      "nombre": "Lechuga bicolor hidropónica en cono",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 2990.0,
       "precio_hoy": 2190.0,
-      "precio_actual_hoy": 1992.9,
-      "diff_abs": -200.0,
-      "diff_pct": -8.37
+      "precio_actual_hoy": 2190.0,
+      "diff_abs": -800.0,
+      "diff_pct": -26.76
+    },
+    {
+      "product_id": "542059",
+      "nombre": "Aperitivo Aperol 750 cc.",
+      "marca": "Aperol",
+      "categoria": "Fernet y aperitivos",
+      "precio_antes": 13199.0,
+      "precio_hoy": 9899.0,
+      "precio_actual_hoy": 9899.0,
+      "diff_abs": -3300.0,
+      "diff_pct": -25.0
+    },
+    {
+      "product_id": "498564",
+      "nombre": "Alfajor de maicena Cachafaz 6 u.",
+      "marca": "Cachafaz",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 12359.0,
+      "precio_hoy": 9269.25,
+      "precio_actual_hoy": 9269.25,
+      "diff_abs": -3089.75,
+      "diff_pct": -25.0
     }
   ],
-  "productos_subieron_dia": 106,
-  "productos_bajaron_dia": 26,
-  "productos_sin_cambio_dia": 24623
+  "productos_subieron_dia": 79,
+  "productos_bajaron_dia": 58,
+  "productos_sin_cambio_dia": 24183
 }
