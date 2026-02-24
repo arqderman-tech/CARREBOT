@@ -9,11 +9,12 @@ from concurrent.futures import ThreadPoolExecutor, as_completed
 from threading import Lock
 
 # ── CONFIGURACIÓN ─────────────────────────────────────────────────────────────
-BASE_URL   = "https://www.carrefour.com.ar"
-PAGE_SIZE  = 50
-MAX_PRODS  = 2500
-MAX_WORKERS = 10     # requests concurrentes
-OUTPUT_DIR = Path("output_carrefour")
+BASE_URL        = "https://www.carrefour.com.ar"
+PAGE_SIZE       = 50
+MAX_PRODS       = 2500
+MAX_WORKERS_CAT = 8    # categorías en paralelo (no más para no banear)
+MAX_WORKERS_PAG = 6    # páginas en paralelo dentro de cada categoría
+OUTPUT_DIR      = Path("output_carrefour")
 
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36",
@@ -66,20 +67,20 @@ CATEGORIAS = [
 
 
 def crear_sesion():
+    """Cada thread necesita su propia sesión para evitar conflictos."""
     session = requests.Session()
     retry_strategy = Retry(
-        total=10,
-        backoff_factor=3,
+        total=5,
+        backoff_factor=2,          # esperas: 2s, 4s, 8s, 16s, 32s
         status_forcelist=[429, 500, 502, 503, 504],
     )
     session.mount("https://", HTTPAdapter(max_retries=retry_strategy))
     return session
 
 
-def fetch_page(args):
+def fetch_page(session, fq, from_idx, cat_nombre, cat_principal):
     """Descarga una página y devuelve los SKUs extraídos."""
-    session, fq, from_idx, cat_nombre, cat_principal = args
-    url = f"{BASE_URL}/api/catalog_system/pub/products/search"
+    url    = f"{BASE_URL}/api/catalog_system/pub/products/search"
     to_idx = from_idx + PAGE_SIZE - 1
 
     try:
@@ -119,37 +120,40 @@ def fetch_page(args):
         return [], 0, str(e)
 
 
-def get_productos_categoria(parent_id, child_id, cat_nombre, cat_principal, session):
-    fq = f"C:/{parent_id}/{child_id}/"
+def get_productos_categoria(cat_principal, cat_nombre, parent_id, child_id):
+    """Scrapea una categoría completa. Crea su propia sesión (thread-safe)."""
+    session = crear_sesion()
+    fq      = f"C:/{parent_id}/{child_id}/"
 
-    # ── Página 0: obtener total real ──────────────────────────────────────────
-    skus_p0, total_vtex, err = fetch_page((session, fq, 0, cat_nombre, cat_principal))
+    # Página 0: obtener total
+    skus_p0, total_vtex, err = fetch_page(session, fq, 0, cat_nombre, cat_principal)
     if err:
-        print(f" [Error inicial en {cat_nombre}]: {err}")
-        return [], 0
+        print(f"  [Error inicial en {cat_nombre}]: {err}")
+        return cat_nombre, [], 0
     if not skus_p0:
-        return [], total_vtex
+        return cat_nombre, [], total_vtex
 
-    # ── Páginas restantes en paralelo ─────────────────────────────────────────
-    limit = min(total_vtex, MAX_PRODS)
+    limit   = min(total_vtex, MAX_PRODS)
     offsets = list(range(PAGE_SIZE, limit, PAGE_SIZE))
 
     if not offsets:
-        return skus_p0, total_vtex
+        return cat_nombre, skus_p0, total_vtex
 
+    # Páginas restantes en paralelo (dentro de la categoría)
     all_skus = list(skus_p0)
-    page_args = [(session, fq, off, cat_nombre, cat_principal) for off in offsets]
-
-    with ThreadPoolExecutor(max_workers=MAX_WORKERS) as ex:
-        futures = {ex.submit(fetch_page, args): args[2] for args in page_args}
-        for future in as_completed(futures):
+    page_futures = {}
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS_PAG) as ex:
+        for off in offsets:
+            f = ex.submit(fetch_page, session, fq, off, cat_nombre, cat_principal)
+            page_futures[f] = off
+        for future in as_completed(page_futures):
             skus, _, err = future.result()
             if err:
-                print(f" [Error offset {futures[future]} en {cat_nombre}]: {err}")
+                print(f"  [Error offset {page_futures[future]} en {cat_nombre}]: {err}")
             else:
                 all_skus.extend(skus)
 
-    return all_skus, total_vtex
+    return cat_nombre, all_skus, total_vtex
 
 
 def main():
@@ -157,37 +161,50 @@ def main():
     timestamp    = datetime.now().strftime("%Y%m%d_%H%M%S")
     csv_filename = OUTPUT_DIR / f"carrefour_{timestamp}.csv"
     csv_lock     = Lock()
+    total_cats   = len(CATEGORIAS)
 
-    session    = crear_sesion()
-    total_cats = len(CATEGORIAS)
-    acumulado_skus = 0
+    # Contador compartido para el progreso
+    completadas    = [0]
+    acumulado_skus = [0]
+    lock_contador  = Lock()
 
     print(f"{'='*60}")
-    print(f" CARREBOT - SCRAPER COMPLETO (74 CATEGORÍAS)")
+    print(f" CARREBOT - SCRAPER COMPLETO ({total_cats} CATEGORÍAS EN PARALELO)")
     print(f" Inicia: {datetime.now().strftime('%H:%M:%S')}")
     print(f"{'='*60}\n")
 
-    for i, (cat_principal, cat_nombre, p_id, c_id) in enumerate(CATEGORIAS, 1):
-        print(f"[{i:02d}/{total_cats}] {cat_nombre.ljust(30)}", end=" ", flush=True)
+    # ── TODAS LAS CATEGORÍAS EN PARALELO ─────────────────────────────────────
+    with ThreadPoolExecutor(max_workers=MAX_WORKERS_CAT) as ex:
+        futures = {
+            ex.submit(get_productos_categoria, cp, cn, pid, cid): (cp, cn)
+            for cp, cn, pid, cid in CATEGORIAS
+        }
 
-        prods_cat, total_web = get_productos_categoria(p_id, c_id, cat_nombre, cat_principal, session)
+        for future in as_completed(futures):
+            cat_nombre, prods_cat, total_web = future.result()
+            cat_principal = futures[future][0]
 
-        if prods_cat:
-            df_temp = pd.DataFrame(prods_cat)
+            with lock_contador:
+                completadas[0] += 1
+                idx = completadas[0]
 
-            with csv_lock:
-                header_necesario = not csv_filename.exists()
-                df_temp.to_csv(csv_filename, mode="a", index=False,
-                               header=header_necesario, encoding="utf-8-sig")
+            if prods_cat:
+                df_temp = pd.DataFrame(prods_cat)
+                with csv_lock:
+                    header_necesario = not csv_filename.exists()
+                    df_temp.to_csv(csv_filename, mode="a", index=False,
+                                   header=header_necesario, encoding="utf-8-sig")
+                with lock_contador:
+                    acumulado_skus[0] += len(prods_cat)
+                    total_hasta_ahora  = acumulado_skus[0]
 
-            acumulado_skus += len(prods_cat)
-            print(f"-> {len(prods_cat)} SKUs (Total: {acumulado_skus})")
-        else:
-            print("-> SIN DATOS/ERROR")
+                print(f"[{idx:02d}/{total_cats}] {cat_nombre.ljust(30)} -> {len(prods_cat)} SKUs (Total: {total_hasta_ahora})")
+            else:
+                print(f"[{idx:02d}/{total_cats}] {cat_nombre.ljust(30)} -> SIN DATOS/ERROR")
 
     print(f"\n{'='*60}")
-    print(f" PROCESO TERMINADO")
-    print(f" Total SKUs guardados: {acumulado_skus}")
+    print(f" PROCESO TERMINADO: {datetime.now().strftime('%H:%M:%S')}")
+    print(f" Total SKUs guardados: {acumulado_skus[0]}")
     print(f" Archivo: {csv_filename}")
     print(f"{'='*60}")
 
