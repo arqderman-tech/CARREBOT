@@ -1,7 +1,7 @@
 {
-  "fecha": "20260224",
-  "total_productos": 24372,
-  "variacion_dia": -0.01,
+  "fecha": "20260225",
+  "total_productos": 24741,
+  "variacion_dia": 0.14,
   "variacion_7d": null,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -9,174 +9,174 @@
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 11,
-      "productos_bajaron": 22,
-      "productos_sin_cambio": 9347,
-      "total_productos": 9380
+      "variacion_pct_promedio": 0.21,
+      "productos_subieron": 295,
+      "productos_bajaron": 36,
+      "productos_sin_cambio": 9073,
+      "total_productos": 9404
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 24,
-      "productos_bajaron": 18,
-      "productos_sin_cambio": 3293,
-      "total_productos": 3335
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 28,
+      "productos_bajaron": 13,
+      "productos_sin_cambio": 3290,
+      "total_productos": 3331
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 13,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 640,
+      "productos_sin_cambio": 627,
       "total_productos": 640
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 35,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2477,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 2509,
       "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 6,
-      "productos_bajaron": 10,
-      "productos_sin_cambio": 1183,
-      "total_productos": 1199
+      "variacion_pct_promedio": 0.07,
+      "productos_subieron": 12,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 1185,
+      "total_productos": 1200
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 2,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 2533,
-      "total_productos": 2538
+      "variacion_pct_promedio": 0.14,
+      "productos_subieron": 54,
+      "productos_bajaron": 13,
+      "productos_sin_cambio": 2477,
+      "total_productos": 2544
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 1,
-      "productos_bajaron": 4,
-      "productos_sin_cambio": 4710,
-      "total_productos": 4715
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 58,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 4662,
+      "total_productos": 4726
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "699930",
-      "nombre": "Bocadito sin azúcar Happy -Food de dulce de leche x3 50 g.",
-      "marca": "Happy Food",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 4799.0,
-      "precio_hoy": 1919.6,
-      "precio_actual_hoy": 1919.6,
-      "diff_abs": -2879.4,
-      "diff_pct": -60.0
-    },
-    {
-      "product_id": "394471",
-      "nombre": "Aceite de oliva Carrefour Classic virgen lata 1 l.",
+      "product_id": "759981",
+      "nombre": "Galletas crackers Carrefour Classic 8 semillas 200 grs",
       "marca": "Carrefour",
-      "categoria": "Aceites y vinagres",
-      "precio_antes": 30190.0,
-      "precio_hoy": 20990.0,
-      "precio_actual_hoy": 19310.8,
-      "diff_abs": -9200.0,
-      "diff_pct": -30.47
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 1790.0,
+      "precio_hoy": 999.0,
+      "precio_actual_hoy": 909.09,
+      "diff_abs": -791.0,
+      "diff_pct": -44.19
     },
     {
-      "product_id": "691666",
-      "nombre": "Albahaca hidropónica Vequa en cono",
-      "marca": "Vequa",
-      "categoria": "Verduras",
-      "precio_antes": 3190.0,
-      "precio_hoy": 2290.0,
-      "precio_actual_hoy": 2290.0,
-      "diff_abs": -900.0,
-      "diff_pct": -28.21
-    },
-    {
-      "product_id": "686736",
-      "nombre": "Lechuga crispy hidropónica en cono",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1790.0,
-      "precio_actual_hoy": 1790.0,
-      "diff_abs": -700.0,
-      "diff_pct": -28.11
-    },
-    {
-      "product_id": "647159",
-      "nombre": "Lechuga francesa hidropónica 220 g.",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 2490.0,
-      "precio_hoy": 1790.0,
-      "precio_actual_hoy": 1790.0,
-      "diff_abs": -700.0,
-      "diff_pct": -28.11
-    },
-    {
-      "product_id": "442355",
-      "nombre": "Pasta dental Carrefour Soft sensitive 90 g.",
+      "product_id": "759982",
+      "nombre": "Galletitas crackers Carrefour Classic de sésamo 200 grs",
       "marca": "Carrefour",
-      "categoria": "Cuidado dental",
-      "precio_antes": 4090.0,
-      "precio_hoy": 2990.0,
-      "precio_actual_hoy": 2720.9,
-      "diff_abs": -1100.0,
-      "diff_pct": -26.89
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 1790.0,
+      "precio_hoy": 999.0,
+      "precio_actual_hoy": 909.09,
+      "diff_abs": -791.0,
+      "diff_pct": -44.19
     },
     {
-      "product_id": "524337",
-      "nombre": "Pasta dental Sensodyne blanqueador extra fresh 90 g.",
-      "marca": "Sensodyne",
-      "categoria": "Cuidado dental",
-      "precio_antes": 6399.0,
-      "precio_hoy": 4679.0,
-      "precio_actual_hoy": 4679.0,
-      "diff_abs": -1720.0,
-      "diff_pct": -26.88
+      "product_id": "763860",
+      "nombre": "Galletitas de chocolate Carrefour Classic rellenas de vainillas 120 grs",
+      "marca": "Carrefour",
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 1390.0,
+      "precio_hoy": 829.0,
+      "precio_actual_hoy": 754.39,
+      "diff_abs": -561.0,
+      "diff_pct": -40.36
     },
     {
-      "product_id": "691667",
-      "nombre": "Lechuga bicolor hidropónica en cono",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 2190.0,
-      "precio_actual_hoy": 2190.0,
-      "diff_abs": -800.0,
-      "diff_pct": -26.76
+      "product_id": "635576",
+      "nombre": "Toallas femeninas Carrefour colaless 8 u.",
+      "marca": "Carrefour",
+      "categoria": "Protección femenina",
+      "precio_antes": 1490.0,
+      "precio_hoy": 1190.0,
+      "precio_actual_hoy": 1082.9,
+      "diff_abs": -300.0,
+      "diff_pct": -20.13
     },
     {
-      "product_id": "542059",
-      "nombre": "Aperitivo Aperol 750 cc.",
-      "marca": "Aperol",
-      "categoria": "Fernet y aperitivos",
-      "precio_antes": 13199.0,
-      "precio_hoy": 9899.0,
-      "precio_actual_hoy": 9899.0,
-      "diff_abs": -3300.0,
-      "diff_pct": -25.0
+      "product_id": "727462",
+      "nombre": "Jabón líquido para ropa Carrefour expert en botella 3 lts.",
+      "marca": "Carrefour",
+      "categoria": "Limpieza de la ropa",
+      "precio_antes": 10590.0,
+      "precio_hoy": 8690.0,
+      "precio_actual_hoy": 8168.6,
+      "diff_abs": -1900.0,
+      "diff_pct": -17.94
     },
     {
-      "product_id": "498564",
-      "nombre": "Alfajor de maicena Cachafaz 6 u.",
-      "marca": "Cachafaz",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 12359.0,
-      "precio_hoy": 9269.25,
-      "precio_actual_hoy": 9269.25,
-      "diff_abs": -3089.75,
-      "diff_pct": -25.0
+      "product_id": "754009",
+      "nombre": "Gelatina sin sabor Carrefour Classic 14 grs",
+      "marca": "Carrefour",
+      "categoria": "Repostería y postres",
+      "precio_antes": 889.0,
+      "precio_hoy": 739.0,
+      "precio_actual_hoy": 672.49,
+      "diff_abs": -150.0,
+      "diff_pct": -16.87
+    },
+    {
+      "product_id": "734799",
+      "nombre": "Arroz parboil Carrefour Classic en bolsa 1 kg.",
+      "marca": "Carrefour",
+      "categoria": "Arroz y legumbres",
+      "precio_antes": 1890.0,
+      "precio_hoy": 1590.0,
+      "precio_actual_hoy": 1494.6,
+      "diff_abs": -300.0,
+      "diff_pct": -15.87
+    },
+    {
+      "product_id": "717933",
+      "nombre": "Mani pelado salado Carrefour classic 115 g.",
+      "marca": "Carrefour",
+      "categoria": "Snacks",
+      "precio_antes": 1290.0,
+      "precio_hoy": 1090.0,
+      "precio_actual_hoy": 991.9,
+      "diff_abs": -200.0,
+      "diff_pct": -15.5
+    },
+    {
+      "product_id": "753423",
+      "nombre": "Maní tostado sin sal Carrefour Classic 105 grs",
+      "marca": "Carrefour",
+      "categoria": "Snacks",
+      "precio_antes": 1290.0,
+      "precio_hoy": 1090.0,
+      "precio_actual_hoy": 981.0,
+      "diff_abs": -200.0,
+      "diff_pct": -15.5
+    },
+    {
+      "product_id": "383898",
+      "nombre": "Capelletti Carrefour classic ricotta y queso 500 g.",
+      "marca": "Carrefour",
+      "categoria": "Tapas y pastas frescas",
+      "precio_antes": 3090.0,
+      "precio_hoy": 2690.0,
+      "precio_actual_hoy": 2421.0,
+      "diff_abs": -400.0,
+      "diff_pct": -12.94
     }
   ],
-  "productos_subieron_dia": 79,
-  "productos_bajaron_dia": 58,
-  "productos_sin_cambio_dia": 24183
+  "productos_subieron_dia": 461,
+  "productos_bajaron_dia": 74,
+  "productos_sin_cambio_dia": 23823
 }
