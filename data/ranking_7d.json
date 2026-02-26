@@ -1,0 +1,222 @@
+[
+  {
+    "product_id": "696488",
+    "nombre": "Cepillo dental Pro doble acción x 3 uni",
+    "marca": "Pro",
+    "categoria": "Cuidado dental",
+    "precio_antes": 786.0,
+    "precio_hoy": 10519.0,
+    "precio_actual_hoy": 10519.0,
+    "diff_abs": 9733.0,
+    "diff_pct": 1238.3
+  },
+  {
+    "product_id": "730435",
+    "nombre": "Corazón x kg.",
+    "marca": "Genérico",
+    "categoria": "Carne vacuna",
+    "precio_antes": 3200.0,
+    "precio_hoy": 6809.0,
+    "precio_actual_hoy": 6809.0,
+    "diff_abs": 3609.0,
+    "diff_pct": 112.78
+  },
+  {
+    "product_id": "735120",
+    "nombre": "Lechuga morada x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2399.0,
+    "precio_hoy": 4990.0,
+    "precio_actual_hoy": 4990.0,
+    "diff_abs": 2591.0,
+    "diff_pct": 108.0
+  },
+  {
+    "product_id": "552331",
+    "nombre": "Polvo desodorante Veritas clásico 120 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 1729.0,
+    "precio_hoy": 2929.0,
+    "precio_actual_hoy": 2929.0,
+    "diff_abs": 1200.0,
+    "diff_pct": 69.4
+  },
+  {
+    "product_id": "546704",
+    "nombre": "Antitranspirante Veritas crema clásico 60 g.",
+    "marca": "Véritas",
+    "categoria": "Antitranspirantes",
+    "precio_antes": 1879.0,
+    "precio_hoy": 3169.0,
+    "precio_actual_hoy": 3169.0,
+    "diff_abs": 1290.0,
+    "diff_pct": 68.65
+  },
+  {
+    "product_id": "667158",
+    "nombre": "Oblea de chocolate Hersheys 102 g.",
+    "marca": "Hersheys",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 2400.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 4000.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.67
+  },
+  {
+    "product_id": "667155",
+    "nombre": "Oblea de chocolate blanco Hersheys 102 g.",
+    "marca": "Hersheys",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 2400.0,
+    "precio_hoy": 4000.0,
+    "precio_actual_hoy": 2400.0,
+    "diff_abs": 1600.0,
+    "diff_pct": 66.67
+  },
+  {
+    "product_id": "549576",
+    "nombre": "Polvo desodorante masculino Veritas 120 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 1780.0,
+    "precio_hoy": 2929.0,
+    "precio_actual_hoy": 2929.0,
+    "diff_abs": 1149.0,
+    "diff_pct": 64.55
+  },
+  {
+    "product_id": "549622",
+    "nombre": "Polvo pédico Veritas 180 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 2579.0,
+    "precio_hoy": 4049.0,
+    "precio_actual_hoy": 4049.0,
+    "diff_abs": 1470.0,
+    "diff_pct": 57.0
+  },
+  {
+    "product_id": "262561",
+    "nombre": "Esencia La Parmesana de almendra 110 cc.",
+    "marca": "La Parmesana",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 1459.0,
+    "precio_hoy": 2279.0,
+    "precio_actual_hoy": 2279.0,
+    "diff_abs": 820.0,
+    "diff_pct": 56.2
+  },
+  {
+    "product_id": "744145",
+    "nombre": "Acelga x atado.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 899.0,
+    "precio_hoy": 1399.0,
+    "precio_actual_hoy": 1399.0,
+    "diff_abs": 500.0,
+    "diff_pct": 55.62
+  },
+  {
+    "product_id": "549594",
+    "nombre": "Polvo desodorante Veritas clásico 180 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 2419.0,
+    "precio_hoy": 3609.0,
+    "precio_actual_hoy": 3609.0,
+    "diff_abs": 1190.0,
+    "diff_pct": 49.19
+  },
+  {
+    "product_id": "549605",
+    "nombre": "Polvo desodorante masculino Veritas 180 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 2469.0,
+    "precio_hoy": 3609.0,
+    "precio_actual_hoy": 3609.0,
+    "diff_abs": 1140.0,
+    "diff_pct": 46.17
+  },
+  {
+    "product_id": "691666",
+    "nombre": "Albahaca hidropónica Vequa en cono",
+    "marca": "Vequa",
+    "categoria": "Verduras",
+    "precio_antes": 2190.0,
+    "precio_hoy": 3190.0,
+    "precio_actual_hoy": 2290.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 45.66
+  },
+  {
+    "product_id": "549615",
+    "nombre": "Polvo pédico Veritas 120 g.",
+    "marca": "Véritas",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 2350.0,
+    "precio_hoy": 3285.0,
+    "precio_actual_hoy": 3285.0,
+    "diff_abs": 935.0,
+    "diff_pct": 39.79
+  },
+  {
+    "product_id": "718739",
+    "nombre": "Sopa instantánea Carrefour classic arvejas 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2290.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 600.0,
+    "diff_pct": 35.5
+  },
+  {
+    "product_id": "718734",
+    "nombre": "Sopa instantanea Carrefour classic light de choclo 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2290.0,
+    "precio_actual_hoy": 1537.9,
+    "diff_abs": 600.0,
+    "diff_pct": 35.5
+  },
+  {
+    "product_id": "718735",
+    "nombre": "Sopa instantánea light Carrefour classic arvejas 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2290.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 600.0,
+    "diff_pct": 35.5
+  },
+  {
+    "product_id": "718738",
+    "nombre": "Sopa instantanea Carrefour classic de choclo 5 uni",
+    "marca": "Carrefour",
+    "categoria": "Caldos sopas y puré",
+    "precio_antes": 1690.0,
+    "precio_hoy": 2290.0,
+    "precio_actual_hoy": 1588.6,
+    "diff_abs": 600.0,
+    "diff_pct": 35.5
+  },
+  {
+    "product_id": "430502",
+    "nombre": "Aceitunas verdes Yovinessa 300 g.",
+    "marca": "Yovinessa",
+    "categoria": "Enlatados y Conservas",
+    "precio_antes": 2199.0,
+    "precio_hoy": 2969.0,
+    "precio_actual_hoy": 2969.0,
+    "diff_abs": 770.0,
+    "diff_pct": 35.02
+  }
+]
