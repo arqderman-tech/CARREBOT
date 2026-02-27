@@ -11,15 +11,26 @@
     "diff_pct": 1238.3
   },
   {
-    "product_id": "730435",
-    "nombre": "Corazón x kg.",
-    "marca": "Genérico",
-    "categoria": "Carne vacuna",
-    "precio_antes": 3200.0,
-    "precio_hoy": 6809.0,
-    "precio_actual_hoy": 6809.0,
-    "diff_abs": 3609.0,
-    "diff_pct": 112.78
+    "product_id": "575805",
+    "nombre": "Repuestos para máquina de afeitar Gillette Venus breeze 2 u.",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 9359.0,
+    "precio_hoy": 33900.0,
+    "precio_actual_hoy": 33900.0,
+    "diff_abs": 24541.0,
+    "diff_pct": 262.22
+  },
+  {
+    "product_id": "575802",
+    "nombre": "Máquina de afeitar recargable Gillette Venus breeze + 1 repuesto",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 15090.0,
+    "precio_hoy": 33900.0,
+    "precio_actual_hoy": 33900.0,
+    "diff_abs": 18810.0,
+    "diff_pct": 124.65
   },
   {
     "product_id": "735120",
@@ -53,28 +64,6 @@
     "precio_actual_hoy": 3169.0,
     "diff_abs": 1290.0,
     "diff_pct": 68.65
-  },
-  {
-    "product_id": "667158",
-    "nombre": "Oblea de chocolate Hersheys 102 g.",
-    "marca": "Hersheys",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 2400.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 4000.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.67
-  },
-  {
-    "product_id": "667155",
-    "nombre": "Oblea de chocolate blanco Hersheys 102 g.",
-    "marca": "Hersheys",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 2400.0,
-    "precio_hoy": 4000.0,
-    "precio_actual_hoy": 2400.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 66.67
   },
   {
     "product_id": "549576",
@@ -121,6 +110,17 @@
     "diff_pct": 55.62
   },
   {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "product_id": "549594",
     "nombre": "Polvo desodorante Veritas clásico 180 g.",
     "marca": "Véritas",
@@ -130,6 +130,28 @@
     "precio_actual_hoy": 3609.0,
     "diff_abs": 1190.0,
     "diff_pct": 49.19
+  },
+  {
+    "product_id": "697687",
+    "nombre": "Leche en polvo entera Purisima avant 800 g.",
+    "marca": "Purísima",
+    "categoria": "Leches",
+    "precio_antes": 19269.0,
+    "precio_hoy": 28645.0,
+    "precio_actual_hoy": 28645.0,
+    "diff_abs": 9376.0,
+    "diff_pct": 48.66
+  },
+  {
+    "product_id": "607357",
+    "nombre": "Choclo crema blanca Inca en lata 350 g.",
+    "marca": "Inca",
+    "categoria": "Enlatados y Conservas",
+    "precio_antes": 849.0,
+    "precio_hoy": 1249.0,
+    "precio_actual_hoy": 1249.0,
+    "diff_abs": 400.0,
+    "diff_pct": 47.11
   },
   {
     "product_id": "549605",
@@ -154,6 +176,17 @@
     "diff_pct": 45.66
   },
   {
+    "product_id": "730444",
+    "nombre": "Rabo x kg.",
+    "marca": "Genérico",
+    "categoria": "Carne vacuna",
+    "precio_antes": 7009.0,
+    "precio_hoy": 9900.0,
+    "precio_actual_hoy": 9900.0,
+    "diff_abs": 2891.0,
+    "diff_pct": 41.25
+  },
+  {
     "product_id": "549615",
     "nombre": "Polvo pédico Veritas 120 g.",
     "marca": "Véritas",
@@ -165,50 +198,6 @@
     "diff_pct": 39.79
   },
   {
-    "product_id": "718739",
-    "nombre": "Sopa instantánea Carrefour classic arvejas 5 uni",
-    "marca": "Carrefour",
-    "categoria": "Caldos sopas y puré",
-    "precio_antes": 1690.0,
-    "precio_hoy": 2290.0,
-    "precio_actual_hoy": 1588.6,
-    "diff_abs": 600.0,
-    "diff_pct": 35.5
-  },
-  {
-    "product_id": "718734",
-    "nombre": "Sopa instantanea Carrefour classic light de choclo 5 uni",
-    "marca": "Carrefour",
-    "categoria": "Caldos sopas y puré",
-    "precio_antes": 1690.0,
-    "precio_hoy": 2290.0,
-    "precio_actual_hoy": 1537.9,
-    "diff_abs": 600.0,
-    "diff_pct": 35.5
-  },
-  {
-    "product_id": "718735",
-    "nombre": "Sopa instantánea light Carrefour classic arvejas 5 uni",
-    "marca": "Carrefour",
-    "categoria": "Caldos sopas y puré",
-    "precio_antes": 1690.0,
-    "precio_hoy": 2290.0,
-    "precio_actual_hoy": 1588.6,
-    "diff_abs": 600.0,
-    "diff_pct": 35.5
-  },
-  {
-    "product_id": "718738",
-    "nombre": "Sopa instantanea Carrefour classic de choclo 5 uni",
-    "marca": "Carrefour",
-    "categoria": "Caldos sopas y puré",
-    "precio_antes": 1690.0,
-    "precio_hoy": 2290.0,
-    "precio_actual_hoy": 1588.6,
-    "diff_abs": 600.0,
-    "diff_pct": 35.5
-  },
-  {
     "product_id": "430502",
     "nombre": "Aceitunas verdes Yovinessa 300 g.",
     "marca": "Yovinessa",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 2969.0,
     "diff_abs": 770.0,
     "diff_pct": 35.02
+  },
+  {
+    "product_id": "714501",
+    "nombre": "Agua de mesa Rumipal bidón 6 lts",
+    "marca": "Genérico",
+    "categoria": "Aguas",
+    "precio_antes": 1950.0,
+    "precio_hoy": 2630.0,
+    "precio_actual_hoy": 2630.0,
+    "diff_abs": 680.0,
+    "diff_pct": 34.87
   }
 ]
