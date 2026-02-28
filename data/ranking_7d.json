@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "696488",
-    "nombre": "Cepillo dental Pro doble acción x 3 uni",
-    "marca": "Pro",
-    "categoria": "Cuidado dental",
-    "precio_antes": 786.0,
-    "precio_hoy": 10519.0,
-    "precio_actual_hoy": 10519.0,
-    "diff_abs": 9733.0,
-    "diff_pct": 1238.3
-  },
-  {
     "product_id": "575805",
     "nombre": "Repuestos para máquina de afeitar Gillette Venus breeze 2 u.",
     "marca": "Gillette",
@@ -66,6 +55,17 @@
     "diff_pct": 68.65
   },
   {
+    "product_id": "764048",
+    "nombre": "NESTLÉ Chocolate con leche 45 grs",
+    "marca": "Nestlé",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 1991.4,
+    "precio_hoy": 3319.0,
+    "precio_actual_hoy": 3319.0,
+    "diff_abs": 1327.6,
+    "diff_pct": 66.67
+  },
+  {
     "product_id": "549576",
     "nombre": "Polvo desodorante masculino Veritas 120 g.",
     "marca": "Véritas",
@@ -88,17 +88,6 @@
     "diff_pct": 57.0
   },
   {
-    "product_id": "262561",
-    "nombre": "Esencia La Parmesana de almendra 110 cc.",
-    "marca": "La Parmesana",
-    "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 1459.0,
-    "precio_hoy": 2279.0,
-    "precio_actual_hoy": 2279.0,
-    "diff_abs": 820.0,
-    "diff_pct": 56.2
-  },
-  {
     "product_id": "744145",
     "nombre": "Acelga x atado.",
     "marca": "Genérico",
@@ -108,17 +97,6 @@
     "precio_actual_hoy": 1399.0,
     "diff_abs": 500.0,
     "diff_pct": 55.62
-  },
-  {
-    "product_id": "735054",
-    "nombre": "Lechuga capuchina x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
   },
   {
     "product_id": "549594",
@@ -132,28 +110,6 @@
     "diff_pct": 49.19
   },
   {
-    "product_id": "697687",
-    "nombre": "Leche en polvo entera Purisima avant 800 g.",
-    "marca": "Purísima",
-    "categoria": "Leches",
-    "precio_antes": 19269.0,
-    "precio_hoy": 28645.0,
-    "precio_actual_hoy": 28645.0,
-    "diff_abs": 9376.0,
-    "diff_pct": 48.66
-  },
-  {
-    "product_id": "607357",
-    "nombre": "Choclo crema blanca Inca en lata 350 g.",
-    "marca": "Inca",
-    "categoria": "Enlatados y Conservas",
-    "precio_antes": 849.0,
-    "precio_hoy": 1249.0,
-    "precio_actual_hoy": 1249.0,
-    "diff_abs": 400.0,
-    "diff_pct": 47.11
-  },
-  {
     "product_id": "549605",
     "nombre": "Polvo desodorante masculino Veritas 180 g.",
     "marca": "Véritas",
@@ -165,15 +121,37 @@
     "diff_pct": 46.17
   },
   {
-    "product_id": "691666",
-    "nombre": "Albahaca hidropónica Vequa en cono",
-    "marca": "Vequa",
-    "categoria": "Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 3190.0,
-    "precio_actual_hoy": 2290.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 45.66
+    "product_id": "756002",
+    "nombre": "Galletitas dulces Marini Moncremi crema limón 150 grs",
+    "marca": "Marini",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 2743.0,
+    "precio_hoy": 3919.0,
+    "precio_actual_hoy": 2743.0,
+    "diff_abs": 1176.0,
+    "diff_pct": 42.87
+  },
+  {
+    "product_id": "755258",
+    "nombre": "Galletitas dulce Marini moncremi crema y coco 150 grs",
+    "marca": "Marini",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 2750.0,
+    "precio_hoy": 3929.0,
+    "precio_actual_hoy": 2750.0,
+    "diff_abs": 1179.0,
+    "diff_pct": 42.87
+  },
+  {
+    "product_id": "755257",
+    "nombre": "Galletitas dulces Marini cantuccini con chocolate 200 grs",
+    "marca": "Marini",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 3983.0,
+    "precio_hoy": 5690.0,
+    "precio_actual_hoy": 3983.0,
+    "diff_abs": 1707.0,
+    "diff_pct": 42.86
   },
   {
     "product_id": "730444",
@@ -198,17 +176,6 @@
     "diff_pct": 39.79
   },
   {
-    "product_id": "430502",
-    "nombre": "Aceitunas verdes Yovinessa 300 g.",
-    "marca": "Yovinessa",
-    "categoria": "Enlatados y Conservas",
-    "precio_antes": 2199.0,
-    "precio_hoy": 2969.0,
-    "precio_actual_hoy": 2969.0,
-    "diff_abs": 770.0,
-    "diff_pct": 35.02
-  },
-  {
     "product_id": "714501",
     "nombre": "Agua de mesa Rumipal bidón 6 lts",
     "marca": "Genérico",
@@ -218,5 +185,38 @@
     "precio_actual_hoy": 2630.0,
     "diff_abs": 680.0,
     "diff_pct": 34.87
+  },
+  {
+    "product_id": "735876",
+    "nombre": "Chicle Beldent confitado menta 28 uni",
+    "marca": "Beldent",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 5345.0,
+    "precio_hoy": 7200.0,
+    "precio_actual_hoy": 7200.0,
+    "diff_abs": 1855.0,
+    "diff_pct": 34.71
+  },
+  {
+    "product_id": "546710",
+    "nombre": "Antitranspirante Veritas crema esencial 60 g.",
+    "marca": "Véritas",
+    "categoria": "Antitranspirantes",
+    "precio_antes": 2369.0,
+    "precio_hoy": 3169.0,
+    "precio_actual_hoy": 3169.0,
+    "diff_abs": 800.0,
+    "diff_pct": 33.77
+  },
+  {
+    "product_id": "701396",
+    "nombre": "Jabón líquido Espadol antibacterial repuesto 220 cc.",
+    "marca": "Espadol",
+    "categoria": "Jabones",
+    "precio_antes": 3050.65,
+    "precio_hoy": 4079.0,
+    "precio_actual_hoy": 4079.0,
+    "diff_abs": 1028.35,
+    "diff_pct": 33.71
   }
 ]
