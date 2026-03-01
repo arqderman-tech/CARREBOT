@@ -55,17 +55,6 @@
     "diff_pct": 68.65
   },
   {
-    "product_id": "764048",
-    "nombre": "NESTLÉ Chocolate con leche 45 grs",
-    "marca": "Nestlé",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 1991.4,
-    "precio_hoy": 3319.0,
-    "precio_actual_hoy": 3319.0,
-    "diff_abs": 1327.6,
-    "diff_pct": 66.67
-  },
-  {
     "product_id": "549576",
     "nombre": "Polvo desodorante masculino Veritas 120 g.",
     "marca": "Véritas",
@@ -99,6 +88,17 @@
     "diff_pct": 55.62
   },
   {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "product_id": "549594",
     "nombre": "Polvo desodorante Veritas clásico 180 g.",
     "marca": "Véritas",
@@ -119,39 +119,6 @@
     "precio_actual_hoy": 3609.0,
     "diff_abs": 1140.0,
     "diff_pct": 46.17
-  },
-  {
-    "product_id": "756002",
-    "nombre": "Galletitas dulces Marini Moncremi crema limón 150 grs",
-    "marca": "Marini",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 2743.0,
-    "precio_hoy": 3919.0,
-    "precio_actual_hoy": 2743.0,
-    "diff_abs": 1176.0,
-    "diff_pct": 42.87
-  },
-  {
-    "product_id": "755258",
-    "nombre": "Galletitas dulce Marini moncremi crema y coco 150 grs",
-    "marca": "Marini",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 2750.0,
-    "precio_hoy": 3929.0,
-    "precio_actual_hoy": 2750.0,
-    "diff_abs": 1179.0,
-    "diff_pct": 42.87
-  },
-  {
-    "product_id": "755257",
-    "nombre": "Galletitas dulces Marini cantuccini con chocolate 200 grs",
-    "marca": "Marini",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 3983.0,
-    "precio_hoy": 5690.0,
-    "precio_actual_hoy": 3983.0,
-    "diff_abs": 1707.0,
-    "diff_pct": 42.86
   },
   {
     "product_id": "730444",
@@ -209,14 +176,47 @@
     "diff_pct": 33.77
   },
   {
-    "product_id": "701396",
-    "nombre": "Jabón líquido Espadol antibacterial repuesto 220 cc.",
-    "marca": "Espadol",
-    "categoria": "Jabones",
-    "precio_antes": 3050.65,
-    "precio_hoy": 4079.0,
-    "precio_actual_hoy": 4079.0,
-    "diff_abs": 1028.35,
-    "diff_pct": 33.71
+    "product_id": "341748",
+    "nombre": "Lechuga mantecosa lavada Filieres 200 g.",
+    "marca": "Filieres",
+    "categoria": "Verduras",
+    "precio_antes": 4499.0,
+    "precio_hoy": 5990.0,
+    "precio_actual_hoy": 5990.0,
+    "diff_abs": 1491.0,
+    "diff_pct": 33.14
+  },
+  {
+    "product_id": "709216",
+    "nombre": "Langostinos enteros grande Mercado del Mar x kg.",
+    "marca": "Mercado del Mar",
+    "categoria": "Pescados y mariscos",
+    "precio_antes": 21222.0,
+    "precio_hoy": 27249.0,
+    "precio_actual_hoy": 27249.0,
+    "diff_abs": 6027.0,
+    "diff_pct": 28.4
+  },
+  {
+    "product_id": "637094",
+    "nombre": "Enjuague bucal Algabo artic 500 cc.",
+    "marca": "Algabo",
+    "categoria": "Cuidado dental",
+    "precio_antes": 3879.0,
+    "precio_hoy": 4879.0,
+    "precio_actual_hoy": 4879.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 25.78
+  },
+  {
+    "product_id": "562508",
+    "nombre": "Autobrillo negro Suiza en botella 900 cc.",
+    "marca": "Suiza",
+    "categoria": "Limpieza pisos y muebles",
+    "precio_antes": 5700.0,
+    "precio_hoy": 7149.0,
+    "precio_actual_hoy": 7149.0,
+    "diff_abs": 1449.0,
+    "diff_pct": 25.42
   }
 ]

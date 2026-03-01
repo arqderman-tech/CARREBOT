@@ -1,182 +1,182 @@
 {
-  "fecha": "20260228",
-  "total_productos": 24821,
-  "variacion_dia": 0.04,
-  "variacion_7d": 0.34,
+  "fecha": "20260301",
+  "total_productos": 24793,
+  "variacion_dia": 0.0,
+  "variacion_7d": 0.33,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 45,
-      "productos_bajaron": 5,
-      "productos_sin_cambio": 9363,
-      "total_productos": 9413
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 4,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 9392,
+      "total_productos": 9399
     },
     {
       "categoria": "Frescos",
       "variacion_pct_promedio": 0.02,
-      "productos_subieron": 12,
-      "productos_bajaron": 7,
-      "productos_sin_cambio": 3353,
-      "total_productos": 3372
+      "productos_subieron": 4,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 3363,
+      "total_productos": 3371
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1016,
-      "total_productos": 1017
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 1014,
+      "total_productos": 1016
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 53,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2459,
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 2511,
       "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.0,
+      "variacion_pct_promedio": 0.0,
       "productos_subieron": 0,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1199,
-      "total_productos": 1200
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 1197,
+      "total_productos": 1197
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 50,
-      "productos_bajaron": 44,
-      "productos_sin_cambio": 2478,
-      "total_productos": 2572
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 5,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 2559,
+      "total_productos": 2566
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.13,
-      "productos_subieron": 183,
-      "productos_bajaron": 141,
-      "productos_sin_cambio": 4406,
-      "total_productos": 4730
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 4723,
+      "total_productos": 4728
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "735054",
-      "nombre": "Lechuga capuchina x kg.",
+      "product_id": "734759",
+      "nombre": "Batata suelta x kg.",
       "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "precio_actual_hoy": 1990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -33.44
-    },
-    {
-      "product_id": "735528",
-      "nombre": "Pera x kg.",
-      "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "precio_actual_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
-    },
-    {
-      "product_id": "297143",
-      "nombre": "Cera depilatoria Estilo Spa vegetal pote repuesto 200 g.",
-      "marca": "Estilo Spa",
-      "categoria": "Cuidado corporal",
-      "precio_antes": 4305.0,
-      "precio_hoy": 3659.0,
-      "precio_actual_hoy": 3659.0,
-      "diff_abs": -646.0,
-      "diff_pct": -15.01
-    },
-    {
-      "product_id": "739947",
-      "nombre": "Acondicionador Alta Moda micelar glowup 300 cc.",
-      "marca": "Alta Moda",
-      "categoria": "Cuidado del cabello",
-      "precio_antes": 8599.0,
-      "precio_hoy": 7309.0,
-      "precio_actual_hoy": 7309.0,
-      "diff_abs": -1290.0,
-      "diff_pct": -15.0
-    },
-    {
-      "product_id": "674964",
-      "nombre": "Perfumina repuesto lavanda Aire Pur botella 400 cc.",
-      "marca": "Aire Pur",
-      "categoria": "Desodorantes de ambiente",
-      "precio_antes": 7469.0,
-      "precio_hoy": 6349.0,
-      "precio_actual_hoy": 6349.0,
-      "diff_abs": -1120.0,
-      "diff_pct": -15.0
-    },
-    {
-      "product_id": "750591",
-      "nombre": "Limpiador líquido Glade floral en botella 4 lts",
-      "marca": "Glade",
-      "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 9409.0,
-      "precio_hoy": 7999.0,
-      "precio_actual_hoy": 7999.0,
-      "diff_abs": -1410.0,
-      "diff_pct": -14.99
-    },
-    {
-      "product_id": "677337",
-      "nombre": "Zorro Lavavajillas Naranja y Jengibre 300 ml",
-      "marca": "Zorro",
-      "categoria": "Limpieza de cocina",
-      "precio_antes": 2669.0,
-      "precio_hoy": 2269.0,
-      "precio_actual_hoy": 1474.85,
+      "precio_antes": 1899.0,
+      "precio_hoy": 1499.0,
+      "precio_actual_hoy": 1499.0,
       "diff_abs": -400.0,
-      "diff_pct": -14.99
+      "diff_pct": -21.06
     },
     {
-      "product_id": "634564",
-      "nombre": "Crema multipropósito hidratante Nivea men creme para todo tipo de piel 150 ml. Crema multipropósito hidratante Nivea Men Creme para todo tipo de piel 150 ml",
-      "marca": "Nivea",
+      "product_id": "631131",
+      "nombre": "Cerveza blanca Miller 330 ml",
+      "marca": "Miller",
+      "categoria": "Cervezas",
+      "precio_antes": 3020.0,
+      "precio_hoy": 2675.0,
+      "precio_actual_hoy": 2675.0,
+      "diff_abs": -345.0,
+      "diff_pct": -11.42
+    },
+    {
+      "product_id": "571644",
+      "nombre": "Langostinos pelados cocidos 250 g.",
+      "marca": "Superbe",
+      "categoria": "Pescados cong.",
+      "precio_antes": 12109.0,
+      "precio_hoy": 10899.0,
+      "precio_actual_hoy": 10899.0,
+      "diff_abs": -1210.0,
+      "diff_pct": -9.99
+    },
+    {
+      "product_id": "656746",
+      "nombre": "Jamón cocido Paladini bajo sodio 150 g.",
+      "marca": "Paladini",
+      "categoria": "Fiambres",
+      "precio_antes": 4585.0,
+      "precio_hoy": 4159.0,
+      "precio_actual_hoy": 4159.0,
+      "diff_abs": -426.0,
+      "diff_pct": -9.29
+    },
+    {
+      "product_id": "762865",
+      "nombre": "Alfajor de maizena 6 uni",
+      "marca": "Genérico",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 5990.0,
+      "precio_hoy": 5490.0,
+      "precio_actual_hoy": 5490.0,
+      "diff_abs": -500.0,
+      "diff_pct": -8.35
+    },
+    {
+      "product_id": "630481",
+      "nombre": "Exfoliante facial Neutrogena para acné proofing 100 g.",
+      "marca": "Neutrogena",
       "categoria": "Cuidado de la piel",
-      "precio_antes": 5759.0,
-      "precio_hoy": 4940.0,
-      "precio_actual_hoy": 4940.0,
-      "diff_abs": -819.0,
-      "diff_pct": -14.22
+      "precio_antes": 12889.0,
+      "precio_hoy": 11819.0,
+      "precio_actual_hoy": 11819.0,
+      "diff_abs": -1070.0,
+      "diff_pct": -8.3
     },
     {
-      "product_id": "748502",
-      "nombre": "Aromatizante ambiental Glade Coco Vibes Aceite Natural Pack x2 21 ml",
-      "marca": "Glade",
-      "categoria": "Desodorantes de ambiente",
-      "precio_antes": 17959.0,
-      "precio_hoy": 15469.0,
-      "precio_actual_hoy": 15469.0,
-      "diff_abs": -2490.0,
-      "diff_pct": -13.86
+      "product_id": "743719",
+      "nombre": "Mermelada de frambuesa Schwartau en frasco 340 g.",
+      "marca": "Schwartau",
+      "categoria": "Mermeladas y dulces",
+      "precio_antes": 9500.0,
+      "precio_hoy": 8769.0,
+      "precio_actual_hoy": 8769.0,
+      "diff_abs": -731.0,
+      "diff_pct": -7.69
     },
     {
-      "product_id": "653330",
-      "nombre": "Aromatizante para telas Aire Pur rocío de bambú 400 cc.",
-      "marca": "Aire Pur",
-      "categoria": "Limpieza de la ropa",
-      "precio_antes": 7469.0,
-      "precio_hoy": 6469.0,
-      "precio_actual_hoy": 6469.0,
+      "product_id": "697146",
+      "nombre": "Suprema de pollo Avícola Lujan x kg.",
+      "marca": "Avícola Luján",
+      "categoria": "Pollo y granja",
+      "precio_antes": 16900.0,
+      "precio_hoy": 16000.0,
+      "precio_actual_hoy": 16000.0,
+      "diff_abs": -900.0,
+      "diff_pct": -5.33
+    },
+    {
+      "product_id": "733209",
+      "nombre": "Cacao en polvo Exquisita 150 g.",
+      "marca": "Exquisita",
+      "categoria": "Infusiones",
+      "precio_antes": 2030.0,
+      "precio_hoy": 1925.0,
+      "precio_actual_hoy": 1925.0,
+      "diff_abs": -105.0,
+      "diff_pct": -5.17
+    },
+    {
+      "product_id": "760165",
+      "nombre": "Vino blanco Chardonnay Numina 750 ml",
+      "marca": "Numina",
+      "categoria": "Vinos",
+      "precio_antes": 20200.0,
+      "precio_hoy": 19200.0,
+      "precio_actual_hoy": 19200.0,
       "diff_abs": -1000.0,
-      "diff_pct": -13.39
+      "diff_pct": -4.95
     }
   ],
-  "productos_subieron_dia": 344,
-  "productos_bajaron_dia": 199,
-  "productos_sin_cambio_dia": 24274
+  "productos_subieron_dia": 14,
+  "productos_bajaron_dia": 17,
+  "productos_sin_cambio_dia": 24759
 }
