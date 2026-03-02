@@ -1,7 +1,7 @@
 {
-  "fecha": "20260301",
-  "total_productos": 24793,
-  "variacion_dia": 0.0,
+  "fecha": "20260302",
+  "total_productos": 24787,
+  "variacion_dia": 0.01,
   "variacion_7d": 0.33,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -9,174 +9,174 @@
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 4,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 9392,
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 75,
+      "productos_bajaron": 29,
+      "productos_sin_cambio": 9295,
       "total_productos": 9399
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 4,
-      "productos_bajaron": 4,
-      "productos_sin_cambio": 3363,
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 15,
+      "productos_bajaron": 13,
+      "productos_sin_cambio": 3343,
       "total_productos": 3371
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 1014,
-      "total_productos": 1016
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 5,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 1009,
+      "total_productos": 1015
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 2511,
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 2512,
       "total_productos": 2513
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 0,
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 5,
       "productos_bajaron": 0,
-      "productos_sin_cambio": 1197,
-      "total_productos": 1197
+      "productos_sin_cambio": 1190,
+      "total_productos": 1195
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 5,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 2559,
-      "total_productos": 2566
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 7,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 2556,
+      "total_productos": 2569
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 4,
-      "productos_sin_cambio": 4723,
-      "total_productos": 4728
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 0,
+      "productos_bajaron": 0,
+      "productos_sin_cambio": 4725,
+      "total_productos": 4725
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "734759",
-      "nombre": "Batata suelta x kg.",
+      "product_id": "535879",
+      "nombre": "Turrón de maní Carrefour classic semiblando 100 g.",
+      "marca": "Carrefour",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 1890.0,
+      "precio_hoy": 990.0,
+      "precio_actual_hoy": 910.8,
+      "diff_abs": -900.0,
+      "diff_pct": -47.62
+    },
+    {
+      "product_id": "735054",
+      "nombre": "Lechuga capuchina x kg.",
       "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 1899.0,
-      "precio_hoy": 1499.0,
-      "precio_actual_hoy": 1499.0,
-      "diff_abs": -400.0,
-      "diff_pct": -21.06
-    },
-    {
-      "product_id": "631131",
-      "nombre": "Cerveza blanca Miller 330 ml",
-      "marca": "Miller",
-      "categoria": "Cervezas",
-      "precio_antes": 3020.0,
-      "precio_hoy": 2675.0,
-      "precio_actual_hoy": 2675.0,
-      "diff_abs": -345.0,
-      "diff_pct": -11.42
-    },
-    {
-      "product_id": "571644",
-      "nombre": "Langostinos pelados cocidos 250 g.",
-      "marca": "Superbe",
-      "categoria": "Pescados cong.",
-      "precio_antes": 12109.0,
-      "precio_hoy": 10899.0,
-      "precio_actual_hoy": 10899.0,
-      "diff_abs": -1210.0,
-      "diff_pct": -9.99
-    },
-    {
-      "product_id": "656746",
-      "nombre": "Jamón cocido Paladini bajo sodio 150 g.",
-      "marca": "Paladini",
-      "categoria": "Fiambres",
-      "precio_antes": 4585.0,
-      "precio_hoy": 4159.0,
-      "precio_actual_hoy": 4159.0,
-      "diff_abs": -426.0,
-      "diff_pct": -9.29
-    },
-    {
-      "product_id": "762865",
-      "nombre": "Alfajor de maizena 6 uni",
-      "marca": "Genérico",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 5990.0,
-      "precio_hoy": 5490.0,
-      "precio_actual_hoy": 5490.0,
-      "diff_abs": -500.0,
-      "diff_pct": -8.35
-    },
-    {
-      "product_id": "630481",
-      "nombre": "Exfoliante facial Neutrogena para acné proofing 100 g.",
-      "marca": "Neutrogena",
-      "categoria": "Cuidado de la piel",
-      "precio_antes": 12889.0,
-      "precio_hoy": 11819.0,
-      "precio_actual_hoy": 11819.0,
-      "diff_abs": -1070.0,
-      "diff_pct": -8.3
-    },
-    {
-      "product_id": "743719",
-      "nombre": "Mermelada de frambuesa Schwartau en frasco 340 g.",
-      "marca": "Schwartau",
-      "categoria": "Mermeladas y dulces",
-      "precio_antes": 9500.0,
-      "precio_hoy": 8769.0,
-      "precio_actual_hoy": 8769.0,
-      "diff_abs": -731.0,
-      "diff_pct": -7.69
-    },
-    {
-      "product_id": "697146",
-      "nombre": "Suprema de pollo Avícola Lujan x kg.",
-      "marca": "Avícola Luján",
-      "categoria": "Pollo y granja",
-      "precio_antes": 16900.0,
-      "precio_hoy": 16000.0,
-      "precio_actual_hoy": 16000.0,
-      "diff_abs": -900.0,
-      "diff_pct": -5.33
-    },
-    {
-      "product_id": "733209",
-      "nombre": "Cacao en polvo Exquisita 150 g.",
-      "marca": "Exquisita",
-      "categoria": "Infusiones",
-      "precio_antes": 2030.0,
-      "precio_hoy": 1925.0,
-      "precio_actual_hoy": 1925.0,
-      "diff_abs": -105.0,
-      "diff_pct": -5.17
-    },
-    {
-      "product_id": "760165",
-      "nombre": "Vino blanco Chardonnay Numina 750 ml",
-      "marca": "Numina",
-      "categoria": "Vinos",
-      "precio_antes": 20200.0,
-      "precio_hoy": 19200.0,
-      "precio_actual_hoy": 19200.0,
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "precio_actual_hoy": 1990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -4.95
+      "diff_pct": -33.44
+    },
+    {
+      "product_id": "684052",
+      "nombre": "Queso parmesano La Paulina x kg.",
+      "marca": "La Paulina",
+      "categoria": "Quesos",
+      "precio_antes": 35250.0,
+      "precio_hoy": 23900.0,
+      "precio_actual_hoy": 23900.0,
+      "diff_abs": -11350.0,
+      "diff_pct": -32.2
+    },
+    {
+      "product_id": "425720",
+      "nombre": "Budín Carrefour classic limón 220 g.",
+      "marca": "Carrefour",
+      "categoria": "Budines y magdalenas",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1390.0,
+      "precio_actual_hoy": 1251.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.15
+    },
+    {
+      "product_id": "427913",
+      "nombre": "Budín Carrefour classic naranja 220 g.",
+      "marca": "Carrefour",
+      "categoria": "Budines y magdalenas",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1390.0,
+      "precio_actual_hoy": 1251.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.15
+    },
+    {
+      "product_id": "370462",
+      "nombre": "Budín Carrefour classic vainilla 220 g.",
+      "marca": "Carrefour",
+      "categoria": "Budines y magdalenas",
+      "precio_antes": 1990.0,
+      "precio_hoy": 1390.0,
+      "precio_actual_hoy": 1251.0,
+      "diff_abs": -600.0,
+      "diff_pct": -30.15
+    },
+    {
+      "product_id": "691666",
+      "nombre": "Albahaca hidropónica Vequa en cono",
+      "marca": "Vequa",
+      "categoria": "Verduras",
+      "precio_antes": 3190.0,
+      "precio_hoy": 2290.0,
+      "precio_actual_hoy": 2290.0,
+      "diff_abs": -900.0,
+      "diff_pct": -28.21
+    },
+    {
+      "product_id": "647159",
+      "nombre": "Lechuga francesa hidropónica 220 g.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1790.0,
+      "precio_actual_hoy": 1790.0,
+      "diff_abs": -700.0,
+      "diff_pct": -28.11
+    },
+    {
+      "product_id": "686736",
+      "nombre": "Lechuga crispy hidropónica en cono",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1790.0,
+      "precio_actual_hoy": 1790.0,
+      "diff_abs": -700.0,
+      "diff_pct": -28.11
+    },
+    {
+      "product_id": "737473",
+      "nombre": "Sal fina Bulnez en bolsa 500 g.",
+      "marca": "Bulnez",
+      "categoria": "Sal aderezos y saborizadores",
+      "precio_antes": 999.0,
+      "precio_hoy": 739.0,
+      "precio_actual_hoy": 739.0,
+      "diff_abs": -260.0,
+      "diff_pct": -26.03
     }
   ],
-  "productos_subieron_dia": 14,
-  "productos_bajaron_dia": 17,
-  "productos_sin_cambio_dia": 24759
+  "productos_subieron_dia": 108,
+  "productos_bajaron_dia": 49,
+  "productos_sin_cambio_dia": 24630
 }

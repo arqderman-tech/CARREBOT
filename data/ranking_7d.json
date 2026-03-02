@@ -88,17 +88,6 @@
     "diff_pct": 55.62
   },
   {
-    "product_id": "735054",
-    "nombre": "Lechuga capuchina x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
     "product_id": "549594",
     "nombre": "Polvo desodorante Veritas clásico 180 g.",
     "marca": "Véritas",
@@ -185,6 +174,17 @@
     "precio_actual_hoy": 5990.0,
     "diff_abs": 1491.0,
     "diff_pct": 33.14
+  },
+  {
+    "product_id": "655598",
+    "nombre": "Mortadela mini Cagnoli 300 g.",
+    "marca": "Cagnoli",
+    "categoria": "Fiambres",
+    "precio_antes": 3390.0,
+    "precio_hoy": 4355.0,
+    "precio_actual_hoy": 4355.0,
+    "diff_abs": 965.0,
+    "diff_pct": 28.47
   },
   {
     "product_id": "709216",
