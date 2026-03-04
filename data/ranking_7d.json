@@ -11,6 +11,94 @@
     "diff_pct": 262.22
   },
   {
+    "product_id": "8350",
+    "nombre": "Mango x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1665.0,
+    "precio_hoy": 5999.0,
+    "precio_actual_hoy": 5999.0,
+    "diff_abs": 4334.0,
+    "diff_pct": 260.3
+  },
+  {
+    "product_id": "718864",
+    "nombre": "Berenjena blanca x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1600.0,
+    "precio_hoy": 4999.0,
+    "precio_actual_hoy": 4999.0,
+    "diff_abs": 3399.0,
+    "diff_pct": 212.44
+  },
+  {
+    "product_id": "718907",
+    "nombre": "Pimiento rojo x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2600.0,
+    "precio_hoy": 7990.0,
+    "precio_actual_hoy": 7990.0,
+    "diff_abs": 5390.0,
+    "diff_pct": 207.31
+  },
+  {
+    "product_id": "8354",
+    "nombre": "Palta Hass",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2755.0,
+    "precio_hoy": 7999.0,
+    "precio_actual_hoy": 7999.0,
+    "diff_abs": 5244.0,
+    "diff_pct": 190.34
+  },
+  {
+    "product_id": "718869",
+    "nombre": "Berenjena rayada x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1400.0,
+    "precio_hoy": 3599.0,
+    "precio_actual_hoy": 3599.0,
+    "diff_abs": 2199.0,
+    "diff_pct": 157.07
+  },
+  {
+    "product_id": "718903",
+    "nombre": "Pepino x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1000.0,
+    "precio_hoy": 2490.0,
+    "precio_actual_hoy": 2490.0,
+    "diff_abs": 1490.0,
+    "diff_pct": 149.0
+  },
+  {
+    "product_id": "718920",
+    "nombre": "Aji vinagre x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2000.0,
+    "precio_hoy": 4699.0,
+    "precio_actual_hoy": 4699.0,
+    "diff_abs": 2699.0,
+    "diff_pct": 134.95
+  },
+  {
+    "product_id": "602765",
+    "nombre": "Naranja ombligo premium x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1490.0,
+    "precio_hoy": 3499.0,
+    "precio_actual_hoy": 3499.0,
+    "diff_abs": 2009.0,
+    "diff_pct": 134.83
+  },
+  {
     "product_id": "575802",
     "nombre": "Máquina de afeitar recargable Gillette Venus breeze + 1 repuesto",
     "marca": "Gillette",
@@ -42,6 +130,17 @@
     "precio_actual_hoy": 4990.0,
     "diff_abs": 2591.0,
     "diff_pct": 108.0
+  },
+  {
+    "product_id": "718882",
+    "nombre": "Chaucha rolliza x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2300.0,
+    "precio_hoy": 4599.0,
+    "precio_actual_hoy": 4599.0,
+    "diff_abs": 2299.0,
+    "diff_pct": 99.96
   },
   {
     "product_id": "552331",
@@ -99,6 +198,17 @@
     "diff_pct": 55.62
   },
   {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
     "product_id": "549594",
     "nombre": "Polvo desodorante Veritas clásico 180 g.",
     "marca": "Véritas",
@@ -108,115 +218,5 @@
     "precio_actual_hoy": 3609.0,
     "diff_abs": 1190.0,
     "diff_pct": 49.19
-  },
-  {
-    "product_id": "549605",
-    "nombre": "Polvo desodorante masculino Veritas 180 g.",
-    "marca": "Véritas",
-    "categoria": "Cuidado corporal",
-    "precio_antes": 2469.0,
-    "precio_hoy": 3609.0,
-    "precio_actual_hoy": 3609.0,
-    "diff_abs": 1140.0,
-    "diff_pct": 46.17
-  },
-  {
-    "product_id": "730444",
-    "nombre": "Rabo x kg.",
-    "marca": "Genérico",
-    "categoria": "Carne vacuna",
-    "precio_antes": 7009.0,
-    "precio_hoy": 9900.0,
-    "precio_actual_hoy": 9900.0,
-    "diff_abs": 2891.0,
-    "diff_pct": 41.25
-  },
-  {
-    "product_id": "549615",
-    "nombre": "Polvo pédico Veritas 120 g.",
-    "marca": "Véritas",
-    "categoria": "Cuidado corporal",
-    "precio_antes": 2350.0,
-    "precio_hoy": 3285.0,
-    "precio_actual_hoy": 3285.0,
-    "diff_abs": 935.0,
-    "diff_pct": 39.79
-  },
-  {
-    "product_id": "691666",
-    "nombre": "Albahaca hidropónica Vequa en cono",
-    "marca": "Vequa",
-    "categoria": "Verduras",
-    "precio_antes": 2290.0,
-    "precio_hoy": 3190.0,
-    "precio_actual_hoy": 3190.0,
-    "diff_abs": 900.0,
-    "diff_pct": 39.3
-  },
-  {
-    "product_id": "647159",
-    "nombre": "Lechuga francesa hidropónica 220 g.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2490.0,
-    "precio_actual_hoy": 2490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 39.11
-  },
-  {
-    "product_id": "686736",
-    "nombre": "Lechuga crispy hidropónica en cono",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1790.0,
-    "precio_hoy": 2490.0,
-    "precio_actual_hoy": 2490.0,
-    "diff_abs": 700.0,
-    "diff_pct": 39.11
-  },
-  {
-    "product_id": "442355",
-    "nombre": "Pasta dental Carrefour Soft sensitive 90 g.",
-    "marca": "Carrefour",
-    "categoria": "Cuidado dental",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4090.0,
-    "precio_actual_hoy": 3721.9,
-    "diff_abs": 1100.0,
-    "diff_pct": 36.79
-  },
-  {
-    "product_id": "524337",
-    "nombre": "Pasta dental Sensodyne blanqueador extra fresh 90 g.",
-    "marca": "Sensodyne",
-    "categoria": "Cuidado dental",
-    "precio_antes": 4679.0,
-    "precio_hoy": 6399.0,
-    "precio_actual_hoy": 6399.0,
-    "diff_abs": 1720.0,
-    "diff_pct": 36.76
-  },
-  {
-    "product_id": "691667",
-    "nombre": "Lechuga bicolor hidropónica en cono",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 2190.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 800.0,
-    "diff_pct": 36.53
-  },
-  {
-    "product_id": "714501",
-    "nombre": "Agua de mesa Rumipal bidón 6 lts",
-    "marca": "Genérico",
-    "categoria": "Aguas",
-    "precio_antes": 1950.0,
-    "precio_hoy": 2630.0,
-    "precio_actual_hoy": 2630.0,
-    "diff_abs": 680.0,
-    "diff_pct": 34.87
   }
 ]
