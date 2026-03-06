@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "575805",
-    "nombre": "Repuestos para máquina de afeitar Gillette Venus breeze 2 u.",
-    "marca": "Gillette",
-    "categoria": "Cuidado corporal",
-    "precio_antes": 9359.0,
-    "precio_hoy": 33900.0,
-    "precio_actual_hoy": 33900.0,
-    "diff_abs": 24541.0,
-    "diff_pct": 262.22
-  },
-  {
     "product_id": "8350",
     "nombre": "Mango x kg.",
     "marca": "Genérico",
@@ -99,17 +88,6 @@
     "diff_pct": 134.83
   },
   {
-    "product_id": "575802",
-    "nombre": "Máquina de afeitar recargable Gillette Venus breeze + 1 repuesto",
-    "marca": "Gillette",
-    "categoria": "Cuidado corporal",
-    "precio_antes": 15090.0,
-    "precio_hoy": 33900.0,
-    "precio_actual_hoy": 33900.0,
-    "diff_abs": 18810.0,
-    "diff_pct": 124.65
-  },
-  {
     "product_id": "775441",
     "nombre": "Huevo de pascuas Kinder Playmobil 100 grs",
     "marca": "Kinder",
@@ -143,28 +121,6 @@
     "diff_pct": 63.99
   },
   {
-    "product_id": "735054",
-    "nombre": "Lechuga capuchina x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "product_id": "95802",
-    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
-    "marca": "William Grants",
-    "categoria": "Bebidas blancas",
-    "precio_antes": 29239.0,
-    "precio_hoy": 43389.0,
-    "precio_actual_hoy": 43389.0,
-    "diff_abs": 14150.0,
-    "diff_pct": 48.39
-  },
-  {
     "product_id": "627664",
     "nombre": "Crema corporal Goicoechea anti-celulitis 200 ml.",
     "marca": "Goicoechea",
@@ -176,15 +132,15 @@
     "diff_pct": 45.49
   },
   {
-    "product_id": "730444",
-    "nombre": "Rabo x kg.",
-    "marca": "Genérico",
-    "categoria": "Carne vacuna",
-    "precio_antes": 7009.0,
-    "precio_hoy": 9900.0,
-    "precio_actual_hoy": 9900.0,
-    "diff_abs": 2891.0,
-    "diff_pct": 41.25
+    "product_id": "654267",
+    "nombre": "Galletitas crackers Gullón 200 g. sin TACC",
+    "marca": "Gullón",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 4750.0,
+    "precio_hoy": 6620.0,
+    "precio_actual_hoy": 6620.0,
+    "diff_abs": 1870.0,
+    "diff_pct": 39.37
   },
   {
     "product_id": "8392",
@@ -193,7 +149,7 @@
     "categoria": "Verduras",
     "precio_antes": 5999.0,
     "precio_hoy": 8299.0,
-    "precio_actual_hoy": 6699.0,
+    "precio_actual_hoy": 5999.0,
     "diff_abs": 2300.0,
     "diff_pct": 38.34
   },
@@ -218,5 +174,49 @@
     "precio_actual_hoy": 7200.0,
     "diff_abs": 1855.0,
     "diff_pct": 34.71
+  },
+  {
+    "product_id": "764051",
+    "nombre": "NESTLÉ Chocolate con Almendras 25 grs",
+    "marca": "Nestlé",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 1231.3,
+    "precio_hoy": 1635.0,
+    "precio_actual_hoy": 588.6,
+    "diff_abs": 403.7,
+    "diff_pct": 32.79
+  },
+  {
+    "product_id": "774925",
+    "nombre": "Autobrillo Ceramicol incoloro en botella 800 ml",
+    "marca": "Ceramicol",
+    "categoria": "Limpieza pisos y muebles",
+    "precio_antes": 4989.0,
+    "precio_hoy": 6599.0,
+    "precio_actual_hoy": 6599.0,
+    "diff_abs": 1610.0,
+    "diff_pct": 32.27
+  },
+  {
+    "product_id": "712489",
+    "nombre": "Oleo calcareo Algabo baby hipolar dp 500 cc.",
+    "marca": "Genérico",
+    "categoria": "Higiene para bebés",
+    "precio_antes": 4000.0,
+    "precio_hoy": 5290.0,
+    "precio_actual_hoy": 5290.0,
+    "diff_abs": 1290.0,
+    "diff_pct": 32.25
+  },
+  {
+    "product_id": "774920",
+    "nombre": "Cera líquida Blem brillo incoloro en botella 800 ml",
+    "marca": "Blem",
+    "categoria": "Limpieza pisos y muebles",
+    "precio_antes": 7759.0,
+    "precio_hoy": 10259.0,
+    "precio_actual_hoy": 10259.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 32.22
   }
 ]
