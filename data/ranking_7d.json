@@ -121,6 +121,50 @@
     "diff_pct": 63.99
   },
   {
+    "product_id": "1746527",
+    "nombre": "Vaporizador de Prendas Plegable Sansei GSS1110",
+    "marca": "Sansei",
+    "categoria": "Limpieza de la ropa",
+    "precio_antes": 37949.0,
+    "precio_hoy": 61999.0,
+    "precio_actual_hoy": 32999.0,
+    "diff_abs": 24050.0,
+    "diff_pct": 63.37
+  },
+  {
+    "product_id": "8344",
+    "nombre": "Membrillo x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 4499.0,
+    "precio_hoy": 6999.0,
+    "precio_actual_hoy": 6999.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 55.57
+  },
+  {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "product_id": "95802",
+    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
+    "marca": "William Grants",
+    "categoria": "Bebidas blancas",
+    "precio_antes": 29239.0,
+    "precio_hoy": 43389.0,
+    "precio_actual_hoy": 43389.0,
+    "diff_abs": 14150.0,
+    "diff_pct": 48.39
+  },
+  {
     "product_id": "627664",
     "nombre": "Crema corporal Goicoechea anti-celulitis 200 ml.",
     "marca": "Goicoechea",
@@ -130,6 +174,17 @@
     "precio_actual_hoy": 6205.0,
     "diff_abs": 1940.0,
     "diff_pct": 45.49
+  },
+  {
+    "product_id": "686906",
+    "nombre": "Pimienta blanca Dicomere sin TACC en grano sobre 30 g.",
+    "marca": "Dicomere",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 1675.0,
+    "precio_hoy": 2349.0,
+    "precio_actual_hoy": 2349.0,
+    "diff_abs": 674.0,
+    "diff_pct": 40.24
   },
   {
     "product_id": "654267",
@@ -154,69 +209,14 @@
     "diff_pct": 38.34
   },
   {
-    "product_id": "627666",
-    "nombre": "Crema corporal Goicoechea ultranutritiva 200 ml.",
-    "marca": "Goicoechea",
-    "categoria": "Cuidado de la piel",
-    "precio_antes": 4605.0,
-    "precio_hoy": 6205.0,
-    "precio_actual_hoy": 6205.0,
-    "diff_abs": 1600.0,
-    "diff_pct": 34.74
-  },
-  {
-    "product_id": "735876",
-    "nombre": "Chicle Beldent confitado menta 28 uni",
-    "marca": "Beldent",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 5345.0,
-    "precio_hoy": 7200.0,
-    "precio_actual_hoy": 7200.0,
-    "diff_abs": 1855.0,
-    "diff_pct": 34.71
-  },
-  {
-    "product_id": "764051",
-    "nombre": "NESTLÉ Chocolate con Almendras 25 grs",
-    "marca": "Nestlé",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 1231.3,
-    "precio_hoy": 1635.0,
-    "precio_actual_hoy": 588.6,
-    "diff_abs": 403.7,
-    "diff_pct": 32.79
-  },
-  {
-    "product_id": "774925",
-    "nombre": "Autobrillo Ceramicol incoloro en botella 800 ml",
-    "marca": "Ceramicol",
-    "categoria": "Limpieza pisos y muebles",
-    "precio_antes": 4989.0,
-    "precio_hoy": 6599.0,
-    "precio_actual_hoy": 6599.0,
-    "diff_abs": 1610.0,
-    "diff_pct": 32.27
-  },
-  {
-    "product_id": "712489",
-    "nombre": "Oleo calcareo Algabo baby hipolar dp 500 cc.",
-    "marca": "Genérico",
-    "categoria": "Higiene para bebés",
-    "precio_antes": 4000.0,
-    "precio_hoy": 5290.0,
-    "precio_actual_hoy": 5290.0,
-    "diff_abs": 1290.0,
-    "diff_pct": 32.25
-  },
-  {
-    "product_id": "774920",
-    "nombre": "Cera líquida Blem brillo incoloro en botella 800 ml",
-    "marca": "Blem",
-    "categoria": "Limpieza pisos y muebles",
-    "precio_antes": 7759.0,
-    "precio_hoy": 10259.0,
-    "precio_actual_hoy": 10259.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 32.22
+    "product_id": "686734",
+    "nombre": "Espinaca baby Vequa hidróponica en bolsa.",
+    "marca": "Vequa",
+    "categoria": "Verduras",
+    "precio_antes": 6590.0,
+    "precio_hoy": 8990.0,
+    "precio_actual_hoy": 8990.0,
+    "diff_abs": 2400.0,
+    "diff_pct": 36.42
   }
 ]
