@@ -1,182 +1,182 @@
 {
-  "fecha": "20260307",
-  "total_productos": 24837,
-  "variacion_dia": 0.08,
-  "variacion_7d": 0.33,
+  "fecha": "20260308",
+  "total_productos": 24828,
+  "variacion_dia": -0.02,
+  "variacion_7d": 0.29,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.1,
-      "productos_subieron": 166,
-      "productos_bajaron": 40,
-      "productos_sin_cambio": 9223,
-      "total_productos": 9429
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 37,
+      "productos_bajaron": 107,
+      "productos_sin_cambio": 9280,
+      "total_productos": 9424
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.12,
-      "productos_subieron": 58,
-      "productos_bajaron": 10,
-      "productos_sin_cambio": 3286,
-      "total_productos": 3354
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 6,
+      "productos_bajaron": 27,
+      "productos_sin_cambio": 3323,
+      "total_productos": 3356
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.14,
-      "productos_subieron": 24,
-      "productos_bajaron": 0,
-      "productos_sin_cambio": 1006,
+      "variacion_pct_promedio": -0.09,
+      "productos_subieron": 1,
+      "productos_bajaron": 17,
+      "productos_sin_cambio": 1012,
       "total_productos": 1030
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 13,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2503,
+      "variacion_pct_promedio": -0.04,
+      "productos_subieron": 1,
+      "productos_bajaron": 9,
+      "productos_sin_cambio": 2507,
       "total_productos": 2517
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 13,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1176,
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 2,
+      "productos_bajaron": 8,
+      "productos_sin_cambio": 1180,
       "total_productos": 1190
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.05,
-      "productos_subieron": 14,
-      "productos_bajaron": 8,
-      "productos_sin_cambio": 2550,
-      "total_productos": 2572
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 2,
+      "productos_bajaron": 13,
+      "productos_sin_cambio": 2560,
+      "total_productos": 2575
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 34,
-      "productos_bajaron": 20,
-      "productos_sin_cambio": 4665,
-      "total_productos": 4719
+      "variacion_pct_promedio": -0.02,
+      "productos_subieron": 13,
+      "productos_bajaron": 24,
+      "productos_sin_cambio": 4693,
+      "total_productos": 4730
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "746495",
-      "nombre": "Alfajor sin tacc Angiola de chocolate en bolsa 55 g.",
-      "marca": "Angiola",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 1615.0,
-      "precio_hoy": 274.0,
-      "precio_actual_hoy": 274.0,
-      "diff_abs": -1341.0,
-      "diff_pct": -83.03
-    },
-    {
-      "product_id": "684052",
-      "nombre": "Queso parmesano La Paulina x kg.",
-      "marca": "La Paulina",
-      "categoria": "Quesos",
-      "precio_antes": 35250.0,
-      "precio_hoy": 23900.0,
-      "precio_actual_hoy": 23900.0,
-      "diff_abs": -11350.0,
-      "diff_pct": -32.2
-    },
-    {
-      "product_id": "764050",
-      "nombre": "Tableta de chocolate semiamargo Nestlé 50 grs",
-      "marca": "Nestlé",
-      "categoria": "Golosinas y chocolates",
-      "precio_antes": 3935.0,
-      "precio_hoy": 2754.5,
-      "precio_actual_hoy": 1652.7,
-      "diff_abs": -1180.5,
-      "diff_pct": -30.0
-    },
-    {
-      "product_id": "709753",
-      "nombre": "Mostaza Savora original doypack 250 g.",
-      "marca": "Savora",
-      "categoria": "Sal aderezos y saborizadores",
-      "precio_antes": 1565.0,
-      "precio_hoy": 1169.0,
-      "precio_actual_hoy": 1169.0,
-      "diff_abs": -396.0,
-      "diff_pct": -25.3
-    },
-    {
-      "product_id": "700206",
-      "nombre": "Ketchup Hellmanns regular doypack 250 g.",
-      "marca": "Hellmanns",
-      "categoria": "Sal aderezos y saborizadores",
-      "precio_antes": 2369.0,
-      "precio_hoy": 1775.0,
-      "precio_actual_hoy": 1775.0,
-      "diff_abs": -594.0,
-      "diff_pct": -25.07
-    },
-    {
-      "product_id": "708050",
-      "nombre": "Puré de papas Knorr tradicional listo 125 g.",
-      "marca": "Knorr",
-      "categoria": "Caldos sopas y puré",
-      "precio_antes": 2799.0,
-      "precio_hoy": 2099.0,
-      "precio_actual_hoy": 2099.0,
-      "diff_abs": -700.0,
-      "diff_pct": -25.01
-    },
-    {
-      "product_id": "735441",
-      "nombre": "Manzana red x kg.",
+      "product_id": "735054",
+      "nombre": "Lechuga capuchina x kg.",
       "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 7499.0,
-      "precio_hoy": 5990.0,
-      "precio_actual_hoy": 5990.0,
-      "diff_abs": -1509.0,
-      "diff_pct": -20.12
-    },
-    {
-      "product_id": "735528",
-      "nombre": "Pera x kg.",
-      "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "precio_actual_hoy": 3990.0,
+      "categoria": "Verduras",
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "precio_actual_hoy": 1990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "diff_pct": -33.44
     },
     {
-      "product_id": "645504",
-      "nombre": "Granada organica x kg.",
+      "product_id": "95802",
+      "nombre": "Whisky importado 6 a family William Grants 750 cc.",
+      "marca": "William Grants",
+      "categoria": "Bebidas blancas",
+      "precio_antes": 43389.0,
+      "precio_hoy": 29239.0,
+      "precio_actual_hoy": 29239.0,
+      "diff_abs": -14150.0,
+      "diff_pct": -32.61
+    },
+    {
+      "product_id": "734759",
+      "nombre": "Batata suelta x kg.",
       "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 5990.0,
-      "precio_hoy": 4990.0,
-      "precio_actual_hoy": 4990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -16.69
+      "categoria": "Verduras",
+      "precio_antes": 1899.0,
+      "precio_hoy": 1499.0,
+      "precio_actual_hoy": 1499.0,
+      "diff_abs": -400.0,
+      "diff_pct": -21.06
     },
     {
-      "product_id": "776307",
-      "nombre": "Barra de cereal Flow Cereal de cajú con caramelo y sal 30 grs",
-      "marca": "Flow Cereal",
-      "categoria": "Cereales y barritas",
-      "precio_antes": 1094.0,
-      "precio_hoy": 929.0,
-      "precio_actual_hoy": 929.0,
-      "diff_abs": -165.0,
-      "diff_pct": -15.08
+      "product_id": "717205",
+      "nombre": "Croquetas de papa Granja del Sol 400 g.",
+      "marca": "Granja Del Sol",
+      "categoria": "Nuggets y rebozados",
+      "precio_antes": 8469.0,
+      "precio_hoy": 6689.0,
+      "precio_actual_hoy": 6689.0,
+      "diff_abs": -1780.0,
+      "diff_pct": -21.02
+    },
+    {
+      "product_id": "574024",
+      "nombre": "Radicheta en hojas x kg",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 1590.0,
+      "precio_hoy": 1290.0,
+      "precio_actual_hoy": 1290.0,
+      "diff_abs": -300.0,
+      "diff_pct": -18.87
+    },
+    {
+      "product_id": "471910",
+      "nombre": "Jabón de tocador Carrefour tricolor 3 x 90 g.",
+      "marca": "Carrefour",
+      "categoria": "Jabones",
+      "precio_antes": 1390.0,
+      "precio_hoy": 1150.0,
+      "precio_actual_hoy": 1035.0,
+      "diff_abs": -240.0,
+      "diff_pct": -17.27
+    },
+    {
+      "product_id": "61792",
+      "nombre": "Berro Shim Shim 150 grs",
+      "marca": "Shim Shim",
+      "categoria": "Verduras",
+      "precio_antes": 1390.0,
+      "precio_hoy": 1150.0,
+      "precio_actual_hoy": 1150.0,
+      "diff_abs": -240.0,
+      "diff_pct": -17.27
+    },
+    {
+      "product_id": "574023",
+      "nombre": "Rucula en hojas x atado",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "precio_actual_hoy": 1490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -16.76
+    },
+    {
+      "product_id": "674146",
+      "nombre": "Suflair chocolate aireado con leche 80 grs",
+      "marca": "Suflair",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 5485.0,
+      "precio_hoy": 4569.0,
+      "precio_actual_hoy": 2741.4,
+      "diff_abs": -916.0,
+      "diff_pct": -16.7
+    },
+    {
+      "product_id": "726645",
+      "nombre": "Repuesto antihumedad Purific air neutro 260 g.",
+      "marca": "Purific Air",
+      "categoria": "Desodorantes de ambiente",
+      "precio_antes": 5609.0,
+      "precio_hoy": 4675.0,
+      "precio_actual_hoy": 4675.0,
+      "diff_abs": -934.0,
+      "diff_pct": -16.65
     }
   ],
-  "productos_subieron_dia": 322,
-  "productos_bajaron_dia": 80,
-  "productos_sin_cambio_dia": 24409
+  "productos_subieron_dia": 62,
+  "productos_bajaron_dia": 205,
+  "productos_sin_cambio_dia": 24555
 }

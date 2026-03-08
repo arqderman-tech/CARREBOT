@@ -143,28 +143,6 @@
     "diff_pct": 55.57
   },
   {
-    "product_id": "735054",
-    "nombre": "Lechuga capuchina x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
-  },
-  {
-    "product_id": "95802",
-    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
-    "marca": "William Grants",
-    "categoria": "Bebidas blancas",
-    "precio_antes": 29239.0,
-    "precio_hoy": 43389.0,
-    "precio_actual_hoy": 43389.0,
-    "diff_abs": 14150.0,
-    "diff_pct": 48.39
-  },
-  {
     "product_id": "627664",
     "nombre": "Crema corporal Goicoechea anti-celulitis 200 ml.",
     "marca": "Goicoechea",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 8990.0,
     "diff_abs": 2400.0,
     "diff_pct": 36.42
+  },
+  {
+    "product_id": "8391",
+    "nombre": "Pepino x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1699.0,
+    "precio_hoy": 2149.0,
+    "precio_actual_hoy": 1499.0,
+    "diff_abs": 450.0,
+    "diff_pct": 26.49
+  },
+  {
+    "product_id": "436105",
+    "nombre": "Bizcochos de grasa Gold Mundo materitos 200 g.",
+    "marca": "Gold Mundo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 980.0,
+    "precio_hoy": 1239.0,
+    "precio_actual_hoy": 1239.0,
+    "diff_abs": 259.0,
+    "diff_pct": 26.43
   }
 ]
