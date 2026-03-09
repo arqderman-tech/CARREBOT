@@ -110,6 +110,17 @@
     "diff_pct": 99.96
   },
   {
+    "product_id": "535879",
+    "nombre": "Turrón de maní Carrefour classic semiblando 100 g.",
+    "marca": "Carrefour",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 990.0,
+    "precio_hoy": 1890.0,
+    "precio_actual_hoy": 1738.8,
+    "diff_abs": 900.0,
+    "diff_pct": 90.91
+  },
+  {
     "product_id": "637487",
     "nombre": "Galletitas Gullón chips chocolate sin azúcares 130 g. sin TACC",
     "marca": "Gullón",
@@ -143,6 +154,28 @@
     "diff_pct": 55.57
   },
   {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
+  },
+  {
+    "product_id": "95802",
+    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
+    "marca": "William Grants",
+    "categoria": "Bebidas blancas",
+    "precio_antes": 29239.0,
+    "precio_hoy": 43389.0,
+    "precio_actual_hoy": 43389.0,
+    "diff_abs": 14150.0,
+    "diff_pct": 48.39
+  },
+  {
     "product_id": "627664",
     "nombre": "Crema corporal Goicoechea anti-celulitis 200 ml.",
     "marca": "Goicoechea",
@@ -154,69 +187,36 @@
     "diff_pct": 45.49
   },
   {
-    "product_id": "686906",
-    "nombre": "Pimienta blanca Dicomere sin TACC en grano sobre 30 g.",
-    "marca": "Dicomere",
-    "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 1675.0,
-    "precio_hoy": 2349.0,
-    "precio_actual_hoy": 2349.0,
-    "diff_abs": 674.0,
-    "diff_pct": 40.24
+    "product_id": "425720",
+    "nombre": "Budín Carrefour classic limón 220 g.",
+    "marca": "Carrefour",
+    "categoria": "Budines y magdalenas",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "precio_actual_hoy": 1251.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   },
   {
-    "product_id": "654267",
-    "nombre": "Galletitas crackers Gullón 200 g. sin TACC",
-    "marca": "Gullón",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 4750.0,
-    "precio_hoy": 6620.0,
-    "precio_actual_hoy": 6620.0,
-    "diff_abs": 1870.0,
-    "diff_pct": 39.37
+    "product_id": "370462",
+    "nombre": "Budín Carrefour classic vainilla 220 g.",
+    "marca": "Carrefour",
+    "categoria": "Budines y magdalenas",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "precio_actual_hoy": 1251.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   },
   {
-    "product_id": "8392",
-    "nombre": "Pimiento amarillo x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 5999.0,
-    "precio_hoy": 8299.0,
-    "precio_actual_hoy": 5999.0,
-    "diff_abs": 2300.0,
-    "diff_pct": 38.34
-  },
-  {
-    "product_id": "686734",
-    "nombre": "Espinaca baby Vequa hidróponica en bolsa.",
-    "marca": "Vequa",
-    "categoria": "Verduras",
-    "precio_antes": 6590.0,
-    "precio_hoy": 8990.0,
-    "precio_actual_hoy": 8990.0,
-    "diff_abs": 2400.0,
-    "diff_pct": 36.42
-  },
-  {
-    "product_id": "8391",
-    "nombre": "Pepino x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1699.0,
-    "precio_hoy": 2149.0,
-    "precio_actual_hoy": 1499.0,
-    "diff_abs": 450.0,
-    "diff_pct": 26.49
-  },
-  {
-    "product_id": "436105",
-    "nombre": "Bizcochos de grasa Gold Mundo materitos 200 g.",
-    "marca": "Gold Mundo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 980.0,
-    "precio_hoy": 1239.0,
-    "precio_actual_hoy": 1239.0,
-    "diff_abs": 259.0,
-    "diff_pct": 26.43
+    "product_id": "427913",
+    "nombre": "Budín Carrefour classic naranja 220 g.",
+    "marca": "Carrefour",
+    "categoria": "Budines y magdalenas",
+    "precio_antes": 1390.0,
+    "precio_hoy": 1990.0,
+    "precio_actual_hoy": 1251.0,
+    "diff_abs": 600.0,
+    "diff_pct": 43.17
   }
 ]
