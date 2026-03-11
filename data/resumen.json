@@ -1,182 +1,182 @@
 {
-  "fecha": "20260310",
-  "total_productos": 24822,
-  "variacion_dia": -0.01,
-  "variacion_7d": 0.37,
+  "fecha": "20260311",
+  "total_productos": 24861,
+  "variacion_dia": 0.01,
+  "variacion_7d": 0.24,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 91,
-      "productos_bajaron": 68,
-      "productos_sin_cambio": 9261,
-      "total_productos": 9420
+      "variacion_pct_promedio": 0.0,
+      "productos_subieron": 15,
+      "productos_bajaron": 12,
+      "productos_sin_cambio": 9395,
+      "total_productos": 9422
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.1,
-      "productos_subieron": 32,
-      "productos_bajaron": 80,
-      "productos_sin_cambio": 3241,
-      "total_productos": 3353
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 17,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 3331,
+      "total_productos": 3354
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.13,
-      "productos_subieron": 3,
-      "productos_bajaron": 21,
-      "productos_sin_cambio": 1005,
-      "total_productos": 1029
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 5,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 1023,
+      "total_productos": 1031
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": -0.04,
-      "productos_subieron": 5,
-      "productos_bajaron": 16,
-      "productos_sin_cambio": 2494,
-      "total_productos": 2515
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 4,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 2511,
+      "total_productos": 2516
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 57,
-      "productos_bajaron": 9,
-      "productos_sin_cambio": 1124,
+      "variacion_pct_promedio": -0.0,
+      "productos_subieron": 1,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 1188,
       "total_productos": 1190
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 14,
-      "productos_bajaron": 19,
-      "productos_sin_cambio": 2539,
-      "total_productos": 2572
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 0,
+      "productos_bajaron": 3,
+      "productos_sin_cambio": 2570,
+      "total_productos": 2573
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.01,
-      "productos_subieron": 23,
-      "productos_bajaron": 15,
-      "productos_sin_cambio": 4691,
-      "total_productos": 4729
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 1,
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 4723,
+      "total_productos": 4731
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "559754",
-      "nombre": "Burrata Arrivata 250 g.",
-      "marca": "Arrivata",
-      "categoria": "Quesos",
-      "precio_antes": 9525.0,
-      "precio_hoy": 5990.0,
-      "precio_actual_hoy": 5990.0,
-      "diff_abs": -3535.0,
-      "diff_pct": -37.11
-    },
-    {
-      "product_id": "753891",
-      "nombre": "Salamín tandilero Cagnoli picado fino 145 grs",
-      "marca": "Cagnoli",
-      "categoria": "Fiambres",
-      "precio_antes": 6610.0,
-      "precio_hoy": 4390.0,
-      "precio_actual_hoy": 4390.0,
-      "diff_abs": -2220.0,
-      "diff_pct": -33.59
-    },
-    {
-      "product_id": "735054",
-      "nombre": "Lechuga capuchina x kg.",
+      "product_id": "8399",
+      "nombre": "Zapallito redondo x kg. Zapallito redondo x kg",
       "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 2990.0,
-      "precio_hoy": 1990.0,
-      "precio_actual_hoy": 1990.0,
+      "precio_antes": 2029.0,
+      "precio_hoy": 49.0,
+      "precio_actual_hoy": 49.0,
+      "diff_abs": -1980.0,
+      "diff_pct": -97.59
+    },
+    {
+      "product_id": "668363",
+      "nombre": "Yerba mate Mañanita bajo polvo 4flex 1 kg.",
+      "marca": "Mañanita",
+      "categoria": "Yerba",
+      "precio_antes": 4815.0,
+      "precio_hoy": 3590.0,
+      "precio_actual_hoy": 3590.0,
+      "diff_abs": -1225.0,
+      "diff_pct": -25.44
+    },
+    {
+      "product_id": "735528",
+      "nombre": "Pera x kg.",
+      "marca": "Genérico",
+      "categoria": "Frutas",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "precio_actual_hoy": 3990.0,
       "diff_abs": -1000.0,
-      "diff_pct": -33.44
+      "diff_pct": -20.04
     },
     {
-      "product_id": "547621",
-      "nombre": "Salame 66 x kg.",
-      "marca": "66",
-      "categoria": "Fiambres",
-      "precio_antes": 20430.0,
-      "precio_hoy": 14805.0,
-      "precio_actual_hoy": 14805.0,
-      "diff_abs": -5625.0,
-      "diff_pct": -27.53
-    },
-    {
-      "product_id": "542059",
-      "nombre": "Aperitivo Aperol 750 cc.",
-      "marca": "Aperol",
-      "categoria": "Fernet y aperitivos",
-      "precio_antes": 13199.0,
-      "precio_hoy": 9900.0,
-      "precio_actual_hoy": 9900.0,
-      "diff_abs": -3299.0,
-      "diff_pct": -24.99
-    },
-    {
-      "product_id": "603355",
-      "nombre": "Salame fuet serrano Cagnoli 150 g.",
-      "marca": "Cagnoli",
-      "categoria": "Fiambres",
-      "precio_antes": 7399.0,
-      "precio_hoy": 5690.0,
-      "precio_actual_hoy": 5690.0,
-      "diff_abs": -1709.0,
-      "diff_pct": -23.1
-    },
-    {
-      "product_id": "734759",
-      "nombre": "Batata suelta x kg.",
+      "product_id": "574024",
+      "nombre": "Radicheta en hojas x kg",
       "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 1899.0,
-      "precio_hoy": 1499.0,
-      "precio_actual_hoy": 1499.0,
-      "diff_abs": -400.0,
-      "diff_pct": -21.06
+      "precio_antes": 1590.0,
+      "precio_hoy": 1290.0,
+      "precio_actual_hoy": 1290.0,
+      "diff_abs": -300.0,
+      "diff_pct": -18.87
     },
     {
-      "product_id": "717205",
-      "nombre": "Croquetas de papa Granja del Sol 400 g.",
-      "marca": "Granja Del Sol",
-      "categoria": "Nuggets y rebozados",
-      "precio_antes": 8469.0,
-      "precio_hoy": 6689.0,
-      "precio_actual_hoy": 6689.0,
-      "diff_abs": -1780.0,
-      "diff_pct": -21.02
+      "product_id": "726645",
+      "nombre": "Repuesto antihumedad Purific air neutro 260 g.",
+      "marca": "Purific Air",
+      "categoria": "Desodorantes de ambiente",
+      "precio_antes": 5609.0,
+      "precio_hoy": 4675.0,
+      "precio_actual_hoy": 4675.0,
+      "diff_abs": -934.0,
+      "diff_pct": -16.65
     },
     {
-      "product_id": "483654",
-      "nombre": "Filet de merluza Epuyen congelado 1 kg.",
-      "marca": "Epuyen",
-      "categoria": "Pescados cong.",
-      "precio_antes": 11490.0,
-      "precio_hoy": 9390.0,
-      "precio_actual_hoy": 9390.0,
-      "diff_abs": -2100.0,
-      "diff_pct": -18.28
+      "product_id": "710880",
+      "nombre": "Espumante dulce Pascual toso en botella 750 cc.",
+      "marca": "Pascual Toso",
+      "categoria": "Espumantes y sidras",
+      "precio_antes": 11899.0,
+      "precio_hoy": 10115.0,
+      "precio_actual_hoy": 10115.0,
+      "diff_abs": -1784.0,
+      "diff_pct": -14.99
     },
     {
-      "product_id": "471910",
-      "nombre": "Jabón de tocador Carrefour tricolor 3 x 90 g.",
-      "marca": "Carrefour",
-      "categoria": "Jabones",
+      "product_id": "546704",
+      "nombre": "Antitranspirante Veritas crema clásico 60 g.",
+      "marca": "Véritas",
+      "categoria": "Antitranspirantes",
+      "precio_antes": 3169.0,
+      "precio_hoy": 2695.0,
+      "precio_actual_hoy": 2695.0,
+      "diff_abs": -474.0,
+      "diff_pct": -14.96
+    },
+    {
+      "product_id": "247141",
+      "nombre": "Papa x kg.",
+      "marca": "Genérico",
+      "categoria": "Verduras",
       "precio_antes": 1390.0,
-      "precio_hoy": 1150.0,
-      "precio_actual_hoy": 1035.0,
-      "diff_abs": -240.0,
-      "diff_pct": -17.27
+      "precio_hoy": 1190.0,
+      "precio_actual_hoy": 1190.0,
+      "diff_abs": -200.0,
+      "diff_pct": -14.39
+    },
+    {
+      "product_id": "667155",
+      "nombre": "Oblea de chocolate blanco Hersheys 102 g.",
+      "marca": "Hersheys",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 4600.0,
+      "precio_hoy": 4000.0,
+      "precio_actual_hoy": 4000.0,
+      "diff_abs": -600.0,
+      "diff_pct": -13.04
+    },
+    {
+      "product_id": "340550",
+      "nombre": "Salsa ostion Lee Kum Kee en botella 255 grs",
+      "marca": "Lee Kum Kee",
+      "categoria": "Sal aderezos y saborizadores",
+      "precio_antes": 13059.0,
+      "precio_hoy": 11359.0,
+      "precio_actual_hoy": 11359.0,
+      "diff_abs": -1700.0,
+      "diff_pct": -13.02
     }
   ],
-  "productos_subieron_dia": 225,
-  "productos_bajaron_dia": 228,
-  "productos_sin_cambio_dia": 24355
+  "productos_subieron_dia": 43,
+  "productos_bajaron_dia": 33,
+  "productos_sin_cambio_dia": 24741
 }
