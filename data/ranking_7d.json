@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "637487",
-    "nombre": "Galletitas Gullón chips chocolate sin azúcares 130 g. sin TACC",
-    "marca": "Gullón",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 3610.0,
-    "precio_hoy": 5920.0,
-    "precio_actual_hoy": 5920.0,
-    "diff_abs": 2310.0,
-    "diff_pct": 63.99
-  },
-  {
     "product_id": "1746527",
     "nombre": "Vaporizador de Prendas Plegable Sansei GSS1110",
     "marca": "Sansei",
@@ -33,26 +22,26 @@
     "diff_pct": 55.57
   },
   {
-    "product_id": "95802",
-    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
-    "marca": "William Grants",
-    "categoria": "Bebidas blancas",
-    "precio_antes": 29239.0,
-    "precio_hoy": 43389.0,
-    "precio_actual_hoy": 32541.75,
-    "diff_abs": 14150.0,
-    "diff_pct": 48.39
+    "product_id": "709971",
+    "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
+    "marca": "Nosotras",
+    "categoria": "Protección femenina",
+    "precio_antes": 3865.0,
+    "precio_hoy": 5555.0,
+    "precio_actual_hoy": 5555.0,
+    "diff_abs": 1690.0,
+    "diff_pct": 43.73
   },
   {
-    "product_id": "627664",
-    "nombre": "Crema corporal Goicoechea anti-celulitis 200 ml.",
-    "marca": "Goicoechea",
-    "categoria": "Cuidado de la piel",
-    "precio_antes": 4265.0,
-    "precio_hoy": 6205.0,
-    "precio_actual_hoy": 6205.0,
-    "diff_abs": 1940.0,
-    "diff_pct": 45.49
+    "product_id": "730598",
+    "nombre": "Barra de cereal Flow cereal light yogur 24 g.",
+    "marca": "Flow Cereal",
+    "categoria": "Cereales y barritas",
+    "precio_antes": 650.0,
+    "precio_hoy": 925.0,
+    "precio_actual_hoy": 925.0,
+    "diff_abs": 275.0,
+    "diff_pct": 42.31
   },
   {
     "product_id": "654267",
@@ -66,6 +55,17 @@
     "diff_pct": 39.37
   },
   {
+    "product_id": "547621",
+    "nombre": "Salame 66 x kg.",
+    "marca": "66",
+    "categoria": "Fiambres",
+    "precio_antes": 14805.0,
+    "precio_hoy": 20430.0,
+    "precio_actual_hoy": 20430.0,
+    "diff_abs": 5625.0,
+    "diff_pct": 37.99
+  },
+  {
     "product_id": "686734",
     "nombre": "Espinaca baby Vequa hidróponica en bolsa.",
     "marca": "Vequa",
@@ -77,15 +77,26 @@
     "diff_pct": 36.42
   },
   {
-    "product_id": "717205",
-    "nombre": "Croquetas de papa Granja del Sol 400 g.",
-    "marca": "Granja Del Sol",
-    "categoria": "Nuggets y rebozados",
-    "precio_antes": 6689.0,
-    "precio_hoy": 8469.0,
-    "precio_actual_hoy": 8469.0,
-    "diff_abs": 1780.0,
-    "diff_pct": 26.61
+    "product_id": "527781",
+    "nombre": "Bolsas para residuos Asurín mediana verdes 50x70cm plana x 30 u.",
+    "marca": "Asurín",
+    "categoria": "Artículos de limpieza",
+    "precio_antes": 5803.0,
+    "precio_hoy": 7490.0,
+    "precio_actual_hoy": 7490.0,
+    "diff_abs": 1687.0,
+    "diff_pct": 29.07
+  },
+  {
+    "product_id": "674904",
+    "nombre": "Pack x 4 cápsulas para café Caffettino recargables",
+    "marca": "Caffettino",
+    "categoria": "Café",
+    "precio_antes": 17990.0,
+    "precio_hoy": 22790.0,
+    "precio_actual_hoy": 22790.0,
+    "diff_abs": 4800.0,
+    "diff_pct": 26.68
   },
   {
     "product_id": "436105",
@@ -99,15 +110,48 @@
     "diff_pct": 26.43
   },
   {
-    "product_id": "735441",
-    "nombre": "Manzana red x kg.",
+    "product_id": "622114",
+    "nombre": "Aperitivo sin alcohol Citrus Terma 1,35 lts",
+    "marca": "Terma",
+    "categoria": "Fernet y aperitivos",
+    "precio_antes": 2025.0,
+    "precio_hoy": 2530.0,
+    "precio_actual_hoy": 2530.0,
+    "diff_abs": 505.0,
+    "diff_pct": 24.94
+  },
+  {
+    "product_id": "698808",
+    "nombre": "Palta x uni",
     "marca": "Genérico",
     "categoria": "Frutas",
-    "precio_antes": 5990.0,
-    "precio_hoy": 7499.0,
-    "precio_actual_hoy": 7499.0,
-    "diff_abs": 1509.0,
-    "diff_pct": 25.19
+    "precio_antes": 1199.0,
+    "precio_hoy": 1490.0,
+    "precio_actual_hoy": 1490.0,
+    "diff_abs": 291.0,
+    "diff_pct": 24.27
+  },
+  {
+    "product_id": "709955",
+    "nombre": "Toalla Nosotras clásica seca CURV 16 uni",
+    "marca": "Nosotras",
+    "categoria": "Protección femenina",
+    "precio_antes": 3049.0,
+    "precio_hoy": 3760.0,
+    "precio_actual_hoy": 3760.0,
+    "diff_abs": 711.0,
+    "diff_pct": 23.32
+  },
+  {
+    "product_id": "674902",
+    "nombre": "Pack x 4 cápsulas para café Caffettino recargables Pack x 4 capsulas recargables nespresso",
+    "marca": "Caffettino",
+    "categoria": "Café",
+    "precio_antes": 19990.0,
+    "precio_hoy": 24500.0,
+    "precio_actual_hoy": 24500.0,
+    "diff_abs": 4510.0,
+    "diff_pct": 22.56
   },
   {
     "product_id": "8342",
@@ -132,37 +176,26 @@
     "diff_pct": 21.62
   },
   {
-    "product_id": "751406",
-    "nombre": "Cerveza Denninghoffs Pilsener barril 5 lts",
-    "marca": "Denninghoffs",
-    "categoria": "Cervezas",
-    "precio_antes": 29990.0,
-    "precio_hoy": 36155.0,
-    "precio_actual_hoy": 29990.0,
-    "diff_abs": 6165.0,
-    "diff_pct": 20.56
-  },
-  {
-    "product_id": "574023",
-    "nombre": "Rucula en hojas x atado",
-    "marca": "Genérico",
+    "product_id": "61792",
+    "nombre": "Berro Shim Shim 150 grs",
+    "marca": "Shim Shim",
     "categoria": "Verduras",
-    "precio_antes": 1490.0,
-    "precio_hoy": 1790.0,
-    "precio_actual_hoy": 1790.0,
-    "diff_abs": 300.0,
-    "diff_pct": 20.13
+    "precio_antes": 1150.0,
+    "precio_hoy": 1390.0,
+    "precio_actual_hoy": 1390.0,
+    "diff_abs": 240.0,
+    "diff_pct": 20.87
   },
   {
-    "product_id": "674146",
-    "nombre": "Suflair chocolate aireado con leche 80 grs",
-    "marca": "Suflair",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 4569.0,
-    "precio_hoy": 5485.0,
-    "precio_actual_hoy": 5485.0,
-    "diff_abs": 916.0,
-    "diff_pct": 20.05
+    "product_id": "745191",
+    "nombre": "Cornalitos congelados Mercado del Mar.",
+    "marca": "Mercado del Mar",
+    "categoria": "Pescados cong.",
+    "precio_antes": 11999.0,
+    "precio_hoy": 14499.0,
+    "precio_actual_hoy": 14499.0,
+    "diff_abs": 2500.0,
+    "diff_pct": 20.84
   },
   {
     "product_id": "602837",
@@ -176,47 +209,14 @@
     "diff_pct": 15.57
   },
   {
-    "product_id": "653330",
-    "nombre": "Aromatizante para telas Aire Pur rocío de bambú 400 cc.",
-    "marca": "Aire Pur",
-    "categoria": "Limpieza de la ropa",
-    "precio_antes": 6469.0,
-    "precio_hoy": 7469.0,
-    "precio_actual_hoy": 7469.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 15.46
-  },
-  {
-    "product_id": "607357",
-    "nombre": "Choclo crema blanca Inca en lata 350 g.",
-    "marca": "Inca",
-    "categoria": "Enlatados y Conservas",
-    "precio_antes": 1249.0,
-    "precio_hoy": 1439.0,
-    "precio_actual_hoy": 1439.0,
-    "diff_abs": 190.0,
-    "diff_pct": 15.21
-  },
-  {
-    "product_id": "189903",
-    "nombre": "Bizcochos azucarados Gold Mundo materitos 200 g.",
-    "marca": "Gold Mundo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 980.0,
-    "precio_hoy": 1129.0,
-    "precio_actual_hoy": 1129.0,
-    "diff_abs": 149.0,
-    "diff_pct": 15.2
-  },
-  {
-    "product_id": "627665",
-    "nombre": "Crema corporal Goicoechea reafirmante tonifyer 200 ml.",
-    "marca": "Goicoechea",
-    "categoria": "Cuidado de la piel",
-    "precio_antes": 5390.0,
-    "precio_hoy": 6205.0,
-    "precio_actual_hoy": 6205.0,
-    "diff_abs": 815.0,
-    "diff_pct": 15.12
+    "product_id": "660867",
+    "nombre": "Escobillón laqueado Glow sirrah 1 u.",
+    "marca": "Glow",
+    "categoria": "Artículos de limpieza",
+    "precio_antes": 7450.0,
+    "precio_hoy": 8606.0,
+    "precio_actual_hoy": 8606.0,
+    "diff_abs": 1156.0,
+    "diff_pct": 15.52
   }
 ]

@@ -1,182 +1,182 @@
 {
-  "fecha": "20260311",
-  "total_productos": 24861,
-  "variacion_dia": 0.01,
-  "variacion_7d": 0.24,
+  "fecha": "20260312",
+  "total_productos": 24855,
+  "variacion_dia": 0.08,
+  "variacion_7d": 0.26,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 15,
-      "productos_bajaron": 12,
-      "productos_sin_cambio": 9395,
-      "total_productos": 9422
+      "variacion_pct_promedio": 0.06,
+      "productos_subieron": 77,
+      "productos_bajaron": 9,
+      "productos_sin_cambio": 9341,
+      "total_productos": 9427
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 17,
-      "productos_bajaron": 6,
-      "productos_sin_cambio": 3331,
-      "total_productos": 3354
+      "variacion_pct_promedio": 0.12,
+      "productos_subieron": 119,
+      "productos_bajaron": 27,
+      "productos_sin_cambio": 3210,
+      "total_productos": 3356
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.06,
-      "productos_subieron": 5,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 1023,
-      "total_productos": 1031
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 28,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 1002,
+      "total_productos": 1034
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 4,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2511,
-      "total_productos": 2516
+      "variacion_pct_promedio": 0.22,
+      "productos_subieron": 155,
+      "productos_bajaron": 52,
+      "productos_sin_cambio": 2311,
+      "total_productos": 2518
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.0,
-      "productos_subieron": 1,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1188,
-      "total_productos": 1190
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 20,
+      "productos_bajaron": 17,
+      "productos_sin_cambio": 1154,
+      "total_productos": 1191
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 0,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 2570,
-      "total_productos": 2573
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 54,
+      "productos_bajaron": 22,
+      "productos_sin_cambio": 2495,
+      "total_productos": 2571
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 1,
-      "productos_bajaron": 7,
-      "productos_sin_cambio": 4723,
-      "total_productos": 4731
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 8,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 4735,
+      "total_productos": 4749
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "8399",
-      "nombre": "Zapallito redondo x kg. Zapallito redondo x kg",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 2029.0,
-      "precio_hoy": 49.0,
-      "precio_actual_hoy": 49.0,
-      "diff_abs": -1980.0,
-      "diff_pct": -97.59
-    },
-    {
-      "product_id": "668363",
-      "nombre": "Yerba mate Mañanita bajo polvo 4flex 1 kg.",
-      "marca": "Mañanita",
-      "categoria": "Yerba",
-      "precio_antes": 4815.0,
-      "precio_hoy": 3590.0,
-      "precio_actual_hoy": 3590.0,
-      "diff_abs": -1225.0,
-      "diff_pct": -25.44
-    },
-    {
-      "product_id": "735528",
-      "nombre": "Pera x kg.",
+      "product_id": "735441",
+      "nombre": "Manzana red x kg.",
       "marca": "Genérico",
       "categoria": "Frutas",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "precio_actual_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "precio_antes": 7499.0,
+      "precio_hoy": 5990.0,
+      "precio_actual_hoy": 5990.0,
+      "diff_abs": -1509.0,
+      "diff_pct": -20.12
     },
     {
-      "product_id": "574024",
-      "nombre": "Radicheta en hojas x kg",
+      "product_id": "574023",
+      "nombre": "Rucula en hojas x atado",
       "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 1590.0,
-      "precio_hoy": 1290.0,
-      "precio_actual_hoy": 1290.0,
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "precio_actual_hoy": 1490.0,
       "diff_abs": -300.0,
-      "diff_pct": -18.87
+      "diff_pct": -16.76
     },
     {
-      "product_id": "726645",
-      "nombre": "Repuesto antihumedad Purific air neutro 260 g.",
-      "marca": "Purific Air",
-      "categoria": "Desodorantes de ambiente",
-      "precio_antes": 5609.0,
-      "precio_hoy": 4675.0,
-      "precio_actual_hoy": 4675.0,
-      "diff_abs": -934.0,
-      "diff_pct": -16.65
+      "product_id": "563199",
+      "nombre": "Vino blanco dulce Termidor brick 1 lt",
+      "marca": "Termidor",
+      "categoria": "Vinos",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1519.0,
+      "precio_actual_hoy": 1519.0,
+      "diff_abs": -271.0,
+      "diff_pct": -15.14
     },
     {
-      "product_id": "710880",
-      "nombre": "Espumante dulce Pascual toso en botella 750 cc.",
-      "marca": "Pascual Toso",
-      "categoria": "Espumantes y sidras",
-      "precio_antes": 11899.0,
-      "precio_hoy": 10115.0,
-      "precio_actual_hoy": 10115.0,
-      "diff_abs": -1784.0,
-      "diff_pct": -14.99
+      "product_id": "763466",
+      "nombre": "Vino blanco Soy del León tetra 1 lt",
+      "marca": "Soy del León",
+      "categoria": "Vinos",
+      "precio_antes": 2049.0,
+      "precio_hoy": 1739.0,
+      "precio_actual_hoy": 1739.0,
+      "diff_abs": -310.0,
+      "diff_pct": -15.13
     },
     {
-      "product_id": "546704",
-      "nombre": "Antitranspirante Veritas crema clásico 60 g.",
-      "marca": "Véritas",
-      "categoria": "Antitranspirantes",
-      "precio_antes": 3169.0,
-      "precio_hoy": 2695.0,
-      "precio_actual_hoy": 2695.0,
-      "diff_abs": -474.0,
-      "diff_pct": -14.96
+      "product_id": "763465",
+      "nombre": "Vino tinto Soy del León tetra 1 lt",
+      "marca": "Soy del León",
+      "categoria": "Vinos",
+      "precio_antes": 2049.0,
+      "precio_hoy": 1739.0,
+      "precio_actual_hoy": 1739.0,
+      "diff_abs": -310.0,
+      "diff_pct": -15.13
     },
     {
-      "product_id": "247141",
-      "nombre": "Papa x kg.",
-      "marca": "Genérico",
-      "categoria": "Verduras",
-      "precio_antes": 1390.0,
-      "precio_hoy": 1190.0,
-      "precio_actual_hoy": 1190.0,
-      "diff_abs": -200.0,
-      "diff_pct": -14.39
+      "product_id": "776307",
+      "nombre": "Barra de cereal Flow Cereal de cajú con caramelo y sal 30 grs",
+      "marca": "Flow Cereal",
+      "categoria": "Cereales y barritas",
+      "precio_antes": 1094.0,
+      "precio_hoy": 929.0,
+      "precio_actual_hoy": 929.0,
+      "diff_abs": -165.0,
+      "diff_pct": -15.08
     },
     {
-      "product_id": "667155",
-      "nombre": "Oblea de chocolate blanco Hersheys 102 g.",
-      "marca": "Hersheys",
+      "product_id": "748510",
+      "nombre": "Alfajor de maicena Carrefour Classic 12 uni",
+      "marca": "Carrefour",
       "categoria": "Golosinas y chocolates",
-      "precio_antes": 4600.0,
-      "precio_hoy": 4000.0,
-      "precio_actual_hoy": 4000.0,
-      "diff_abs": -600.0,
-      "diff_pct": -13.04
+      "precio_antes": 6790.0,
+      "precio_hoy": 5769.0,
+      "precio_actual_hoy": 5769.0,
+      "diff_abs": -1021.0,
+      "diff_pct": -15.04
     },
     {
-      "product_id": "340550",
-      "nombre": "Salsa ostion Lee Kum Kee en botella 255 grs",
-      "marca": "Lee Kum Kee",
-      "categoria": "Sal aderezos y saborizadores",
-      "precio_antes": 13059.0,
-      "precio_hoy": 11359.0,
-      "precio_actual_hoy": 11359.0,
-      "diff_abs": -1700.0,
-      "diff_pct": -13.02
+      "product_id": "769014",
+      "nombre": "Vino blanco dulce El Cazador en botella 750 ml",
+      "marca": "El Cazador",
+      "categoria": "Vinos",
+      "precio_antes": 5989.67,
+      "precio_hoy": 5089.0,
+      "precio_actual_hoy": 5089.0,
+      "diff_abs": -900.67,
+      "diff_pct": -15.04
+    },
+    {
+      "product_id": "621316",
+      "nombre": "Agua saborizada de manzana Aquarius sin azúcares 1,5 lts",
+      "marca": "Aquarius",
+      "categoria": "Aguas",
+      "precio_antes": 2800.0,
+      "precio_hoy": 2380.0,
+      "precio_actual_hoy": 2380.0,
+      "diff_abs": -420.0,
+      "diff_pct": -15.0
+    },
+    {
+      "product_id": "621315",
+      "nombre": "Agua saborizada de naranja Aquarius cero sin gas 1,5 lts",
+      "marca": "Aquarius",
+      "categoria": "Aguas",
+      "precio_antes": 2800.0,
+      "precio_hoy": 2380.0,
+      "precio_actual_hoy": 2380.0,
+      "diff_abs": -420.0,
+      "diff_pct": -15.0
     }
   ],
-  "productos_subieron_dia": 43,
-  "productos_bajaron_dia": 33,
-  "productos_sin_cambio_dia": 24741
+  "productos_subieron_dia": 461,
+  "productos_bajaron_dia": 137,
+  "productos_sin_cambio_dia": 24248
 }
