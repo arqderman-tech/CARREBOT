@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "1746527",
-    "nombre": "Vaporizador de Prendas Plegable Sansei GSS1110",
-    "marca": "Sansei",
-    "categoria": "Limpieza de la ropa",
-    "precio_antes": 37949.0,
-    "precio_hoy": 61999.0,
-    "precio_actual_hoy": 32999.0,
-    "diff_abs": 24050.0,
-    "diff_pct": 63.37
-  },
-  {
     "product_id": "8344",
     "nombre": "Membrillo x kg.",
     "marca": "Genérico",
@@ -22,15 +11,15 @@
     "diff_pct": 55.57
   },
   {
-    "product_id": "709971",
-    "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
-    "marca": "Nosotras",
-    "categoria": "Protección femenina",
-    "precio_antes": 3865.0,
-    "precio_hoy": 5555.0,
-    "precio_actual_hoy": 5555.0,
-    "diff_abs": 1690.0,
-    "diff_pct": 43.73
+    "product_id": "95802",
+    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
+    "marca": "William Grants",
+    "categoria": "Bebidas blancas",
+    "precio_antes": 29239.0,
+    "precio_hoy": 43389.0,
+    "precio_actual_hoy": 32541.75,
+    "diff_abs": 14150.0,
+    "diff_pct": 48.39
   },
   {
     "product_id": "730598",
@@ -44,28 +33,6 @@
     "diff_pct": 42.31
   },
   {
-    "product_id": "654267",
-    "nombre": "Galletitas crackers Gullón 200 g. sin TACC",
-    "marca": "Gullón",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 4750.0,
-    "precio_hoy": 6620.0,
-    "precio_actual_hoy": 6620.0,
-    "diff_abs": 1870.0,
-    "diff_pct": 39.37
-  },
-  {
-    "product_id": "547621",
-    "nombre": "Salame 66 x kg.",
-    "marca": "66",
-    "categoria": "Fiambres",
-    "precio_antes": 14805.0,
-    "precio_hoy": 20430.0,
-    "precio_actual_hoy": 20430.0,
-    "diff_abs": 5625.0,
-    "diff_pct": 37.99
-  },
-  {
     "product_id": "686734",
     "nombre": "Espinaca baby Vequa hidróponica en bolsa.",
     "marca": "Vequa",
@@ -77,15 +44,81 @@
     "diff_pct": 36.42
   },
   {
-    "product_id": "527781",
-    "nombre": "Bolsas para residuos Asurín mediana verdes 50x70cm plana x 30 u.",
-    "marca": "Asurín",
-    "categoria": "Artículos de limpieza",
-    "precio_antes": 5803.0,
-    "precio_hoy": 7490.0,
-    "precio_actual_hoy": 7490.0,
-    "diff_abs": 1687.0,
-    "diff_pct": 29.07
+    "product_id": "478514",
+    "nombre": "Molinillo salad bar Indo Deli 55 g.",
+    "marca": "Indo Deli",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 6119.0,
+    "precio_hoy": 8095.0,
+    "precio_actual_hoy": 8095.0,
+    "diff_abs": 1976.0,
+    "diff_pct": 32.29
+  },
+  {
+    "product_id": "650528",
+    "nombre": "Mostaza dijón Clovis 200 g.",
+    "marca": "Clovis",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 7469.0,
+    "precio_hoy": 9879.0,
+    "precio_actual_hoy": 9879.0,
+    "diff_abs": 2410.0,
+    "diff_pct": 32.27
+  },
+  {
+    "product_id": "650529",
+    "nombre": "Mostaza antigua Clovis 200 g.",
+    "marca": "Clovis",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 7469.0,
+    "precio_hoy": 9879.0,
+    "precio_actual_hoy": 9879.0,
+    "diff_abs": 2410.0,
+    "diff_pct": 32.27
+  },
+  {
+    "product_id": "340550",
+    "nombre": "Salsa ostion Lee Kum Kee en botella 255 grs",
+    "marca": "Lee Kum Kee",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 11359.0,
+    "precio_hoy": 14939.0,
+    "precio_actual_hoy": 14939.0,
+    "diff_abs": 3580.0,
+    "diff_pct": 31.52
+  },
+  {
+    "product_id": "650526",
+    "nombre": "Salsa hoisin Lee Kum Kee 397 g.",
+    "marca": "Lee Kum Kee",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 13459.0,
+    "precio_hoy": 17700.0,
+    "precio_actual_hoy": 17700.0,
+    "diff_abs": 4241.0,
+    "diff_pct": 31.51
+  },
+  {
+    "product_id": "340061",
+    "nombre": "Salsa de soja y hongos Lee Kum Kee en botella 500 ml",
+    "marca": "Lee Kum Kee",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 11939.0,
+    "precio_hoy": 15689.0,
+    "precio_actual_hoy": 15689.0,
+    "diff_abs": 3750.0,
+    "diff_pct": 31.41
+  },
+  {
+    "product_id": "592519",
+    "nombre": "Sal fina Dos Estrellas 500 g.",
+    "marca": "Dos Estrellas",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 779.0,
+    "precio_hoy": 989.0,
+    "precio_actual_hoy": 989.0,
+    "diff_abs": 210.0,
+    "diff_pct": 26.96
   },
   {
     "product_id": "674904",
@@ -108,6 +141,39 @@
     "precio_actual_hoy": 1239.0,
     "diff_abs": 259.0,
     "diff_pct": 26.43
+  },
+  {
+    "product_id": "189903",
+    "nombre": "Bizcochos azucarados Gold Mundo materitos 200 g.",
+    "marca": "Gold Mundo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 980.0,
+    "precio_hoy": 1239.0,
+    "precio_actual_hoy": 1239.0,
+    "diff_abs": 259.0,
+    "diff_pct": 26.43
+  },
+  {
+    "product_id": "436110",
+    "nombre": "Galletitas anillos con vainilla Gold Mundo 250 g.",
+    "marca": "Gold Mundo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1445.0,
+    "precio_hoy": 1825.0,
+    "precio_actual_hoy": 1825.0,
+    "diff_abs": 380.0,
+    "diff_pct": 26.3
+  },
+  {
+    "product_id": "436114",
+    "nombre": "Galletitas anillos con limón Gold Mundo 250 g.",
+    "marca": "Gold Mundo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1445.0,
+    "precio_hoy": 1825.0,
+    "precio_actual_hoy": 1825.0,
+    "diff_abs": 380.0,
+    "diff_pct": 26.3
   },
   {
     "product_id": "622114",
@@ -152,71 +218,5 @@
     "precio_actual_hoy": 24500.0,
     "diff_abs": 4510.0,
     "diff_pct": 22.56
-  },
-  {
-    "product_id": "8342",
-    "nombre": "Manzana granny especial x kg.",
-    "marca": "Genérico",
-    "categoria": "Frutas",
-    "precio_antes": 4499.0,
-    "precio_hoy": 5499.0,
-    "precio_actual_hoy": 5499.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 22.23
-  },
-  {
-    "product_id": "766487",
-    "nombre": "Queso feta Dodoni lactose free 150 grs",
-    "marca": "Dodoni",
-    "categoria": "Quesos",
-    "precio_antes": 9990.0,
-    "precio_hoy": 12150.0,
-    "precio_actual_hoy": 12150.0,
-    "diff_abs": 2160.0,
-    "diff_pct": 21.62
-  },
-  {
-    "product_id": "61792",
-    "nombre": "Berro Shim Shim 150 grs",
-    "marca": "Shim Shim",
-    "categoria": "Verduras",
-    "precio_antes": 1150.0,
-    "precio_hoy": 1390.0,
-    "precio_actual_hoy": 1390.0,
-    "diff_abs": 240.0,
-    "diff_pct": 20.87
-  },
-  {
-    "product_id": "745191",
-    "nombre": "Cornalitos congelados Mercado del Mar.",
-    "marca": "Mercado del Mar",
-    "categoria": "Pescados cong.",
-    "precio_antes": 11999.0,
-    "precio_hoy": 14499.0,
-    "precio_actual_hoy": 14499.0,
-    "diff_abs": 2500.0,
-    "diff_pct": 20.84
-  },
-  {
-    "product_id": "602837",
-    "nombre": "Té en saquitos Saint Gottard chai 20 u.",
-    "marca": "Saint Gottard",
-    "categoria": "Infusiones",
-    "precio_antes": 5499.0,
-    "precio_hoy": 6355.0,
-    "precio_actual_hoy": 6355.0,
-    "diff_abs": 856.0,
-    "diff_pct": 15.57
-  },
-  {
-    "product_id": "660867",
-    "nombre": "Escobillón laqueado Glow sirrah 1 u.",
-    "marca": "Glow",
-    "categoria": "Artículos de limpieza",
-    "precio_antes": 7450.0,
-    "precio_hoy": 8606.0,
-    "precio_actual_hoy": 8606.0,
-    "diff_abs": 1156.0,
-    "diff_pct": 15.52
   }
 ]
