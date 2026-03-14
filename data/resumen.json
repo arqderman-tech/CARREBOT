@@ -1,182 +1,182 @@
 {
-  "fecha": "20260313",
-  "total_productos": 24866,
-  "variacion_dia": 0.02,
-  "variacion_7d": 0.18,
+  "fecha": "20260314",
+  "total_productos": 24842,
+  "variacion_dia": 0.16,
+  "variacion_7d": 0.31,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.07,
-      "productos_subieron": 237,
-      "productos_bajaron": 138,
-      "productos_sin_cambio": 9053,
-      "total_productos": 9428
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 131,
+      "productos_bajaron": 44,
+      "productos_sin_cambio": 9255,
+      "total_productos": 9430
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.08,
-      "productos_subieron": 91,
-      "productos_bajaron": 42,
-      "productos_sin_cambio": 3224,
-      "total_productos": 3357
+      "variacion_pct_promedio": 0.17,
+      "productos_subieron": 74,
+      "productos_bajaron": 17,
+      "productos_sin_cambio": 3269,
+      "total_productos": 3360
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.07,
-      "productos_subieron": 4,
-      "productos_bajaron": 14,
-      "productos_sin_cambio": 1018,
-      "total_productos": 1036
+      "variacion_pct_promedio": 0.19,
+      "productos_subieron": 33,
+      "productos_bajaron": 1,
+      "productos_sin_cambio": 1003,
+      "total_productos": 1037
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 10,
-      "productos_bajaron": 27,
-      "productos_sin_cambio": 2481,
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 92,
+      "productos_bajaron": 8,
+      "productos_sin_cambio": 2418,
       "total_productos": 2518
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": -0.06,
-      "productos_subieron": 11,
-      "productos_bajaron": 23,
-      "productos_sin_cambio": 1157,
-      "total_productos": 1191
+      "variacion_pct_promedio": 0.09,
+      "productos_subieron": 31,
+      "productos_bajaron": 9,
+      "productos_sin_cambio": 1150,
+      "total_productos": 1190
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": -0.02,
-      "productos_subieron": 5,
-      "productos_bajaron": 9,
-      "productos_sin_cambio": 2555,
-      "total_productos": 2569
+      "variacion_pct_promedio": 0.11,
+      "productos_subieron": 104,
+      "productos_bajaron": 40,
+      "productos_sin_cambio": 2416,
+      "total_productos": 2560
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": -0.01,
-      "productos_subieron": 5,
-      "productos_bajaron": 6,
-      "productos_sin_cambio": 4740,
-      "total_productos": 4751
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 148,
+      "productos_bajaron": 63,
+      "productos_sin_cambio": 4528,
+      "total_productos": 4739
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "559754",
-      "nombre": "Burrata Arrivata 250 g.",
-      "marca": "Arrivata",
-      "categoria": "Quesos",
-      "precio_antes": 9525.0,
+      "product_id": "754968",
+      "nombre": "Galletitas dulces Carrefour Classic anillo sabor coco 300 grs",
+      "marca": "Carrefour",
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 1390.0,
+      "precio_hoy": 799.0,
+      "precio_actual_hoy": 711.11,
+      "diff_abs": -591.0,
+      "diff_pct": -42.52
+    },
+    {
+      "product_id": "646297",
+      "nombre": "Mostaza Heinz 396 g.",
+      "marca": "Heinz",
+      "categoria": "Sal aderezos y saborizadores",
+      "precio_antes": 9900.0,
+      "precio_hoy": 7149.0,
+      "precio_actual_hoy": 7149.0,
+      "diff_abs": -2751.0,
+      "diff_pct": -27.79
+    },
+    {
+      "product_id": "546704",
+      "nombre": "Antitranspirante Veritas crema clásico 60 g.",
+      "marca": "Véritas",
+      "categoria": "Antitranspirantes",
+      "precio_antes": 3169.0,
+      "precio_hoy": 2290.0,
+      "precio_actual_hoy": 2290.0,
+      "diff_abs": -879.0,
+      "diff_pct": -27.74
+    },
+    {
+      "product_id": "1762761",
+      "nombre": "Limpia Zapatillas Philips GCA1000-60 Azul y Amarillo",
+      "marca": "Philips",
+      "categoria": "Limpieza de la ropa",
+      "precio_antes": 59758.0,
+      "precio_hoy": 44999.0,
+      "precio_actual_hoy": 44999.0,
+      "diff_abs": -14759.0,
+      "diff_pct": -24.7
+    },
+    {
+      "product_id": "1760747",
+      "nombre": "Capsulas Macchiato Nostro Compatible Nespresso X 10 Unidades",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 13545.0,
+      "precio_hoy": 10199.0,
+      "precio_actual_hoy": 10199.0,
+      "diff_abs": -3346.0,
+      "diff_pct": -24.7
+    },
+    {
+      "product_id": "1760749",
+      "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 10 Unidades",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 13545.0,
+      "precio_hoy": 10199.0,
+      "precio_actual_hoy": 10199.0,
+      "diff_abs": -3346.0,
+      "diff_pct": -24.7
+    },
+    {
+      "product_id": "1760753",
+      "nombre": "Capsulas Macchiato Lungo Compatible Nespresso X 30 Unidades",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 47070.0,
+      "precio_hoy": 35449.0,
+      "precio_actual_hoy": 35449.0,
+      "diff_abs": -11621.0,
+      "diff_pct": -24.69
+    },
+    {
+      "product_id": "776307",
+      "nombre": "Barra de cereal Flow Cereal de cajú con caramelo y sal 30 grs",
+      "marca": "Flow Cereal",
+      "categoria": "Cereales y barritas",
+      "precio_antes": 1094.0,
+      "precio_hoy": 869.0,
+      "precio_actual_hoy": 869.0,
+      "diff_abs": -225.0,
+      "diff_pct": -20.57
+    },
+    {
+      "product_id": "735441",
+      "nombre": "Manzana red x kg.",
+      "marca": "Genérico",
+      "categoria": "Frutas",
+      "precio_antes": 7499.0,
       "precio_hoy": 5990.0,
       "precio_actual_hoy": 5990.0,
-      "diff_abs": -3535.0,
-      "diff_pct": -37.11
+      "diff_abs": -1509.0,
+      "diff_pct": -20.12
     },
     {
-      "product_id": "709971",
-      "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
-      "marca": "Nosotras",
-      "categoria": "Protección femenina",
-      "precio_antes": 5555.0,
-      "precio_hoy": 3865.0,
-      "precio_actual_hoy": 3865.0,
-      "diff_abs": -1690.0,
-      "diff_pct": -30.42
-    },
-    {
-      "product_id": "481245",
-      "nombre": "Mozzarella bocconcino Arrivata 150 g.",
-      "marca": "Arrivata",
-      "categoria": "Quesos",
-      "precio_antes": 4155.0,
-      "precio_hoy": 2990.0,
-      "precio_actual_hoy": 2990.0,
-      "diff_abs": -1165.0,
-      "diff_pct": -28.04
-    },
-    {
-      "product_id": "547621",
-      "nombre": "Salame 66 x kg.",
-      "marca": "66",
-      "categoria": "Fiambres",
-      "precio_antes": 20430.0,
-      "precio_hoy": 14805.0,
-      "precio_actual_hoy": 14805.0,
-      "diff_abs": -5625.0,
-      "diff_pct": -27.53
-    },
-    {
-      "product_id": "731392",
-      "nombre": "Porotos de soja Carrefour classic seca remojada 300 g.",
-      "marca": "Carrefour",
-      "categoria": "Enlatados y Conservas",
-      "precio_antes": 1090.0,
-      "precio_hoy": 799.0,
-      "precio_actual_hoy": 719.1,
-      "diff_abs": -291.0,
-      "diff_pct": -26.7
-    },
-    {
-      "product_id": "527781",
-      "nombre": "Bolsas para residuos Asurín mediana verdes 50x70cm plana x 30 u.",
-      "marca": "Asurín",
-      "categoria": "Artículos de limpieza",
-      "precio_antes": 7490.0,
-      "precio_hoy": 5803.0,
-      "precio_actual_hoy": 5803.0,
-      "diff_abs": -1687.0,
-      "diff_pct": -22.52
-    },
-    {
-      "product_id": "717205",
-      "nombre": "Croquetas de papa Granja del Sol 400 g.",
-      "marca": "Granja Del Sol",
-      "categoria": "Nuggets y rebozados",
-      "precio_antes": 8469.0,
-      "precio_hoy": 6689.0,
-      "precio_actual_hoy": 6689.0,
-      "diff_abs": -1780.0,
-      "diff_pct": -21.02
-    },
-    {
-      "product_id": "735309",
-      "nombre": "Fideos tallarin Don bernabeu 500 g.",
-      "marca": "Don Bernabeu",
-      "categoria": "Pastas secas",
-      "precio_antes": 849.0,
-      "precio_hoy": 699.0,
-      "precio_actual_hoy": 699.0,
-      "diff_abs": -150.0,
-      "diff_pct": -17.67
-    },
-    {
-      "product_id": "735313",
-      "nombre": "Fideos rigatti Don bernabeu 500 g.",
-      "marca": "Don Bernabeu",
-      "categoria": "Pastas secas",
-      "precio_antes": 849.0,
-      "precio_hoy": 699.0,
-      "precio_actual_hoy": 699.0,
-      "diff_abs": -150.0,
-      "diff_pct": -17.67
-    },
-    {
-      "product_id": "735310",
-      "nombre": "Fideos mostachole Don bernabeu 500 g.",
-      "marca": "Don Bernabeu",
-      "categoria": "Pastas secas",
-      "precio_antes": 849.0,
-      "precio_hoy": 699.0,
-      "precio_actual_hoy": 699.0,
-      "diff_abs": -150.0,
-      "diff_pct": -17.67
+      "product_id": "735528",
+      "nombre": "Pera x kg.",
+      "marca": "Genérico",
+      "categoria": "Frutas",
+      "precio_antes": 4990.0,
+      "precio_hoy": 3990.0,
+      "precio_actual_hoy": 3990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -20.04
     }
   ],
-  "productos_subieron_dia": 363,
-  "productos_bajaron_dia": 259,
-  "productos_sin_cambio_dia": 24228
+  "productos_subieron_dia": 613,
+  "productos_bajaron_dia": 182,
+  "productos_sin_cambio_dia": 24039
 }
