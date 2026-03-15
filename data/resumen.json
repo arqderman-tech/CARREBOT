@@ -1,117 +1,139 @@
 {
-  "fecha": "20260314",
-  "total_productos": 24842,
-  "variacion_dia": 0.16,
-  "variacion_7d": 0.31,
+  "fecha": "20260315",
+  "total_productos": 24844,
+  "variacion_dia": -0.05,
+  "variacion_7d": 0.24,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 131,
-      "productos_bajaron": 44,
-      "productos_sin_cambio": 9255,
-      "total_productos": 9430
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 18,
+      "productos_bajaron": 85,
+      "productos_sin_cambio": 9316,
+      "total_productos": 9419
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.17,
-      "productos_subieron": 74,
-      "productos_bajaron": 17,
-      "productos_sin_cambio": 3269,
-      "total_productos": 3360
+      "variacion_pct_promedio": -0.08,
+      "productos_subieron": 13,
+      "productos_bajaron": 52,
+      "productos_sin_cambio": 3287,
+      "total_productos": 3352
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.19,
-      "productos_subieron": 33,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 1003,
-      "total_productos": 1037
+      "variacion_pct_promedio": -0.08,
+      "productos_subieron": 1,
+      "productos_bajaron": 14,
+      "productos_sin_cambio": 1020,
+      "total_productos": 1035
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.18,
-      "productos_subieron": 92,
-      "productos_bajaron": 8,
-      "productos_sin_cambio": 2418,
-      "total_productos": 2518
+      "variacion_pct_promedio": -0.03,
+      "productos_subieron": 1,
+      "productos_bajaron": 14,
+      "productos_sin_cambio": 2501,
+      "total_productos": 2516
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.09,
-      "productos_subieron": 31,
-      "productos_bajaron": 9,
-      "productos_sin_cambio": 1150,
-      "total_productos": 1190
+      "variacion_pct_promedio": -0.06,
+      "productos_subieron": 4,
+      "productos_bajaron": 22,
+      "productos_sin_cambio": 1165,
+      "total_productos": 1191
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.11,
-      "productos_subieron": 104,
-      "productos_bajaron": 40,
-      "productos_sin_cambio": 2416,
-      "total_productos": 2560
+      "variacion_pct_promedio": -0.05,
+      "productos_subieron": 13,
+      "productos_bajaron": 21,
+      "productos_sin_cambio": 2525,
+      "total_productos": 2559
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.1,
-      "productos_subieron": 148,
-      "productos_bajaron": 63,
-      "productos_sin_cambio": 4528,
-      "total_productos": 4739
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 22,
+      "productos_bajaron": 38,
+      "productos_sin_cambio": 4676,
+      "total_productos": 4736
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "754968",
-      "nombre": "Galletitas dulces Carrefour Classic anillo sabor coco 300 grs",
-      "marca": "Carrefour",
-      "categoria": "Galletitas y tostadas",
-      "precio_antes": 1390.0,
-      "precio_hoy": 799.0,
-      "precio_actual_hoy": 711.11,
-      "diff_abs": -591.0,
-      "diff_pct": -42.52
+      "product_id": "1759267",
+      "nombre": "Mopa Microfibra Onebox OB-LBT3 Lavable Balde Escurridor",
+      "marca": "Onebox",
+      "categoria": "Artículos de limpieza",
+      "precio_antes": 63742.0,
+      "precio_hoy": 43199.0,
+      "precio_actual_hoy": 43199.0,
+      "diff_abs": -20543.0,
+      "diff_pct": -32.23
     },
     {
-      "product_id": "646297",
-      "nombre": "Mostaza Heinz 396 g.",
-      "marca": "Heinz",
-      "categoria": "Sal aderezos y saborizadores",
-      "precio_antes": 9900.0,
-      "precio_hoy": 7149.0,
-      "precio_actual_hoy": 7149.0,
-      "diff_abs": -2751.0,
-      "diff_pct": -27.79
+      "product_id": "1765262",
+      "nombre": "Cesto de Basura Onebox OB-C5 de Acero Inoxidable 5 Litros",
+      "marca": "Onebox",
+      "categoria": "Artículos de limpieza",
+      "precio_antes": 46478.0,
+      "precio_hoy": 31499.0,
+      "precio_actual_hoy": 31499.0,
+      "diff_abs": -14979.0,
+      "diff_pct": -32.23
     },
     {
-      "product_id": "546704",
-      "nombre": "Antitranspirante Veritas crema clásico 60 g.",
-      "marca": "Véritas",
-      "categoria": "Antitranspirantes",
-      "precio_antes": 3169.0,
-      "precio_hoy": 2290.0,
-      "precio_actual_hoy": 2290.0,
-      "diff_abs": -879.0,
-      "diff_pct": -27.74
+      "product_id": "1762758",
+      "nombre": "Limpiador Vidrios 3 en 1 One Box OB-LC1 Paño y Escobilla",
+      "marca": "Onebox",
+      "categoria": "Artículos de limpieza",
+      "precio_antes": 14606.0,
+      "precio_hoy": 9899.0,
+      "precio_actual_hoy": 9899.0,
+      "diff_abs": -4707.0,
+      "diff_pct": -32.23
     },
     {
-      "product_id": "1762761",
-      "nombre": "Limpia Zapatillas Philips GCA1000-60 Azul y Amarillo",
-      "marca": "Philips",
-      "categoria": "Limpieza de la ropa",
-      "precio_antes": 59758.0,
-      "precio_hoy": 44999.0,
-      "precio_actual_hoy": 44999.0,
-      "diff_abs": -14759.0,
+      "product_id": "480150",
+      "nombre": "Bizcochuelo sin TACC chocolate Kapac 500 g.",
+      "marca": "Kapac",
+      "categoria": "Repostería y postres",
+      "precio_antes": 5290.0,
+      "precio_hoy": 3950.0,
+      "precio_actual_hoy": 3950.0,
+      "diff_abs": -1340.0,
+      "diff_pct": -25.33
+    },
+    {
+      "product_id": "1760759",
+      "nombre": "60 Capsulas De Café Macchiato Compatible Maquina Nespresso",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 84660.0,
+      "precio_hoy": 63749.0,
+      "precio_actual_hoy": 63749.0,
+      "diff_abs": -20911.0,
       "diff_pct": -24.7
     },
     {
-      "product_id": "1760747",
-      "nombre": "Capsulas Macchiato Nostro Compatible Nespresso X 10 Unidades",
+      "product_id": "1760744",
+      "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 60 Unidades",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 81273.0,
+      "precio_hoy": 61199.0,
+      "precio_actual_hoy": 61199.0,
+      "diff_abs": -20074.0,
+      "diff_pct": -24.7
+    },
+    {
+      "product_id": "1760745",
+      "nombre": "Capsulas Macchiato Nero Compatible Nespresso X 10 Unidades",
       "marca": "Café Macchiato",
       "categoria": "Café",
       "precio_antes": 13545.0,
@@ -121,62 +143,40 @@
       "diff_pct": -24.7
     },
     {
-      "product_id": "1760749",
-      "nombre": "Capsulas Macchiato Forte Compatible Nespresso X 10 Unidades",
+      "product_id": "1760755",
+      "nombre": "Capsulas Macchiato Tradizionale Nespresso X 60 Unidades",
       "marca": "Café Macchiato",
       "categoria": "Café",
-      "precio_antes": 13545.0,
-      "precio_hoy": 10199.0,
-      "precio_actual_hoy": 10199.0,
-      "diff_abs": -3346.0,
+      "precio_antes": 81273.0,
+      "precio_hoy": 61199.0,
+      "precio_actual_hoy": 61199.0,
+      "diff_abs": -20074.0,
       "diff_pct": -24.7
     },
     {
-      "product_id": "1760753",
-      "nombre": "Capsulas Macchiato Lungo Compatible Nespresso X 30 Unidades",
+      "product_id": "1760742",
+      "nombre": "Capsulas Macchiato Tradizionale Nespresso X 30 Unidades",
       "marca": "Café Macchiato",
       "categoria": "Café",
-      "precio_antes": 47070.0,
-      "precio_hoy": 35449.0,
-      "precio_actual_hoy": 35449.0,
-      "diff_abs": -11621.0,
-      "diff_pct": -24.69
+      "precio_antes": 40636.0,
+      "precio_hoy": 30599.0,
+      "precio_actual_hoy": 30599.0,
+      "diff_abs": -10037.0,
+      "diff_pct": -24.7
     },
     {
-      "product_id": "776307",
-      "nombre": "Barra de cereal Flow Cereal de cajú con caramelo y sal 30 grs",
-      "marca": "Flow Cereal",
-      "categoria": "Cereales y barritas",
-      "precio_antes": 1094.0,
-      "precio_hoy": 869.0,
-      "precio_actual_hoy": 869.0,
-      "diff_abs": -225.0,
-      "diff_pct": -20.57
-    },
-    {
-      "product_id": "735441",
-      "nombre": "Manzana red x kg.",
-      "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 7499.0,
-      "precio_hoy": 5990.0,
-      "precio_actual_hoy": 5990.0,
-      "diff_abs": -1509.0,
-      "diff_pct": -20.12
-    },
-    {
-      "product_id": "735528",
-      "nombre": "Pera x kg.",
-      "marca": "Genérico",
-      "categoria": "Frutas",
-      "precio_antes": 4990.0,
-      "precio_hoy": 3990.0,
-      "precio_actual_hoy": 3990.0,
-      "diff_abs": -1000.0,
-      "diff_pct": -20.04
+      "product_id": "1760756",
+      "nombre": "Capsulas Macchiato Nero Compatible Nespresso X 60 Unidades",
+      "marca": "Café Macchiato",
+      "categoria": "Café",
+      "precio_antes": 81273.0,
+      "precio_hoy": 61199.0,
+      "precio_actual_hoy": 61199.0,
+      "diff_abs": -20074.0,
+      "diff_pct": -24.7
     }
   ],
-  "productos_subieron_dia": 613,
-  "productos_bajaron_dia": 182,
-  "productos_sin_cambio_dia": 24039
+  "productos_subieron_dia": 72,
+  "productos_bajaron_dia": 246,
+  "productos_sin_cambio_dia": 24490
 }

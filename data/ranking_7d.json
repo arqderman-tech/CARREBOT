@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "725065",
-    "nombre": "Gaseosa Coca cola + Sprite 2.25 lt.",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas",
-    "precio_antes": 760.0,
-    "precio_hoy": 7590.0,
-    "precio_actual_hoy": 7590.0,
-    "diff_abs": 6830.0,
-    "diff_pct": 898.68
-  },
-  {
     "product_id": "674162",
     "nombre": "Galletitas Rellenas Oreo Original 182.5 g.",
     "marca": "Oreo",
@@ -22,17 +11,6 @@
     "diff_pct": 603.59
   },
   {
-    "product_id": "746495",
-    "nombre": "Alfajor sin tacc Angiola de chocolate en bolsa 55 g.",
-    "marca": "Angiola",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 274.0,
-    "precio_hoy": 1615.0,
-    "precio_actual_hoy": 1615.0,
-    "diff_abs": 1341.0,
-    "diff_pct": 489.42
-  },
-  {
     "product_id": "591288",
     "nombre": "Galletitas Oreo 3 x 117 g.",
     "marca": "Oreo",
@@ -42,6 +20,28 @@
     "precio_actual_hoy": 5850.0,
     "diff_abs": 4071.0,
     "diff_pct": 228.84
+  },
+  {
+    "product_id": "591612",
+    "nombre": "Fideos fusilli negro San Giorgio 500 g.",
+    "marca": "San Giorgio",
+    "categoria": "Pastas secas",
+    "precio_antes": 4439.0,
+    "precio_hoy": 8055.0,
+    "precio_actual_hoy": 8055.0,
+    "diff_abs": 3616.0,
+    "diff_pct": 81.46
+  },
+  {
+    "product_id": "591379",
+    "nombre": "Galletitas Oreo golden 117 g.",
+    "marca": "Oreo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1429.0,
+    "precio_hoy": 2459.0,
+    "precio_actual_hoy": 2459.0,
+    "diff_abs": 1030.0,
+    "diff_pct": 72.08
   },
   {
     "product_id": "674161",
@@ -66,15 +66,15 @@
     "diff_pct": 72.08
   },
   {
-    "product_id": "591379",
-    "nombre": "Galletitas Oreo golden 117 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 2459.0,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
+    "product_id": "95802",
+    "nombre": "Whisky importado 6 a family William Grants 750 cc.",
+    "marca": "William Grants",
+    "categoria": "Bebidas blancas",
+    "precio_antes": 29239.0,
+    "precio_hoy": 43389.0,
+    "precio_actual_hoy": 32541.75,
+    "diff_abs": 14150.0,
+    "diff_pct": 48.39
   },
   {
     "product_id": "709971",
@@ -86,17 +86,6 @@
     "precio_actual_hoy": 5555.0,
     "diff_abs": 1690.0,
     "diff_pct": 43.73
-  },
-  {
-    "product_id": "764050",
-    "nombre": "Tableta de chocolate semiamargo Nestlé 50 grs",
-    "marca": "Nestlé",
-    "categoria": "Golosinas y chocolates",
-    "precio_antes": 2754.5,
-    "precio_hoy": 3935.0,
-    "precio_actual_hoy": 3935.0,
-    "diff_abs": 1180.5,
-    "diff_pct": 42.86
   },
   {
     "product_id": "730598",
@@ -132,59 +121,59 @@
     "diff_pct": 37.97
   },
   {
-    "product_id": "480150",
-    "nombre": "Bizcochuelo sin TACC chocolate Kapac 500 g.",
-    "marca": "Kapac",
-    "categoria": "Repostería y postres",
-    "precio_antes": 3950.0,
-    "precio_hoy": 5290.0,
-    "precio_actual_hoy": 5290.0,
-    "diff_abs": 1340.0,
-    "diff_pct": 33.92
-  },
-  {
-    "product_id": "709753",
-    "nombre": "Mostaza Savora original doypack 250 g.",
-    "marca": "Savora",
+    "product_id": "498940",
+    "nombre": "Molinillo grillados Indo Deli 70 g.",
+    "marca": "Indo Deli",
     "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 1169.0,
-    "precio_hoy": 1565.0,
-    "precio_actual_hoy": 1565.0,
-    "diff_abs": 396.0,
-    "diff_pct": 33.88
+    "precio_antes": 6119.0,
+    "precio_hoy": 8095.0,
+    "precio_actual_hoy": 8095.0,
+    "diff_abs": 1976.0,
+    "diff_pct": 32.29
   },
   {
-    "product_id": "700206",
-    "nombre": "Ketchup Hellmanns regular doypack 250 g.",
-    "marca": "Hellmanns",
+    "product_id": "650529",
+    "nombre": "Mostaza antigua Clovis 200 g.",
+    "marca": "Clovis",
     "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 1775.0,
-    "precio_hoy": 2369.0,
-    "precio_actual_hoy": 2369.0,
-    "diff_abs": 594.0,
-    "diff_pct": 33.46
+    "precio_antes": 7469.0,
+    "precio_hoy": 9879.0,
+    "precio_actual_hoy": 9879.0,
+    "diff_abs": 2410.0,
+    "diff_pct": 32.27
   },
   {
-    "product_id": "708050",
-    "nombre": "Puré de papas Knorr tradicional listo 125 g.",
-    "marca": "Knorr",
-    "categoria": "Caldos sopas y puré",
-    "precio_antes": 2099.0,
-    "precio_hoy": 2799.0,
-    "precio_actual_hoy": 2799.0,
-    "diff_abs": 700.0,
-    "diff_pct": 33.35
+    "product_id": "650528",
+    "nombre": "Mostaza dijón Clovis 200 g.",
+    "marca": "Clovis",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 7469.0,
+    "precio_hoy": 9879.0,
+    "precio_actual_hoy": 9879.0,
+    "diff_abs": 2410.0,
+    "diff_pct": 32.27
   },
   {
-    "product_id": "527781",
-    "nombre": "Bolsas para residuos Asurín mediana verdes 50x70cm plana x 30 u.",
-    "marca": "Asurín",
-    "categoria": "Artículos de limpieza",
-    "precio_antes": 5803.0,
-    "precio_hoy": 7490.0,
-    "precio_actual_hoy": 7490.0,
-    "diff_abs": 1687.0,
-    "diff_pct": 29.07
+    "product_id": "753060",
+    "nombre": "Obleas sabor chocolate Bridge 140 grs",
+    "marca": "Bridges",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1915.0,
+    "precio_hoy": 2529.0,
+    "precio_actual_hoy": 2529.0,
+    "diff_abs": 614.0,
+    "diff_pct": 32.06
+  },
+  {
+    "product_id": "340061",
+    "nombre": "Salsa de soja y hongos Lee Kum Kee en botella 500 ml",
+    "marca": "Lee Kum Kee",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 11939.0,
+    "precio_hoy": 15689.0,
+    "precio_actual_hoy": 15689.0,
+    "diff_abs": 3750.0,
+    "diff_pct": 31.41
   },
   {
     "product_id": "592519",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 13265.0,
     "diff_abs": 2665.0,
     "diff_pct": 25.14
+  },
+  {
+    "product_id": "622114",
+    "nombre": "Aperitivo sin alcohol Citrus Terma 1,35 lts",
+    "marca": "Terma",
+    "categoria": "Fernet y aperitivos",
+    "precio_antes": 2025.0,
+    "precio_hoy": 2530.0,
+    "precio_actual_hoy": 2530.0,
+    "diff_abs": 505.0,
+    "diff_pct": 24.94
   }
 ]
