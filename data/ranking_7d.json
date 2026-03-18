@@ -1,16 +1,5 @@
 [
   {
-    "product_id": "725065",
-    "nombre": "Gaseosa Coca cola + Sprite 2.25 lt.",
-    "marca": "Coca Cola",
-    "categoria": "Gaseosas",
-    "precio_antes": 760.0,
-    "precio_hoy": 7590.0,
-    "precio_actual_hoy": 7590.0,
-    "diff_abs": 6830.0,
-    "diff_pct": 898.68
-  },
-  {
     "product_id": "674162",
     "nombre": "Galletitas Rellenas Oreo Original 182.5 g.",
     "marca": "Oreo",
@@ -44,6 +33,17 @@
     "diff_pct": 228.84
   },
   {
+    "product_id": "632466",
+    "nombre": "Cerveza rubia Brahma 970 ml",
+    "marca": "Brahma",
+    "categoria": "Cervezas",
+    "precio_antes": 2580.0,
+    "precio_hoy": 6300.0,
+    "precio_actual_hoy": 6300.0,
+    "diff_abs": 3720.0,
+    "diff_pct": 144.19
+  },
+  {
     "product_id": "678678",
     "nombre": "Aceituna verde gordal descar Ybarra fco 370 g.",
     "marca": "Ybarra",
@@ -53,6 +53,17 @@
     "precio_actual_hoy": 8445.0,
     "diff_abs": 3976.0,
     "diff_pct": 88.97
+  },
+  {
+    "product_id": "591612",
+    "nombre": "Fideos fusilli negro San Giorgio 500 g.",
+    "marca": "San Giorgio",
+    "categoria": "Pastas secas",
+    "precio_antes": 4439.0,
+    "precio_hoy": 8055.0,
+    "precio_actual_hoy": 8055.0,
+    "diff_abs": 3616.0,
+    "diff_pct": 81.46
   },
   {
     "product_id": "591615",
@@ -66,15 +77,15 @@
     "diff_pct": 81.46
   },
   {
-    "product_id": "591612",
-    "nombre": "Fideos fusilli negro San Giorgio 500 g.",
-    "marca": "San Giorgio",
-    "categoria": "Pastas secas",
-    "precio_antes": 4439.0,
-    "precio_hoy": 8055.0,
-    "precio_actual_hoy": 8055.0,
-    "diff_abs": 3616.0,
-    "diff_pct": 81.46
+    "product_id": "674161",
+    "nombre": "Galletitas Óreo 118 g.",
+    "marca": "Oreo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1429.0,
+    "precio_hoy": 2459.0,
+    "precio_actual_hoy": 1598.35,
+    "diff_abs": 1030.0,
+    "diff_pct": 72.08
   },
   {
     "product_id": "591989",
@@ -97,39 +108,6 @@
     "precio_actual_hoy": 1598.35,
     "diff_abs": 1030.0,
     "diff_pct": 72.08
-  },
-  {
-    "product_id": "674161",
-    "nombre": "Galletitas Óreo 118 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 1598.35,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
-  },
-  {
-    "product_id": "559754",
-    "nombre": "Burrata Arrivata 250 g.",
-    "marca": "Arrivata",
-    "categoria": "Quesos",
-    "precio_antes": 5990.0,
-    "precio_hoy": 9375.0,
-    "precio_actual_hoy": 9375.0,
-    "diff_abs": 3385.0,
-    "diff_pct": 56.51
-  },
-  {
-    "product_id": "753891",
-    "nombre": "Salamín tandilero Cagnoli picado fino 145 grs",
-    "marca": "Cagnoli",
-    "categoria": "Fiambres",
-    "precio_antes": 4390.0,
-    "precio_hoy": 6610.0,
-    "precio_actual_hoy": 6610.0,
-    "diff_abs": 2220.0,
-    "diff_pct": 50.57
   },
   {
     "product_id": "735054",
@@ -209,6 +187,17 @@
     "diff_pct": 34.53
   },
   {
+    "product_id": "668363",
+    "nombre": "Yerba mate Mañanita bajo polvo 4flex 1 kg.",
+    "marca": "Mañanita",
+    "categoria": "Yerba",
+    "precio_antes": 3590.0,
+    "precio_hoy": 4815.0,
+    "precio_actual_hoy": 3990.0,
+    "diff_abs": 1225.0,
+    "diff_pct": 34.12
+  },
+  {
     "product_id": "480150",
     "nombre": "Bizcochuelo sin TACC chocolate Kapac 500 g.",
     "marca": "Kapac",
@@ -218,5 +207,16 @@
     "precio_actual_hoy": 5290.0,
     "diff_abs": 1340.0,
     "diff_pct": 33.92
+  },
+  {
+    "product_id": "340550",
+    "nombre": "Salsa ostion Lee Kum Kee en botella 255 grs",
+    "marca": "Lee Kum Kee",
+    "categoria": "Sal aderezos y saborizadores",
+    "precio_antes": 11359.0,
+    "precio_hoy": 14939.0,
+    "precio_actual_hoy": 14939.0,
+    "diff_abs": 3580.0,
+    "diff_pct": 31.52
   }
 ]

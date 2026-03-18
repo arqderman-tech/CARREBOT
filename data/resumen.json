@@ -1,7 +1,7 @@
 {
-  "fecha": "20260317",
-  "total_productos": 24839,
-  "variacion_dia": 0.01,
+  "fecha": "20260318",
+  "total_productos": 24896,
+  "variacion_dia": 0.05,
   "variacion_7d": 0.27,
   "variacion_mes": null,
   "variacion_6m": null,
@@ -9,174 +9,174 @@
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 35,
-      "productos_bajaron": 41,
-      "productos_sin_cambio": 9345,
-      "total_productos": 9421
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 16,
+      "productos_bajaron": 12,
+      "productos_sin_cambio": 9394,
+      "total_productos": 9422
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": -0.05,
-      "productos_subieron": 29,
-      "productos_bajaron": 45,
-      "productos_sin_cambio": 3277,
-      "total_productos": 3351
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 21,
+      "productos_bajaron": 11,
+      "productos_sin_cambio": 3320,
+      "total_productos": 3352
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": -0.03,
-      "productos_subieron": 8,
-      "productos_bajaron": 10,
-      "productos_sin_cambio": 1017,
-      "total_productos": 1035
+      "variacion_pct_promedio": 0.16,
+      "productos_subieron": 26,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 1008,
+      "total_productos": 1036
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 10,
-      "productos_bajaron": 1,
-      "productos_sin_cambio": 2506,
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 48,
+      "productos_bajaron": 6,
+      "productos_sin_cambio": 2463,
       "total_productos": 2517
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 14,
-      "productos_bajaron": 8,
-      "productos_sin_cambio": 1169,
-      "total_productos": 1191
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 47,
+      "productos_bajaron": 2,
+      "productos_sin_cambio": 1143,
+      "total_productos": 1192
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 40,
-      "productos_bajaron": 14,
-      "productos_sin_cambio": 2507,
-      "total_productos": 2561
+      "variacion_pct_promedio": 0.1,
+      "productos_subieron": 12,
+      "productos_bajaron": 10,
+      "productos_sin_cambio": 2548,
+      "total_productos": 2570
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.0,
-      "productos_subieron": 19,
-      "productos_bajaron": 22,
-      "productos_sin_cambio": 4697,
-      "total_productos": 4738
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 9,
+      "productos_bajaron": 5,
+      "productos_sin_cambio": 4730,
+      "total_productos": 4744
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "771931",
-      "nombre": "Jugo natural Pura Frutta sabor naranja brick 2 lts",
-      "marca": "Pura Frutta",
-      "categoria": "Jugos",
-      "precio_antes": 8999.0,
-      "precio_hoy": 5399.0,
-      "precio_actual_hoy": 5399.0,
-      "diff_abs": -3600.0,
-      "diff_pct": -40.0
+      "product_id": "689281",
+      "nombre": "Sidra 1930 Saccani dolce lata 355 cc.",
+      "marca": "1930 Saccani",
+      "categoria": "Espumantes y sidras",
+      "precio_antes": 3825.0,
+      "precio_hoy": 2500.0,
+      "precio_actual_hoy": 2500.0,
+      "diff_abs": -1325.0,
+      "diff_pct": -34.64
     },
     {
-      "product_id": "103955",
-      "nombre": "Limpiador líquido Carrefour colonia 900 cc.",
-      "marca": "Carrefour",
+      "product_id": "735441",
+      "nombre": "Manzana red x kg.",
+      "marca": "Genérico",
+      "categoria": "Frutas",
+      "precio_antes": 7499.0,
+      "precio_hoy": 5990.0,
+      "precio_actual_hoy": 5990.0,
+      "diff_abs": -1509.0,
+      "diff_pct": -20.12
+    },
+    {
+      "product_id": "574023",
+      "nombre": "Rucula en hojas x atado",
+      "marca": "Genérico",
+      "categoria": "Verduras",
+      "precio_antes": 1790.0,
+      "precio_hoy": 1490.0,
+      "precio_actual_hoy": 1490.0,
+      "diff_abs": -300.0,
+      "diff_pct": -16.76
+    },
+    {
+      "product_id": "685462",
+      "nombre": "Hisopos Estrella estuche x 100 uni",
+      "marca": "Estrella",
+      "categoria": "Algodones e hisopos",
+      "precio_antes": 4250.0,
+      "precio_hoy": 3600.0,
+      "precio_actual_hoy": 3600.0,
+      "diff_abs": -650.0,
+      "diff_pct": -15.29
+    },
+    {
+      "product_id": "564731",
+      "nombre": "Jabón de tocador Estilo Spa coco 100 g.",
+      "marca": "Estilo Spa",
+      "categoria": "Jabones",
+      "precio_antes": 1595.0,
+      "precio_hoy": 1355.0,
+      "precio_actual_hoy": 1355.0,
+      "diff_abs": -240.0,
+      "diff_pct": -15.05
+    },
+    {
+      "product_id": "549594",
+      "nombre": "Polvo desodorante Veritas clásico 180 g.",
+      "marca": "Véritas",
+      "categoria": "Cuidado corporal",
+      "precio_antes": 3429.0,
+      "precio_hoy": 2915.0,
+      "precio_actual_hoy": 2915.0,
+      "diff_abs": -514.0,
+      "diff_pct": -14.99
+    },
+    {
+      "product_id": "653330",
+      "nombre": "Aromatizante para telas Aire Pur rocío de bambú 400 cc.",
+      "marca": "Aire Pur",
+      "categoria": "Limpieza de la ropa",
+      "precio_antes": 7469.0,
+      "precio_hoy": 6469.0,
+      "precio_actual_hoy": 6469.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -13.39
+    },
+    {
+      "product_id": "750591",
+      "nombre": "Limpiador líquido Glade floral en botella 4 lts",
+      "marca": "Glade",
       "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "precio_actual_hoy": 891.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
+      "precio_antes": 7819.0,
+      "precio_hoy": 6799.0,
+      "precio_actual_hoy": 6799.0,
+      "diff_abs": -1020.0,
+      "diff_pct": -13.05
     },
     {
-      "product_id": "103968",
-      "nombre": "Limpiador líquido Carrefour Essential marina 900 ml",
-      "marca": "Carrefour",
+      "product_id": "674527",
+      "nombre": "Cera líquida pisos cerámicos Blem rojo repuesto económico 450 ml.",
+      "marca": "Blem",
       "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "precio_actual_hoy": 891.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
+      "precio_antes": 6109.0,
+      "precio_hoy": 5379.0,
+      "precio_actual_hoy": 5379.0,
+      "diff_abs": -730.0,
+      "diff_pct": -11.95
     },
     {
-      "product_id": "447676",
-      "nombre": "Limpiador líquido Carrefour frutal 900 cc.",
-      "marca": "Carrefour",
-      "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "precio_actual_hoy": 891.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
-    },
-    {
-      "product_id": "103964",
-      "nombre": "Limpiador líquido Carrefour Essential lavanda 900 ml",
-      "marca": "Carrefour",
-      "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "precio_actual_hoy": 891.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
-    },
-    {
-      "product_id": "103965",
-      "nombre": "Limpiador líquido Carrefour Essential limón 900 ml",
-      "marca": "Carrefour",
-      "categoria": "Limpieza pisos y muebles",
-      "precio_antes": 1490.0,
-      "precio_hoy": 990.0,
-      "precio_actual_hoy": 891.0,
-      "diff_abs": -500.0,
-      "diff_pct": -33.56
-    },
-    {
-      "product_id": "1762842",
-      "nombre": "Set Pala Escoba Onebox OB-EP1 Acero Inoxidable Desmontable",
-      "marca": "Onebox",
-      "categoria": "Artículos de limpieza",
-      "precio_antes": 33198.0,
-      "precio_hoy": 22499.0,
-      "precio_actual_hoy": 22499.0,
-      "diff_abs": -10699.0,
-      "diff_pct": -32.23
-    },
-    {
-      "product_id": "739975",
-      "nombre": "Salamín tandilero picante Cagnoli 145 g.",
-      "marca": "Cagnoli",
-      "categoria": "Fiambres",
-      "precio_antes": 6750.0,
-      "precio_hoy": 4690.0,
-      "precio_actual_hoy": 4690.0,
-      "diff_abs": -2060.0,
-      "diff_pct": -30.52
-    },
-    {
-      "product_id": "739987",
-      "nombre": "Salamín tandilero ahumado Cagnoli 145 g.",
-      "marca": "Cagnoli",
-      "categoria": "Fiambres",
-      "precio_antes": 6790.0,
-      "precio_hoy": 4790.0,
-      "precio_actual_hoy": 4790.0,
-      "diff_abs": -2000.0,
-      "diff_pct": -29.46
-    },
-    {
-      "product_id": "547621",
-      "nombre": "Salame 66 x kg.",
-      "marca": "66",
-      "categoria": "Fiambres",
-      "precio_antes": 20430.0,
-      "precio_hoy": 14805.0,
-      "precio_actual_hoy": 14805.0,
-      "diff_abs": -5625.0,
-      "diff_pct": -27.53
+      "product_id": "146497",
+      "nombre": "Kinder huevo de chocolate 20 grs",
+      "marca": "Kinder",
+      "categoria": "Golosinas y chocolates",
+      "precio_antes": 2769.0,
+      "precio_hoy": 2449.0,
+      "precio_actual_hoy": 2449.0,
+      "diff_abs": -320.0,
+      "diff_pct": -11.56
     }
   ],
-  "productos_subieron_dia": 155,
-  "productos_bajaron_dia": 141,
-  "productos_sin_cambio_dia": 24518
+  "productos_subieron_dia": 179,
+  "productos_bajaron_dia": 48,
+  "productos_sin_cambio_dia": 24606
 }
