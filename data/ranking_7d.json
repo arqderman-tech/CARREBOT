@@ -55,17 +55,6 @@
     "diff_pct": 88.97
   },
   {
-    "product_id": "591612",
-    "nombre": "Fideos fusilli negro San Giorgio 500 g.",
-    "marca": "San Giorgio",
-    "categoria": "Pastas secas",
-    "precio_antes": 4439.0,
-    "precio_hoy": 8055.0,
-    "precio_actual_hoy": 8055.0,
-    "diff_abs": 3616.0,
-    "diff_pct": 81.46
-  },
-  {
     "product_id": "591615",
     "nombre": "Fideos penne negro San Giorgio 500 g.",
     "marca": "San Giorgio",
@@ -77,8 +66,19 @@
     "diff_pct": 81.46
   },
   {
-    "product_id": "674161",
-    "nombre": "Galletitas Óreo 118 g.",
+    "product_id": "591612",
+    "nombre": "Fideos fusilli negro San Giorgio 500 g.",
+    "marca": "San Giorgio",
+    "categoria": "Pastas secas",
+    "precio_antes": 4439.0,
+    "precio_hoy": 8055.0,
+    "precio_actual_hoy": 8055.0,
+    "diff_abs": 3616.0,
+    "diff_pct": 81.46
+  },
+  {
+    "product_id": "591989",
+    "nombre": "Galletitas Oreo chocolate rellenas chocolate 117 g.",
     "marca": "Oreo",
     "categoria": "Galletitas y tostadas",
     "precio_antes": 1429.0,
@@ -88,8 +88,8 @@
     "diff_pct": 72.08
   },
   {
-    "product_id": "591989",
-    "nombre": "Galletitas Oreo chocolate rellenas chocolate 117 g.",
+    "product_id": "674161",
+    "nombre": "Galletitas Óreo 118 g.",
     "marca": "Oreo",
     "categoria": "Galletitas y tostadas",
     "precio_antes": 1429.0,
@@ -132,26 +132,37 @@
     "diff_pct": 47.46
   },
   {
-    "product_id": "709971",
-    "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
-    "marca": "Nosotras",
-    "categoria": "Protección femenina",
-    "precio_antes": 3865.0,
-    "precio_hoy": 5555.0,
-    "precio_actual_hoy": 4166.25,
-    "diff_abs": 1690.0,
-    "diff_pct": 43.73
+    "product_id": "154564",
+    "nombre": "Piña Dole x kg.",
+    "marca": "Dole",
+    "categoria": "Frutas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2899.0,
+    "precio_actual_hoy": 2899.0,
+    "diff_abs": 900.0,
+    "diff_pct": 45.02
   },
   {
-    "product_id": "730598",
-    "nombre": "Barra de cereal Flow cereal light yogur 24 g.",
-    "marca": "Flow Cereal",
-    "categoria": "Cereales y barritas",
-    "precio_antes": 650.0,
-    "precio_hoy": 925.0,
-    "precio_actual_hoy": 925.0,
-    "diff_abs": 275.0,
-    "diff_pct": 42.31
+    "product_id": "8352",
+    "nombre": "Piña comercial x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2899.0,
+    "precio_actual_hoy": 1799.0,
+    "diff_abs": 900.0,
+    "diff_pct": 45.02
+  },
+  {
+    "product_id": "688908",
+    "nombre": "Máquina de afeitar Gillette sensitive venus x 1 uni",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 11249.0,
+    "precio_hoy": 15999.0,
+    "precio_actual_hoy": 11999.25,
+    "diff_abs": 4750.0,
+    "diff_pct": 42.23
   },
   {
     "product_id": "712700",
@@ -187,17 +198,6 @@
     "diff_pct": 34.53
   },
   {
-    "product_id": "668363",
-    "nombre": "Yerba mate Mañanita bajo polvo 4flex 1 kg.",
-    "marca": "Mañanita",
-    "categoria": "Yerba",
-    "precio_antes": 3590.0,
-    "precio_hoy": 4815.0,
-    "precio_actual_hoy": 3990.0,
-    "diff_abs": 1225.0,
-    "diff_pct": 34.12
-  },
-  {
     "product_id": "480150",
     "nombre": "Bizcochuelo sin TACC chocolate Kapac 500 g.",
     "marca": "Kapac",
@@ -209,14 +209,14 @@
     "diff_pct": 33.92
   },
   {
-    "product_id": "340550",
-    "nombre": "Salsa ostion Lee Kum Kee en botella 255 grs",
-    "marca": "Lee Kum Kee",
-    "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 11359.0,
-    "precio_hoy": 14939.0,
-    "precio_actual_hoy": 14939.0,
-    "diff_abs": 3580.0,
-    "diff_pct": 31.52
+    "product_id": "550350",
+    "nombre": "Bizcochuelo de vainilla con chips Emeth 450 g.",
+    "marca": "Emeth",
+    "categoria": "Repostería y postres",
+    "precio_antes": 2685.0,
+    "precio_hoy": 3480.0,
+    "precio_actual_hoy": 3480.0,
+    "diff_abs": 795.0,
+    "diff_pct": 29.61
   }
 ]
