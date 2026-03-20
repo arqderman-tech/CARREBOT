@@ -55,17 +55,6 @@
     "diff_pct": 88.97
   },
   {
-    "product_id": "591615",
-    "nombre": "Fideos penne negro San Giorgio 500 g.",
-    "marca": "San Giorgio",
-    "categoria": "Pastas secas",
-    "precio_antes": 4439.0,
-    "precio_hoy": 8055.0,
-    "precio_actual_hoy": 8055.0,
-    "diff_abs": 3616.0,
-    "diff_pct": 81.46
-  },
-  {
     "product_id": "591612",
     "nombre": "Fideos fusilli negro San Giorgio 500 g.",
     "marca": "San Giorgio",
@@ -77,19 +66,30 @@
     "diff_pct": 81.46
   },
   {
-    "product_id": "591989",
-    "nombre": "Galletitas Oreo chocolate rellenas chocolate 117 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 1598.35,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
+    "product_id": "591615",
+    "nombre": "Fideos penne negro San Giorgio 500 g.",
+    "marca": "San Giorgio",
+    "categoria": "Pastas secas",
+    "precio_antes": 4439.0,
+    "precio_hoy": 8055.0,
+    "precio_actual_hoy": 8055.0,
+    "diff_abs": 3616.0,
+    "diff_pct": 81.46
   },
   {
-    "product_id": "674161",
-    "nombre": "Galletitas Óreo 118 g.",
+    "product_id": "559754",
+    "nombre": "Burrata Arrivata 250 g.",
+    "marca": "Arrivata",
+    "categoria": "Quesos",
+    "precio_antes": 5990.0,
+    "precio_hoy": 10500.0,
+    "precio_actual_hoy": 10500.0,
+    "diff_abs": 4510.0,
+    "diff_pct": 75.29
+  },
+  {
+    "product_id": "591989",
+    "nombre": "Galletitas Oreo chocolate rellenas chocolate 117 g.",
     "marca": "Oreo",
     "categoria": "Galletitas y tostadas",
     "precio_antes": 1429.0,
@@ -110,15 +110,59 @@
     "diff_pct": 72.08
   },
   {
-    "product_id": "735054",
-    "nombre": "Lechuga capuchina x kg.",
-    "marca": "Genérico",
-    "categoria": "Verduras",
-    "precio_antes": 1990.0,
-    "precio_hoy": 2990.0,
-    "precio_actual_hoy": 2990.0,
-    "diff_abs": 1000.0,
-    "diff_pct": 50.25
+    "product_id": "674161",
+    "nombre": "Galletitas Óreo 118 g.",
+    "marca": "Oreo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1429.0,
+    "precio_hoy": 2459.0,
+    "precio_actual_hoy": 1598.35,
+    "diff_abs": 1030.0,
+    "diff_pct": 72.08
+  },
+  {
+    "product_id": "592075",
+    "nombre": "Galletitas bañadas Celosas en bolsa 350 g.",
+    "marca": "Celosas",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1645.0,
+    "precio_hoy": 2710.0,
+    "precio_actual_hoy": 2710.0,
+    "diff_abs": 1065.0,
+    "diff_pct": 64.74
+  },
+  {
+    "product_id": "592077",
+    "nombre": "Galletitas bañadas Celosas en bolsa 230 g.",
+    "marca": "Celosas",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1100.0,
+    "precio_hoy": 1800.0,
+    "precio_actual_hoy": 1800.0,
+    "diff_abs": 700.0,
+    "diff_pct": 63.64
+  },
+  {
+    "product_id": "662964",
+    "nombre": "Alfajor doble Vimar musse de chocolate 42 g.",
+    "marca": "Vimar",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 539.0,
+    "precio_hoy": 870.0,
+    "precio_actual_hoy": 870.0,
+    "diff_abs": 331.0,
+    "diff_pct": 61.41
+  },
+  {
+    "product_id": "481245",
+    "nombre": "Mozzarella bocconcino Arrivata 150 g.",
+    "marca": "Arrivata",
+    "categoria": "Quesos",
+    "precio_antes": 2990.0,
+    "precio_hoy": 4450.0,
+    "precio_actual_hoy": 4450.0,
+    "diff_abs": 1460.0,
+    "diff_pct": 48.83
   },
   {
     "product_id": "686906",
@@ -132,6 +176,17 @@
     "diff_pct": 47.46
   },
   {
+    "product_id": "8352",
+    "nombre": "Piña comercial x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1999.0,
+    "precio_hoy": 2899.0,
+    "precio_actual_hoy": 2899.0,
+    "diff_abs": 900.0,
+    "diff_pct": 45.02
+  },
+  {
     "product_id": "154564",
     "nombre": "Piña Dole x kg.",
     "marca": "Dole",
@@ -143,80 +198,25 @@
     "diff_pct": 45.02
   },
   {
-    "product_id": "8352",
-    "nombre": "Piña comercial x kg.",
-    "marca": "Genérico",
-    "categoria": "Frutas",
-    "precio_antes": 1999.0,
-    "precio_hoy": 2899.0,
-    "precio_actual_hoy": 1799.0,
-    "diff_abs": 900.0,
-    "diff_pct": 45.02
+    "product_id": "709971",
+    "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
+    "marca": "Nosotras",
+    "categoria": "Protección femenina",
+    "precio_antes": 3865.0,
+    "precio_hoy": 5555.0,
+    "precio_actual_hoy": 4166.25,
+    "diff_abs": 1690.0,
+    "diff_pct": 43.73
   },
   {
-    "product_id": "688908",
-    "nombre": "Máquina de afeitar Gillette sensitive venus x 1 uni",
-    "marca": "Gillette",
-    "categoria": "Cuidado corporal",
-    "precio_antes": 11249.0,
-    "precio_hoy": 15999.0,
-    "precio_actual_hoy": 11999.25,
-    "diff_abs": 4750.0,
-    "diff_pct": 42.23
-  },
-  {
-    "product_id": "712700",
-    "nombre": "Difusor Carrefour Home incense 150 ml estuche con varillas",
-    "marca": "Carrefour Home",
-    "categoria": "Desodorantes de ambiente",
-    "precio_antes": 8590.0,
-    "precio_hoy": 11990.0,
-    "precio_actual_hoy": 11990.0,
-    "diff_abs": 3400.0,
-    "diff_pct": 39.58
-  },
-  {
-    "product_id": "654386",
-    "nombre": "Leche descremada larga vida Las Tres Niñas reducida en lactosa 1 l.",
-    "marca": "Las Tres Niñas",
-    "categoria": "Leches",
-    "precio_antes": 1899.0,
-    "precio_hoy": 2620.0,
-    "precio_actual_hoy": 2620.0,
-    "diff_abs": 721.0,
-    "diff_pct": 37.97
-  },
-  {
-    "product_id": "687365",
-    "nombre": "Vino tinto Malbec Merlot H.J Fabre 750 ml",
-    "marca": "Hj",
-    "categoria": "Vinos",
-    "precio_antes": 10600.0,
-    "precio_hoy": 14260.0,
-    "precio_actual_hoy": 14260.0,
-    "diff_abs": 3660.0,
-    "diff_pct": 34.53
-  },
-  {
-    "product_id": "480150",
-    "nombre": "Bizcochuelo sin TACC chocolate Kapac 500 g.",
-    "marca": "Kapac",
-    "categoria": "Repostería y postres",
-    "precio_antes": 3950.0,
-    "precio_hoy": 5290.0,
-    "precio_actual_hoy": 5290.0,
-    "diff_abs": 1340.0,
-    "diff_pct": 33.92
-  },
-  {
-    "product_id": "550350",
-    "nombre": "Bizcochuelo de vainilla con chips Emeth 450 g.",
-    "marca": "Emeth",
-    "categoria": "Repostería y postres",
-    "precio_antes": 2685.0,
-    "precio_hoy": 3480.0,
-    "precio_actual_hoy": 3480.0,
-    "diff_abs": 795.0,
-    "diff_pct": 29.61
+    "product_id": "395723",
+    "nombre": "Insecticida Cuca Trap mata cucarachas cebo exterminador 8 u.",
+    "marca": "Cuca Trap",
+    "categoria": "Insecticidas",
+    "precio_antes": 6290.0,
+    "precio_hoy": 8999.0,
+    "precio_actual_hoy": 8999.0,
+    "diff_abs": 2709.0,
+    "diff_pct": 43.07
   }
 ]

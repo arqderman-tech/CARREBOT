@@ -1,95 +1,84 @@
 {
-  "fecha": "20260319",
-  "total_productos": 24947,
-  "variacion_dia": 0.1,
-  "variacion_7d": 0.29,
+  "fecha": "20260320",
+  "total_productos": 24955,
+  "variacion_dia": 0.08,
+  "variacion_7d": 0.34,
   "variacion_mes": null,
   "variacion_6m": null,
   "variacion_anio": null,
   "categorias_dia": [
     {
       "categoria": "Almacén",
-      "variacion_pct_promedio": 0.03,
-      "productos_subieron": 33,
-      "productos_bajaron": 9,
-      "productos_sin_cambio": 9418,
-      "total_productos": 9460
+      "variacion_pct_promedio": 0.02,
+      "productos_subieron": 20,
+      "productos_bajaron": 19,
+      "productos_sin_cambio": 9435,
+      "total_productos": 9474
     },
     {
       "categoria": "Frescos",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 115,
-      "productos_bajaron": 33,
-      "productos_sin_cambio": 3207,
-      "total_productos": 3355
+      "variacion_pct_promedio": 0.01,
+      "productos_subieron": 76,
+      "productos_bajaron": 60,
+      "productos_sin_cambio": 3244,
+      "total_productos": 3380
     },
     {
       "categoria": "Congelados",
-      "variacion_pct_promedio": 0.44,
-      "productos_subieron": 67,
-      "productos_bajaron": 2,
-      "productos_sin_cambio": 970,
-      "total_productos": 1039
+      "variacion_pct_promedio": 0.03,
+      "productos_subieron": 16,
+      "productos_bajaron": 7,
+      "productos_sin_cambio": 1023,
+      "total_productos": 1046
     },
     {
       "categoria": "Bebidas Con Alcohol",
-      "variacion_pct_promedio": 0.16,
-      "productos_subieron": 61,
-      "productos_bajaron": 10,
-      "productos_sin_cambio": 2446,
-      "total_productos": 2517
+      "variacion_pct_promedio": 0.04,
+      "productos_subieron": 25,
+      "productos_bajaron": 4,
+      "productos_sin_cambio": 2491,
+      "total_productos": 2520
     },
     {
       "categoria": "Bebidas Sin Alcohol",
-      "variacion_pct_promedio": 0.4,
-      "productos_subieron": 64,
-      "productos_bajaron": 3,
-      "productos_sin_cambio": 1129,
-      "total_productos": 1196
+      "variacion_pct_promedio": -0.01,
+      "productos_subieron": 5,
+      "productos_bajaron": 9,
+      "productos_sin_cambio": 1183,
+      "total_productos": 1197
     },
     {
       "categoria": "Limpieza",
-      "variacion_pct_promedio": 0.02,
-      "productos_subieron": 28,
+      "variacion_pct_promedio": 0.27,
+      "productos_subieron": 117,
       "productos_bajaron": 19,
-      "productos_sin_cambio": 2522,
-      "total_productos": 2569
+      "productos_sin_cambio": 2435,
+      "total_productos": 2571
     },
     {
       "categoria": "Cuidado Personal",
-      "variacion_pct_promedio": 0.04,
-      "productos_subieron": 15,
-      "productos_bajaron": 9,
-      "productos_sin_cambio": 4722,
-      "total_productos": 4746
+      "variacion_pct_promedio": 0.18,
+      "productos_subieron": 189,
+      "productos_bajaron": 48,
+      "productos_sin_cambio": 4518,
+      "total_productos": 4755
     }
   ],
   "ranking_baja_dia": [
     {
-      "product_id": "764658",
-      "nombre": "Balde Fiorentina anatómico",
-      "marca": "Fiorentina",
-      "categoria": "Artículos de limpieza",
-      "precio_antes": 18900.0,
-      "precio_hoy": 9877.0,
-      "precio_actual_hoy": 9877.0,
-      "diff_abs": -9023.0,
-      "diff_pct": -47.74
+      "product_id": "546704",
+      "nombre": "Antitranspirante Veritas crema clásico 60 g.",
+      "marca": "Véritas",
+      "categoria": "Antitranspirantes",
+      "precio_antes": 3169.0,
+      "precio_hoy": 1949.0,
+      "precio_actual_hoy": 1949.0,
+      "diff_abs": -1220.0,
+      "diff_pct": -38.5
     },
     {
-      "product_id": "766368",
-      "nombre": "Queso parmigiano reggiano Brescialat 150 grs",
-      "marca": "Brescialat",
-      "categoria": "Quesos",
-      "precio_antes": 11400.0,
-      "precio_hoy": 6900.0,
-      "precio_actual_hoy": 6900.0,
-      "diff_abs": -4500.0,
-      "diff_pct": -39.47
-    },
-    {
-      "product_id": "689279",
-      "nombre": "Sidra 1930 Saccani demi sec lata 355 cc.",
+      "product_id": "689283",
+      "nombre": "Sidra 1930 Saccani pera lata 355 cc.",
       "marca": "1930 Saccani",
       "categoria": "Espumantes y sidras",
       "precio_antes": 3825.0,
@@ -99,84 +88,95 @@
       "diff_pct": -34.64
     },
     {
-      "product_id": "766367",
-      "nombre": "Queso grana padano Brescialat 150 grs",
-      "marca": "Brescialat",
-      "categoria": "Quesos",
-      "precio_antes": 9900.0,
-      "precio_hoy": 6900.0,
-      "precio_actual_hoy": 6900.0,
-      "diff_abs": -3000.0,
-      "diff_pct": -30.3
-    },
-    {
-      "product_id": "767077",
-      "nombre": "Ricotta entera Bulnez 500 grs",
-      "marca": "Bulnez",
-      "categoria": "Quesos",
-      "precio_antes": 4190.0,
-      "precio_hoy": 2990.0,
-      "precio_actual_hoy": 2990.0,
-      "diff_abs": -1200.0,
-      "diff_pct": -28.64
-    },
-    {
-      "product_id": "767079",
-      "nombre": "Ricotta semimagra Bulnez 500 grs",
-      "marca": "Bulnez",
-      "categoria": "Quesos",
-      "precio_antes": 4190.0,
-      "precio_hoy": 2990.0,
-      "precio_actual_hoy": 2990.0,
-      "diff_abs": -1200.0,
-      "diff_pct": -28.64
-    },
-    {
-      "product_id": "407887",
-      "nombre": "Cabo metálico Vileda rojo",
-      "marca": "Vileda",
-      "categoria": "Artículos de limpieza",
-      "precio_antes": 6019.0,
-      "precio_hoy": 4514.0,
-      "precio_actual_hoy": 4514.0,
-      "diff_abs": -1505.0,
-      "diff_pct": -25.0
-    },
-    {
-      "product_id": "650321",
-      "nombre": "Leche entera larga vida Manfrey 1 l.",
-      "marca": "Manfrey",
-      "categoria": "Leches",
-      "precio_antes": 1739.0,
-      "precio_hoy": 1350.0,
-      "precio_actual_hoy": 1350.0,
-      "diff_abs": -389.0,
-      "diff_pct": -22.37
-    },
-    {
-      "product_id": "61792",
-      "nombre": "Berro Shim Shim 150 grs",
-      "marca": "Shim Shim",
+      "product_id": "735054",
+      "nombre": "Lechuga capuchina x kg.",
+      "marca": "Genérico",
       "categoria": "Verduras",
-      "precio_antes": 1390.0,
-      "precio_hoy": 1150.0,
-      "precio_actual_hoy": 1150.0,
-      "diff_abs": -240.0,
-      "diff_pct": -17.27
+      "precio_antes": 2990.0,
+      "precio_hoy": 1990.0,
+      "precio_actual_hoy": 1990.0,
+      "diff_abs": -1000.0,
+      "diff_pct": -33.44
     },
     {
-      "product_id": "757160",
-      "nombre": "Whisky Jim Beam white label 750 ml",
-      "marca": "Jim Beam",
-      "categoria": "Bebidas blancas",
-      "precio_antes": 55549.0,
-      "precio_hoy": 47219.0,
-      "precio_actual_hoy": 47219.0,
-      "diff_abs": -8330.0,
-      "diff_pct": -15.0
+      "product_id": "546710",
+      "nombre": "Antitranspirante Veritas crema esencial 60 g.",
+      "marca": "Véritas",
+      "categoria": "Antitranspirantes",
+      "precio_antes": 2695.0,
+      "precio_hoy": 1949.0,
+      "precio_actual_hoy": 1949.0,
+      "diff_abs": -746.0,
+      "diff_pct": -27.68
+    },
+    {
+      "product_id": "547621",
+      "nombre": "Salame 66 x kg.",
+      "marca": "66",
+      "categoria": "Fiambres",
+      "precio_antes": 20430.0,
+      "precio_hoy": 14805.0,
+      "precio_actual_hoy": 14805.0,
+      "diff_abs": -5625.0,
+      "diff_pct": -27.53
+    },
+    {
+      "product_id": "549605",
+      "nombre": "Polvo desodorante masculino Veritas 180 g.",
+      "marca": "Véritas",
+      "categoria": "Cuidado corporal",
+      "precio_antes": 3069.0,
+      "precio_hoy": 2299.0,
+      "precio_actual_hoy": 2299.0,
+      "diff_abs": -770.0,
+      "diff_pct": -25.09
+    },
+    {
+      "product_id": "564731",
+      "nombre": "Jabón de tocador Estilo Spa coco 100 g.",
+      "marca": "Estilo Spa",
+      "categoria": "Jabones",
+      "precio_antes": 1595.0,
+      "precio_hoy": 1229.0,
+      "precio_actual_hoy": 1229.0,
+      "diff_abs": -366.0,
+      "diff_pct": -22.95
+    },
+    {
+      "product_id": "643021",
+      "nombre": "Tostadas Tosti clásicas 140 g.",
+      "marca": "Tosti",
+      "categoria": "Galletitas y tostadas",
+      "precio_antes": 2490.0,
+      "precio_hoy": 1919.0,
+      "precio_actual_hoy": 1919.0,
+      "diff_abs": -571.0,
+      "diff_pct": -22.93
+    },
+    {
+      "product_id": "527781",
+      "nombre": "Bolsas para residuos Asurín mediana verdes 50x70cm plana x 30 u.",
+      "marca": "Asurín",
+      "categoria": "Artículos de limpieza",
+      "precio_antes": 7490.0,
+      "precio_hoy": 5803.0,
+      "precio_actual_hoy": 5803.0,
+      "diff_abs": -1687.0,
+      "diff_pct": -22.52
+    },
+    {
+      "product_id": "717205",
+      "nombre": "Croquetas de papa Granja del Sol 400 g.",
+      "marca": "Granja Del Sol",
+      "categoria": "Nuggets y rebozados",
+      "precio_antes": 8469.0,
+      "precio_hoy": 6689.0,
+      "precio_actual_hoy": 6689.0,
+      "diff_abs": -1780.0,
+      "diff_pct": -21.02
     }
   ],
-  "productos_subieron_dia": 383,
-  "productos_bajaron_dia": 85,
-  "productos_sin_cambio_dia": 24414
+  "productos_subieron_dia": 448,
+  "productos_bajaron_dia": 166,
+  "productos_sin_cambio_dia": 24329
 }
