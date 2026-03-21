@@ -1,36 +1,25 @@
 [
   {
-    "product_id": "674162",
-    "nombre": "Galletitas Rellenas Oreo Original 182.5 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 474.0,
-    "precio_hoy": 3335.0,
-    "precio_actual_hoy": 2167.75,
-    "diff_abs": 2861.0,
-    "diff_pct": 603.59
-  },
-  {
     "product_id": "683437",
     "nombre": "Madalenas 9 de Oro vainilla 200 g.",
     "marca": "9 De Oro",
     "categoria": "Budines y magdalenas",
     "precio_antes": 704.0,
-    "precio_hoy": 2765.0,
-    "precio_actual_hoy": 2765.0,
-    "diff_abs": 2061.0,
-    "diff_pct": 292.76
+    "precio_hoy": 2679.0,
+    "precio_actual_hoy": 2679.0,
+    "diff_abs": 1975.0,
+    "diff_pct": 280.54
   },
   {
-    "product_id": "591288",
-    "nombre": "Galletitas Oreo 3 x 117 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1779.0,
-    "precio_hoy": 5850.0,
-    "precio_actual_hoy": 3802.5,
-    "diff_abs": 4071.0,
-    "diff_pct": 228.84
+    "product_id": "735038",
+    "nombre": "Echalotte x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 9899.0,
+    "precio_hoy": 25000.0,
+    "precio_actual_hoy": 25000.0,
+    "diff_abs": 15101.0,
+    "diff_pct": 152.55
   },
   {
     "product_id": "632466",
@@ -55,6 +44,17 @@
     "diff_pct": 88.97
   },
   {
+    "product_id": "705179",
+    "nombre": "Almohaditas cereal Nutri Foods rellenas limón 180 g.",
+    "marca": "Nutri Foods",
+    "categoria": "Cereales y barritas",
+    "precio_antes": 1850.0,
+    "precio_hoy": 3455.0,
+    "precio_actual_hoy": 3455.0,
+    "diff_abs": 1605.0,
+    "diff_pct": 86.76
+  },
+  {
     "product_id": "591612",
     "nombre": "Fideos fusilli negro San Giorgio 500 g.",
     "marca": "San Giorgio",
@@ -77,48 +77,15 @@
     "diff_pct": 81.46
   },
   {
-    "product_id": "559754",
-    "nombre": "Burrata Arrivata 250 g.",
-    "marca": "Arrivata",
-    "categoria": "Quesos",
-    "precio_antes": 5990.0,
-    "precio_hoy": 10500.0,
-    "precio_actual_hoy": 10500.0,
-    "diff_abs": 4510.0,
-    "diff_pct": 75.29
-  },
-  {
-    "product_id": "591989",
-    "nombre": "Galletitas Oreo chocolate rellenas chocolate 117 g.",
-    "marca": "Oreo",
+    "product_id": "754968",
+    "nombre": "Galletitas dulces Carrefour Classic anillo sabor coco 300 grs",
+    "marca": "Carrefour",
     "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 1598.35,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
-  },
-  {
-    "product_id": "591379",
-    "nombre": "Galletitas Oreo golden 117 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 1598.35,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
-  },
-  {
-    "product_id": "674161",
-    "nombre": "Galletitas Óreo 118 g.",
-    "marca": "Oreo",
-    "categoria": "Galletitas y tostadas",
-    "precio_antes": 1429.0,
-    "precio_hoy": 2459.0,
-    "precio_actual_hoy": 1598.35,
-    "diff_abs": 1030.0,
-    "diff_pct": 72.08
+    "precio_antes": 799.0,
+    "precio_hoy": 1390.0,
+    "precio_actual_hoy": 1237.1,
+    "diff_abs": 591.0,
+    "diff_pct": 73.97
   },
   {
     "product_id": "592075",
@@ -154,26 +121,48 @@
     "diff_pct": 61.41
   },
   {
-    "product_id": "481245",
-    "nombre": "Mozzarella bocconcino Arrivata 150 g.",
-    "marca": "Arrivata",
-    "categoria": "Quesos",
-    "precio_antes": 2990.0,
-    "precio_hoy": 4450.0,
-    "precio_actual_hoy": 4450.0,
-    "diff_abs": 1460.0,
-    "diff_pct": 48.83
+    "product_id": "705170",
+    "nombre": "Copos azucarados Nutri Foods zucar flakes 400 g.",
+    "marca": "Nutri Foods",
+    "categoria": "Cereales y barritas",
+    "precio_antes": 2459.0,
+    "precio_hoy": 3905.0,
+    "precio_actual_hoy": 3905.0,
+    "diff_abs": 1446.0,
+    "diff_pct": 58.8
   },
   {
-    "product_id": "686906",
-    "nombre": "Pimienta blanca Dicomere sin TACC en grano sobre 30 g.",
-    "marca": "Dicomere",
-    "categoria": "Sal aderezos y saborizadores",
-    "precio_antes": 1675.0,
-    "precio_hoy": 2470.0,
-    "precio_actual_hoy": 2470.0,
-    "diff_abs": 795.0,
-    "diff_pct": 47.46
+    "product_id": "705176",
+    "nombre": "Anillos frutales Nutri Foods nutri rings 160 g.",
+    "marca": "Nutri Foods",
+    "categoria": "Cereales y barritas",
+    "precio_antes": 1709.0,
+    "precio_hoy": 2619.0,
+    "precio_actual_hoy": 2619.0,
+    "diff_abs": 910.0,
+    "diff_pct": 53.25
+  },
+  {
+    "product_id": "705177",
+    "nombre": "Bolitas chocolate Nutri Foods nutri chok 200 g.",
+    "marca": "Nutri Foods",
+    "categoria": "Cereales y barritas",
+    "precio_antes": 2000.0,
+    "precio_hoy": 3039.0,
+    "precio_actual_hoy": 3039.0,
+    "diff_abs": 1039.0,
+    "diff_pct": 51.95
+  },
+  {
+    "product_id": "735054",
+    "nombre": "Lechuga capuchina x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1990.0,
+    "precio_hoy": 2990.0,
+    "precio_actual_hoy": 2990.0,
+    "diff_abs": 1000.0,
+    "diff_pct": 50.25
   },
   {
     "product_id": "8352",
@@ -182,7 +171,7 @@
     "categoria": "Frutas",
     "precio_antes": 1999.0,
     "precio_hoy": 2899.0,
-    "precio_actual_hoy": 2899.0,
+    "precio_actual_hoy": 2449.0,
     "diff_abs": 900.0,
     "diff_pct": 45.02
   },
@@ -198,17 +187,6 @@
     "diff_pct": 45.02
   },
   {
-    "product_id": "709971",
-    "nombre": "Toalla Nosotras ultra invisible rapisec CURV 14 uni",
-    "marca": "Nosotras",
-    "categoria": "Protección femenina",
-    "precio_antes": 3865.0,
-    "precio_hoy": 5555.0,
-    "precio_actual_hoy": 4166.25,
-    "diff_abs": 1690.0,
-    "diff_pct": 43.73
-  },
-  {
     "product_id": "395723",
     "nombre": "Insecticida Cuca Trap mata cucarachas cebo exterminador 8 u.",
     "marca": "Cuca Trap",
@@ -218,5 +196,27 @@
     "precio_actual_hoy": 8999.0,
     "diff_abs": 2709.0,
     "diff_pct": 43.07
+  },
+  {
+    "product_id": "688908",
+    "nombre": "Máquina de afeitar Gillette sensitive venus x 1 uni",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 11249.0,
+    "precio_hoy": 15999.0,
+    "precio_actual_hoy": 11999.25,
+    "diff_abs": 4750.0,
+    "diff_pct": 42.23
+  },
+  {
+    "product_id": "712700",
+    "nombre": "Difusor Carrefour Home incense 150 ml estuche con varillas",
+    "marca": "Carrefour Home",
+    "categoria": "Desodorantes de ambiente",
+    "precio_antes": 8590.0,
+    "precio_hoy": 11990.0,
+    "precio_actual_hoy": 11990.0,
+    "diff_abs": 3400.0,
+    "diff_pct": 39.58
   }
 ]

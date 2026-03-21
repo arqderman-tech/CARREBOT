@@ -1,0 +1,222 @@
+[
+  {
+    "product_id": "696488",
+    "nombre": "Cepillo dental Pro doble acción x 3 uni",
+    "marca": "Pro",
+    "categoria": "Cuidado dental",
+    "precio_antes": 786.0,
+    "precio_hoy": 10519.0,
+    "precio_actual_hoy": 10519.0,
+    "diff_abs": 9733.0,
+    "diff_pct": 1238.3
+  },
+  {
+    "product_id": "674162",
+    "nombre": "Galletitas Rellenas Oreo Original 182.5 g.",
+    "marca": "Oreo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 474.0,
+    "precio_hoy": 3335.0,
+    "precio_actual_hoy": 2167.75,
+    "diff_abs": 2861.0,
+    "diff_pct": 603.59
+  },
+  {
+    "product_id": "8350",
+    "nombre": "Mango x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1665.0,
+    "precio_hoy": 6499.0,
+    "precio_actual_hoy": 6499.0,
+    "diff_abs": 4834.0,
+    "diff_pct": 290.33
+  },
+  {
+    "product_id": "683437",
+    "nombre": "Madalenas 9 de Oro vainilla 200 g.",
+    "marca": "9 De Oro",
+    "categoria": "Budines y magdalenas",
+    "precio_antes": 704.0,
+    "precio_hoy": 2679.0,
+    "precio_actual_hoy": 2679.0,
+    "diff_abs": 1975.0,
+    "diff_pct": 280.54
+  },
+  {
+    "product_id": "575805",
+    "nombre": "Repuestos para máquina de afeitar Gillette Venus breeze 2 u.",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 9359.0,
+    "precio_hoy": 33900.0,
+    "precio_actual_hoy": 25425.0,
+    "diff_abs": 24541.0,
+    "diff_pct": 262.22
+  },
+  {
+    "product_id": "8354",
+    "nombre": "Palta Hass",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2755.0,
+    "precio_hoy": 9199.0,
+    "precio_actual_hoy": 9199.0,
+    "diff_abs": 6444.0,
+    "diff_pct": 233.9
+  },
+  {
+    "product_id": "591288",
+    "nombre": "Galletitas Oreo 3 x 117 g.",
+    "marca": "Oreo",
+    "categoria": "Galletitas y tostadas",
+    "precio_antes": 1779.0,
+    "precio_hoy": 5850.0,
+    "precio_actual_hoy": 3802.5,
+    "diff_abs": 4071.0,
+    "diff_pct": 228.84
+  },
+  {
+    "product_id": "718864",
+    "nombre": "Berenjena blanca x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1600.0,
+    "precio_hoy": 4249.0,
+    "precio_actual_hoy": 4249.0,
+    "diff_abs": 2649.0,
+    "diff_pct": 165.56
+  },
+  {
+    "product_id": "718907",
+    "nombre": "Pimiento rojo x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2600.0,
+    "precio_hoy": 6789.0,
+    "precio_actual_hoy": 6789.0,
+    "diff_abs": 4189.0,
+    "diff_pct": 161.12
+  },
+  {
+    "product_id": "735038",
+    "nombre": "Echalotte x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 9899.0,
+    "precio_hoy": 25000.0,
+    "precio_actual_hoy": 25000.0,
+    "diff_abs": 15101.0,
+    "diff_pct": 152.55
+  },
+  {
+    "product_id": "632466",
+    "nombre": "Cerveza rubia Brahma 970 ml",
+    "marca": "Brahma",
+    "categoria": "Cervezas",
+    "precio_antes": 2580.0,
+    "precio_hoy": 6300.0,
+    "precio_actual_hoy": 6300.0,
+    "diff_abs": 3720.0,
+    "diff_pct": 144.19
+  },
+  {
+    "product_id": "602765",
+    "nombre": "Naranja ombligo premium x kg.",
+    "marca": "Genérico",
+    "categoria": "Frutas",
+    "precio_antes": 1490.0,
+    "precio_hoy": 3499.0,
+    "precio_actual_hoy": 3499.0,
+    "diff_abs": 2009.0,
+    "diff_pct": 134.83
+  },
+  {
+    "product_id": "697687",
+    "nombre": "Leche en polvo entera Purisima avant 800 g.",
+    "marca": "Purísima",
+    "categoria": "Leches",
+    "precio_antes": 19269.0,
+    "precio_hoy": 43560.0,
+    "precio_actual_hoy": 43560.0,
+    "diff_abs": 24291.0,
+    "diff_pct": 126.06
+  },
+  {
+    "product_id": "718920",
+    "nombre": "Aji vinagre x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2000.0,
+    "precio_hoy": 4499.0,
+    "precio_actual_hoy": 4499.0,
+    "diff_abs": 2499.0,
+    "diff_pct": 124.95
+  },
+  {
+    "product_id": "575802",
+    "nombre": "Máquina de afeitar recargable Gillette Venus breeze + 1 repuesto",
+    "marca": "Gillette",
+    "categoria": "Cuidado corporal",
+    "precio_antes": 15090.0,
+    "precio_hoy": 33900.0,
+    "precio_actual_hoy": 25425.0,
+    "diff_abs": 18810.0,
+    "diff_pct": 124.65
+  },
+  {
+    "product_id": "775441",
+    "nombre": "Huevo de pascuas Kinder Playmobil 100 grs",
+    "marca": "Kinder",
+    "categoria": "Golosinas y chocolates",
+    "precio_antes": 9900.0,
+    "precio_hoy": 21900.0,
+    "precio_actual_hoy": 21900.0,
+    "diff_abs": 12000.0,
+    "diff_pct": 121.21
+  },
+  {
+    "product_id": "718869",
+    "nombre": "Berenjena rayada x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1400.0,
+    "precio_hoy": 3059.0,
+    "precio_actual_hoy": 3059.0,
+    "diff_abs": 1659.0,
+    "diff_pct": 118.5
+  },
+  {
+    "product_id": "718903",
+    "nombre": "Pepino x kg",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 1000.0,
+    "precio_hoy": 2119.0,
+    "precio_actual_hoy": 2119.0,
+    "diff_abs": 1119.0,
+    "diff_pct": 111.9
+  },
+  {
+    "product_id": "607357",
+    "nombre": "Choclo crema blanca Inca en lata 350 g.",
+    "marca": "Inca",
+    "categoria": "Enlatados y Conservas",
+    "precio_antes": 849.0,
+    "precio_hoy": 1799.0,
+    "precio_actual_hoy": 1799.0,
+    "diff_abs": 950.0,
+    "diff_pct": 111.9
+  },
+  {
+    "product_id": "735120",
+    "nombre": "Lechuga morada x kg.",
+    "marca": "Genérico",
+    "categoria": "Verduras",
+    "precio_antes": 2399.0,
+    "precio_hoy": 4990.0,
+    "precio_actual_hoy": 4990.0,
+    "diff_abs": 2591.0,
+    "diff_pct": 108.0
+  }
+]
